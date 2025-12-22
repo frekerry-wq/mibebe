@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Para Mi Amor ❤️</title>
+
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<!-- MÚSICA DE FONDO -->
+<audio id="musica" loop>
+  <source src="https://cdn.pixabay.com/audio/2022/03/15/audio_0a0c0f3a4b.mp3" type="audio/mpeg">
+  Tu navegador no soporta audio.
+</audio>
+
+<button id="btnMusica" class="neon-btn musica-btn">
+  🎶 Música
+</button>
+<body>
+
+<div id="bienvenida" class="bienvenida">
+  <div class="bienvenida-contenido">
+    <p>Gracias por existir, mi niña hermosa 🥺❤️</p>
+    <button id="cerrarBienvenida">Entrar 💖</button>
+  </div>
+</div>
+
+<canvas id="estrellas"></canvas>
+<div id="corazones"></div>
+
+<div class="contenedor">
+
+  <h1 class="neon">Para la persona más hermosa 💖</h1>
+
+  <p class="mensaje">
+    Desde que llegaste a mi vida, todo tiene más color.
+    Te amo más de lo que imaginas.
+  </p>
+
+  <p id="sentimiento" class="neon-text"></p>
+  <p id="contador" class="neon-text"></p>
+
+  <!-- CARRUSEL -->
+  <div class="carousel">
+    <button class="carousel-btn left" id="prev">❮</button>
+    <div class="carousel-images">
+      <img src="imagenes/ella1.jpg" class="carousel-img active">
+      <img src="imagenes/ella2.jpg" class="carousel-img">
+      <img src="imagenes/ella3.jpg" class="carousel-img">
+      <img src="imagenes/ella4.jpg" class="carousel-img">
+    </div>
+    <button class="carousel-btn right" id="next">❯</button>
+  </div>
+
+  <!-- SECCIONES EMOCIONALES -->
+  <button class="neon-btn" onclick="mostrarPorque()">¿Por qué te amo? ❤️</button>
+  <p id="porqueTeAmo" class="mensaje"></p>
+  <p id="reaccion" class="reaccion"></p>
+
+  <button class="neon-btn" onclick="mostrarFuturo()">Nuestro futuro 💍</button>
+  <div id="futuro"></div>
+
+  <button class="neon-btn" onclick="mostrarPromesa()">Algo importante…</button>
+  <p id="promesa" class="mensaje"></p>
+
+  <!-- CARTAS -->
+  <div class="botones-cartas">
+    <button class="neon-btn" onclick="abrirCarta('mes')">Carta de Nuestro Mes 💌</button>
+    <button class="neon-btn" onclick="abrirCarta('navidad')">Carta de Navidad 🎄</button>
+  </div>
+</div>
+
+<!-- MODAL CARTA -->
+<div id="modalCarta" class="modal">
+  <div class="papel">
+    <button class="cerrarBtn" onclick="cerrarCarta()">Cerrar ✖</button>
+    <div id="textoCarta"></div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
+
+
+
