@@ -738,7 +738,8 @@ def main():
                  pb.LowShelfFilter(cutoff_frequency_hz=180, gain_db=1.5), pb.PeakFilter(cutoff_frequency_hz=3200, gain_db=2.0, q=0.9)])
     # suavizar ducking (ataque/release ~0.35 s)
     k = int(0.35 * SR)
-    duck = np.convolve(duck, np.ones(k) / k, mode="same")
+    cs = np.concatenate([[0.0], np.cumsum(np.concatenate([np.full(k // 2, duck[0]), duck, np.full(k - k // 2, duck[-1])]))])
+    duck = (cs[k:] - cs[:-k])[: len(duck)] / k  # media móvil O(N)
     music_gain = 0.16 + 0.62 * duck   # bajo la voz ≈ -16 dB, en pausas casi a tope
 
     # 4) sfx
