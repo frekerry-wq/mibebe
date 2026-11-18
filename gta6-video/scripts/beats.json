@@ -1,0 +1,186 @@
+{
+  "s00_hook": {
+    "bg": "sunset",
+    "beats": [
+      {"at": null, "type": "countdown", "props": {"label": "MAÑANA", "date": "19 · 11 · 2026", "time": "00:00"}, "sfx": "riser"},
+      {"at": "Trece años", "type": "slam", "props": {"lines": ["13", "AÑOS"], "accent": "pink"}, "sfx": "impact"},
+      {"at": "Dos retrasos", "type": "slam", "props": {"lines": ["2", "RETRASOS"], "accent": "orange"}, "sfx": "impact"},
+      {"at": "Una filtración", "type": "slam", "props": {"lines": ["1", "FILTRACIÓN"], "accent": "teal", "glitch": true}, "sfx": "glitch"},
+      {"at": "Y hoy, a menos", "type": "countdown", "props": {"label": "FALTAN MENOS DE", "date": "24 HORAS", "time": "23:59", "ticking": true}, "sfx": "tick"},
+      {"at": "noventa y nueve", "type": "score", "props": {"value": 99, "label": "METACRITIC"}, "sfx": "boom"},
+      {"at": "GTA Seis ya", "type": "slam", "props": {"lines": ["GTA 6"], "script": "ya está aquí", "accent": "gradient"}, "sfx": "impact"},
+      {"at": "Y en este video", "type": "list", "props": {"variant": "agenda", "title": "EN ESTE VIDEO", "items": [
+        {"text": "La historia completa", "at": "cómo llegamos"},
+        {"text": "Qué dicen las reseñas", "at": "qué dicen"},
+        {"text": "Lo que debes saber antes de jugar", "at": "todo lo que"}
+      ]}, "sfx": "whoosh"},
+      {"at": "Abróchate el cinturón", "type": "speed", "props": {"text": "NOS VAMOS A LEONIDA"}, "sfx": "riser"}
+    ]
+  },
+  "s01_silencio": {
+    "bg": "sunset",
+    "beats": [
+      {"at": null, "type": "year", "props": {"year": "2013", "label": "SEPTIEMBRE"}, "sfx": "whoosh"},
+      {"at": "Ese mes salió", "type": "slam", "props": {"lines": ["GTA V"], "sub": "17 · 09 · 2013", "accent": "gradient"}, "sfx": "impact"},
+      {"at": "ochocientos millones", "type": "number", "props": {"value": 800000000, "prefix": "$", "suffix": "+", "label": "EN SUS PRIMERAS 24 HORAS", "accent": "green"}, "sfx": "cash"},
+      {"at": "Ni una película", "type": "list", "props": {"variant": "stamps", "title": "NADIE HABÍA HECHO ALGO ASÍ", "items": [
+        {"text": "PELÍCULA", "at": "Ni una película"},
+        {"text": "DISCO", "at": "Ni un disco"},
+        {"text": "NADA", "at": "Nada"}
+      ]}, "sfx": null},
+      {"at": "nunca dejó de venderse", "type": "list", "props": {"variant": "chips", "title": "3 GENERACIONES DE CONSOLAS", "items": [
+        {"text": "PS3 · XBOX 360", "at": "tres generaciones"},
+        {"text": "PS4 · XBOX ONE", "at": "de consolas"},
+        {"text": "PS5 · SERIES X|S", "at": "y hoy"}
+      ]}, "sfx": "whoosh"},
+      {"at": "doscientos treinta millones", "type": "number", "props": {"value": 230000000, "suffix": "+", "label": "COPIAS VENDIDAS", "accent": "pink"}, "sfx": "boom"},
+      {"at": "Mientras tanto", "type": "money", "props": {"title": "GTA ONLINE", "sub": "UNA MÁQUINA DE IMPRIMIR DINERO"}, "sfx": "cash"},
+      {"at": "Pero los fans", "type": "years", "props": {"from": 2014, "to": 2021, "label": "SILENCIO ABSOLUTO"}, "sfx": "whoosh"},
+      {"at": "Cada rumor", "type": "list", "props": {"variant": "rumors", "title": "", "items": [
+        {"text": "RUMOR", "at": "Cada rumor"},
+        {"text": "¿PISTA?", "at": "supuesta pista"},
+        {"text": "NADA", "at": "terminaba en nada"}
+      ]}, "sfx": null},
+      {"at": "Hasta que en febrero", "type": "statement", "props": {"kicker": "FEBRERO 2022 · OFICIAL", "title": "CONFIRMADO", "body": "El próximo Grand Theft Auto está en desarrollo"}, "sfx": "notify"},
+      {"at": "Lo que nadie esperaba", "type": "slam", "props": {"lines": ["LO QUE NADIE", "ESPERABA..."], "accent": "red", "dark": true}, "sfx": "heartbeat"}
+    ]
+  },
+  "s02_filtracion": {
+    "bg": "night",
+    "beats": [
+      {"at": null, "type": "terminal", "props": {"date": "18 · SEPTIEMBRE · 2022", "count": 90}, "sfx": "glitch"},
+      {"at": "Gráficos sin terminar", "type": "devbuild", "props": {}, "sfx": "glitch"},
+      {"at": "Era real", "type": "breaking", "props": {"kicker": "ÚLTIMA HORA", "headline": "ROCKSTAR CONFIRMA LA FILTRACIÓN", "sub": "El mayor leak en la historia de la industria"}, "sfx": "news"},
+      {"at": "las acciones de", "type": "stock", "props": {"ticker": "TTWO", "label": "ACCIONES DE TAKE-TWO"}, "sfx": "down"},
+      {"at": "¿Y quién estaba", "type": "hacker", "props": {"stage": "who"}, "sfx": "heartbeat"},
+      {"at": "Un adolescente", "type": "hacker", "props": {"stage": "profile"}, "sfx": "impact"},
+      {"at": "Lo más surrealista", "type": "hacker", "props": {"stage": "hotel"}, "sfx": "whoosh"},
+      {"at": "Para cualquier estudio", "type": "slam", "props": {"lines": ["CATÁSTROFE"], "accent": "red", "glitch": true}, "sfx": "boom"},
+      {"at": "pero también la prueba", "type": "comments", "props": {"title": "EL MUNDO ESTABA DESESPERADO"}, "sfx": "pops"}
+    ]
+  },
+  "s03_trailer": {
+    "bg": "sunset",
+    "beats": [
+      {"at": null, "type": "player", "props": {"title": "TRÁILER 1", "sub": "Grand Theft Auto VI"}, "sfx": "whoosh"},
+      {"at": "Estaba programado", "type": "calendar", "props": {"d": "05", "m": "DIC", "y": "2023", "stampAt": "se filtró", "stamp": "FILTRADO"}, "sfx": null},
+      {"at": "así que lo", "type": "slam", "props": {"lines": ["ESTRENO", "DE GOLPE"], "sub": "en plena noche", "accent": "teal"}, "sfx": "impact"},
+      {"at": "Con Love", "type": "song", "props": {"artist": "TOM PETTY", "title": "Love Is a Long Road"}, "sfx": "tape"},
+      {"at": "volvimos a Vice", "type": "neon", "props": {"text": "Vice City", "sub": "BIENVENIDOS DE VUELTA"}, "sfx": "neon"},
+      {"at": "En veinticuatro horas", "type": "views", "props": {"value": 90000000, "label": "VISTAS EN 24 HORAS", "stamp": "RÉCORD", "stampAt": "un récord"}, "sfx": "tick"},
+      {"at": "Año y medio", "type": "player", "props": {"title": "TRÁILER 2", "sub": "MAYO 2025 · CAPTURADO EN PS5"}, "sfx": "whoosh"},
+      {"at": "Según Rockstar", "type": "number", "props": {"value": 475000000, "label": "VISTAS EN 24 HORAS", "sub": "TODAS LAS PLATAFORMAS", "accent": "orange"}, "sfx": "boom"},
+      {"at": "Y en octubre", "type": "player", "props": {"title": "TRÁILER DE LANZAMIENTO", "sub": "OCTUBRE 2026"}, "sfx": "whoosh"},
+      {"at": "Pero entre tráiler", "type": "slam", "props": {"lines": ["ALGO QUE", "DOLIÓ MÁS..."], "accent": "red", "dark": true}, "sfx": "heartbeat"}
+    ]
+  },
+  "s04_retrasos": {
+    "bg": "storm",
+    "beats": [
+      {"at": null, "type": "calendar", "props": {"d": "", "m": "VENTANA ORIGINAL", "y": "2025"}, "sfx": "whoosh"},
+      {"at": "Pero en mayo", "type": "datecross", "props": {"old": "2025", "new": "26 MAY 2026", "label": "PRIMER RETRASO"}, "sfx": "stamp"},
+      {"at": "Internet explotó", "type": "comments", "props": {"title": "INTERNET EXPLOTÓ", "mode": "memes"}, "sfx": "pops"},
+      {"at": "Y cuando todos", "type": "calendar", "props": {"d": "26", "m": "MAY", "y": "2026", "stampAt": "otro retraso", "stamp": "RETRASADO"}, "sfx": null},
+      {"at": "Seis meses más", "type": "slam", "props": {"lines": ["+6", "MESES"], "accent": "red"}, "sfx": "impact"},
+      {"at": "Nueva fecha", "type": "datecross", "props": {"old": "26 MAY 2026", "new": "19 NOV 2026", "label": "FECHA DEFINITIVA", "gold": true}, "sfx": "boom"},
+      {"at": "Rockstar pidió perdón", "type": "statement", "props": {"kicker": "ROCKSTAR GAMES · RESUMEN", "title": "PERDÓN POR LA ESPERA", "body": "Necesitamos este tiempo para pulir el juego al nivel que esperan"}, "sfx": "notify"},
+      {"at": "Mucha gente lo", "type": "slam", "props": {"lines": ["¿VALIÓ", "LA PENA?"], "accent": "gold"}, "sfx": "riser"}
+    ]
+  },
+  "s05_leonida": {
+    "bg": "sunset",
+    "beats": [
+      {"at": null, "type": "postcard", "props": {"top": "BIENVENIDOS A", "main": "Leonida"}, "sfx": "whoosh"},
+      {"at": "la versión de", "type": "map", "props": {"pins": [
+        {"id": "vice", "at": "Vice City:"},
+        {"id": "keys", "at": "Leonida Keys"},
+        {"id": "grass", "at": "Grassrivers"},
+        {"id": "port", "at": "Port Gellhorn"},
+        {"id": "ambrosia", "at": "Ambrosia"},
+        {"id": "kalaga", "at": "Mount Kalaga"}
+      ]}, "sfx": "whoosh"},
+      {"at": "Y todo está atravesado", "type": "phone", "props": {"mode": "satire"}, "sfx": "notify"},
+      {"at": "Es Florida", "type": "slam", "props": {"lines": ["FLORIDA"], "script": "llevada al extremo", "accent": "gradient"}, "sfx": "impact"},
+      {"at": "Y según la crítica", "type": "quote", "props": {"text": "Uno de los mundos abiertos más vivos que se han creado jamás", "source": "EL CONSENSO DE LA CRÍTICA"}, "sfx": "whoosh"}
+    ]
+  },
+  "s06_protas": {
+    "bg": "dusk",
+    "beats": [
+      {"at": null, "type": "duo", "props": {"stage": "intro"}, "sfx": "whoosh"},
+      {"at": "Ella es la primera", "type": "duo", "props": {"stage": "lucia", "badge": "PRIMERA PROTAGONISTA MUJER DE UN GTA MODERNO", "bullets": [
+        {"text": "Aprendió a pelear desde niña", "at": "Su padre"},
+        {"text": "Peleó por su familia", "at": "pelear por su familia"}
+      ]}, "sfx": "whoosh"},
+      {"at": "la llevó directo", "type": "mugshot", "props": {"name": "LUCIA CAMINOS", "place": "LEONIDA PENITENTIARY"}, "sfx": "shutter"},
+      {"at": "Él creció", "type": "duo", "props": {"stage": "jason", "bullets": [
+        {"text": "Creció entre estafadores", "at": "Él creció"},
+        {"text": "Ex militar", "at": "el ejército"},
+        {"text": "Trabaja para traficantes en los Keys", "at": "trabaja para traficantes"}
+      ]}, "sfx": "whoosh"},
+      {"at": "Juntos son", "type": "neon", "props": {"text": "Bonnie & Clyde", "sub": "AL ESTILO DE LEONIDA"}, "sfx": "neon"},
+      {"at": "Un golpe fácil", "type": "wanted", "props": {"text": "UN GOLPE FÁCIL... SALE MAL"}, "sfx": "siren"},
+      {"at": "una conspiración criminal", "type": "conspiracy", "props": {"title": "UNA CONSPIRACIÓN QUE CRUZA TODO EL ESTADO"}, "sfx": "boom"},
+      {"at": "A su alrededor", "type": "cast", "props": {"items": [
+        {"name": "CAL HAMPTON", "desc": "Mejor amigo de Jason. Teórico de la conspiración", "at": "como Cal"},
+        {"name": "BOOBIE IKE", "desc": "Leyenda de Vice City", "at": "Boobie Ike"},
+        {"name": "RAUL BAUTISTA", "desc": "Ladrón de bancos veterano", "at": "Raul Bautista"},
+        {"name": "BRIAN HEDER", "desc": "El traficante para el que trabaja Jason", "at": "Brian Heder"}
+      ]}, "sfx": "whoosh"},
+      {"at": "Y lo que más", "type": "duo", "props": {"stage": "together", "caption": "LA RELACIÓN"}, "sfx": "heartbeat"}
+    ]
+  },
+  "s07_veredicto": {
+    "bg": "gold",
+    "beats": [
+      {"at": null, "type": "breaking", "props": {"kicker": "18 NOV 2026", "headline": "LAS RESEÑAS YA ESTÁN AQUÍ", "sub": "Se levantó el embargo"}, "sfx": "news"},
+      {"at": "GTA Seis tiene", "type": "score", "props": {"value": 99, "label": "METACRITIC", "sub": "~150 RESEÑAS"}, "sfx": "boom"},
+      {"at": "y ni una", "type": "sentiment", "props": {}, "sfx": "whoosh"},
+      {"at": "Eso lo pone", "type": "versus", "props": {"a": "GTA 6", "b": "OCARINA OF TIME"}, "sfx": "impact"},
+      {"at": "IGN le dio", "type": "list", "props": {"variant": "quotes", "title": "LA CRÍTICA", "items": [
+        {"text": "IGN|10/10", "at": "IGN le dio"},
+        {"text": "BLOOMBERG|\"Una obra maestra\"", "at": "Bloomberg"}
+      ]}, "sfx": null},
+      {"at": "¿Qué es lo", "type": "list", "props": {"variant": "pros", "title": "LO MEJOR", "items": [
+        {"text": "Un mundo denso y vivo", "at": "El mundo:"},
+        {"text": "La historia de Jason y Lucia", "at": "La historia de Jason"},
+        {"text": "Nivel técnico sin comparación", "at": "nivel técnico"}
+      ]}, "sfx": "whoosh"},
+      {"at": "Pero no todo", "type": "list", "props": {"variant": "cons", "title": "LO PEOR", "items": [
+        {"text": "30 FPS · sin modo 60", "at": "treinta cuadros"},
+        {"text": "Arranque lento", "at": "el arranque"},
+        {"text": "Combate algo torpe", "at": "el combate"},
+        {"text": "Realismo exigente", "at": "tanto realismo"}
+      ]}, "sfx": "down"},
+      {"at": "Aun así", "type": "slam", "props": {"lines": ["HISTÓRICO"], "accent": "gold"}, "sfx": "boom"}
+    ]
+  },
+  "s08_numeros": {
+    "bg": "money",
+    "beats": [
+      {"at": null, "type": "money", "props": {"title": "LOS NÚMEROS", "sub": "DE UNA LOCURA"}, "sfx": "cash"},
+      {"at": "Según estimaciones", "type": "number", "props": {"value": 1700000000, "prefix": "$", "label": "EN PREVENTAS (APROX.)", "sub": "ESTIMACIÓN DE SENSOR TOWER", "accent": "green"}, "sfx": "cash"},
+      {"at": "Las apuestas", "type": "bars", "props": {"title": "RÉCORD A BATIR"}, "sfx": "whoosh"},
+      {"at": "y algunos analistas", "type": "number", "props": {"value": 2000000000, "prefix": "+$", "label": "PRIMER FIN DE SEMANA", "sub": "PROYECCIÓN DE ANALISTAS", "accent": "gold"}, "sfx": "boom"},
+      {"at": "La edición estándar", "type": "prices", "props": {}, "sfx": "cash"},
+      {"at": "Sale solo en", "type": "platforms", "props": {"pcAt": "De PC"}, "sfx": "whoosh"},
+      {"at": "Y prepara tu", "type": "storage", "props": {"gb": 200}, "sfx": "riser"}
+    ]
+  },
+  "s09_cierre": {
+    "bg": "sunset",
+    "beats": [
+      {"at": null, "type": "list", "props": {"variant": "check", "title": "ANTES DE JUGAR", "items": [
+        {"text": "Precarga disponible desde el 12 NOV", "at": "descargarlo desde"},
+        {"text": "Desbloqueo: 00:00 hora local", "at": "Se desbloquea"},
+        {"text": "La precarga NO te deja entrar antes", "at": "la precarga no"},
+        {"text": "Libera espacio y carga el control", "at": "Libera espacio"},
+        {"text": "Silencia las redes: spoilers", "at": "silencia las redes"}
+      ]}, "sfx": "whoosh"},
+      {"at": "Trece años después", "type": "slam", "props": {"lines": ["13 AÑOS"], "script": "después...", "accent": "gradient"}, "sfx": "boom"},
+      {"at": "Cuéntame en", "type": "poll", "props": {"q": "¿CON QUIÉN TE QUEDAS?", "a": "JASON", "b": "LUCIA"}, "sfx": "pops"},
+      {"at": "Suscríbete y", "type": "subscribe", "props": {}, "sfx": "click", "sfxOffset": 25},
+      {"at": "Nos vemos en", "type": "neon", "props": {"text": "Nos vemos en Vice City", "sub": ""}, "sfx": "neon"}
+    ]
+  }
+}

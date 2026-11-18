@@ -1,0 +1,10048 @@
+{
+ "fps": 30,
+ "segments": [
+  {
+   "id": "s00_hook",
+   "chapter": "INTRO",
+   "title": "",
+   "bg": "sunset",
+   "from": 0,
+   "cardFrom": null,
+   "cardDur": 0,
+   "voFrom": 18,
+   "voFrames": 1008,
+   "end": 1038,
+   "beats": [
+    {
+     "type": "countdown",
+     "from": 0,
+     "props": {
+      "label": "MAÑANA",
+      "date": "19 · 11 · 2026",
+      "time": "00:00"
+     },
+     "dur": 192
+    },
+    {
+     "type": "slam",
+     "from": 192,
+     "props": {
+      "lines": [
+       "13",
+       "AÑOS"
+      ],
+      "accent": "pink"
+     },
+     "dur": 40
+    },
+    {
+     "type": "slam",
+     "from": 232,
+     "props": {
+      "lines": [
+       "2",
+       "RETRASOS"
+      ],
+      "accent": "orange"
+     },
+     "dur": 39
+    },
+    {
+     "type": "slam",
+     "from": 271,
+     "props": {
+      "lines": [
+       "1",
+       "FILTRACIÓN"
+      ],
+      "accent": "teal",
+      "glitch": true
+     },
+     "dur": 91
+    },
+    {
+     "type": "countdown",
+     "from": 362,
+     "props": {
+      "label": "FALTAN MENOS DE",
+      "date": "24 HORAS",
+      "time": "23:59",
+      "ticking": true
+     },
+     "dur": 158
+    },
+    {
+     "type": "score",
+     "from": 520,
+     "props": {
+      "value": 99,
+      "label": "METACRITIC"
+     },
+     "dur": 70
+    },
+    {
+     "type": "slam",
+     "from": 590,
+     "props": {
+      "lines": [
+       "GTA 6"
+      ],
+      "script": "ya está aquí",
+      "accent": "gradient"
+     },
+     "dur": 62
+    },
+    {
+     "type": "list",
+     "from": 652,
+     "props": {
+      "variant": "agenda",
+      "title": "EN ESTE VIDEO",
+      "items": [
+       {
+        "text": "La historia completa",
+        "at": "cómo llegamos",
+        "frame": 738
+       },
+       {
+        "text": "Qué dicen las reseñas",
+        "at": "qué dicen",
+        "frame": 784
+       },
+       {
+        "text": "Lo que debes saber antes de jugar",
+        "at": "todo lo que",
+        "frame": 844
+       }
+      ]
+     },
+     "dur": 272
+    },
+    {
+     "type": "speed",
+     "from": 924,
+     "props": {
+      "text": "NOS VAMOS A LEONIDA"
+     },
+     "dur": 114
+    }
+   ]
+  },
+  {
+   "id": "s01_silencio",
+   "chapter": "CAPÍTULO 1",
+   "title": "13 años de silencio",
+   "bg": "sunset",
+   "from": 1218,
+   "cardFrom": 1218,
+   "cardDur": 78,
+   "voFrom": 1300,
+   "voFrames": 1677,
+   "end": 2989,
+   "beats": [
+    {
+     "type": "year",
+     "from": 1294,
+     "props": {
+      "year": "2013",
+      "label": "SEPTIEMBRE"
+     },
+     "dur": 153
+    },
+    {
+     "type": "slam",
+     "from": 1447,
+     "props": {
+      "lines": [
+       "GTA V"
+      ],
+      "sub": "17 · 09 · 2013",
+      "accent": "gradient"
+     },
+     "dur": 154
+    },
+    {
+     "type": "number",
+     "from": 1601,
+     "props": {
+      "value": 800000000,
+      "prefix": "$",
+      "suffix": "+",
+      "label": "EN SUS PRIMERAS 24 HORAS",
+      "accent": "green"
+     },
+     "dur": 182
+    },
+    {
+     "type": "list",
+     "from": 1783,
+     "props": {
+      "variant": "stamps",
+      "title": "NADIE HABÍA HECHO ALGO ASÍ",
+      "items": [
+       {
+        "text": "PELÍCULA",
+        "at": "Ni una película",
+        "frame": 1783
+       },
+       {
+        "text": "DISCO",
+        "at": "Ni un disco",
+        "frame": 1824
+       },
+       {
+        "text": "NADA",
+        "at": "Nada",
+        "frame": 1862
+       }
+      ]
+     },
+     "dur": 153
+    },
+    {
+     "type": "list",
+     "from": 1936,
+     "props": {
+      "variant": "chips",
+      "title": "3 GENERACIONES DE CONSOLAS",
+      "items": [
+       {
+        "text": "PS3 · XBOX 360",
+        "at": "tres generaciones",
+        "frame": 2008
+       },
+       {
+        "text": "PS4 · XBOX ONE",
+        "at": "de consolas",
+        "frame": 2032
+       },
+       {
+        "text": "PS5 · SERIES X|S",
+        "at": "y hoy",
+        "frame": 2059
+       }
+      ]
+     },
+     "dur": 159
+    },
+    {
+     "type": "number",
+     "from": 2095,
+     "props": {
+      "value": 230000000,
+      "suffix": "+",
+      "label": "COPIAS VENDIDAS",
+      "accent": "pink"
+     },
+     "dur": 93
+    },
+    {
+     "type": "money",
+     "from": 2188,
+     "props": {
+      "title": "GTA ONLINE",
+      "sub": "UNA MÁQUINA DE IMPRIMIR DINERO"
+     },
+     "dur": 140
+    },
+    {
+     "type": "years",
+     "from": 2328,
+     "props": {
+      "from": 2014,
+      "to": 2021,
+      "label": "SILENCIO ABSOLUTO"
+     },
+     "dur": 168
+    },
+    {
+     "type": "list",
+     "from": 2496,
+     "props": {
+      "variant": "rumors",
+      "title": "",
+      "items": [
+       {
+        "text": "RUMOR",
+        "at": "Cada rumor",
+        "frame": 2496
+       },
+       {
+        "text": "¿PISTA?",
+        "at": "supuesta pista",
+        "frame": 2538
+       },
+       {
+        "text": "NADA",
+        "at": "terminaba en nada",
+        "frame": 2578
+       }
+      ]
+     },
+     "dur": 122
+    },
+    {
+     "type": "statement",
+     "from": 2618,
+     "props": {
+      "kicker": "FEBRERO 2022 · OFICIAL",
+      "title": "CONFIRMADO",
+      "body": "El próximo Grand Theft Auto está en desarrollo"
+     },
+     "dur": 226
+    },
+    {
+     "type": "slam",
+     "from": 2844,
+     "props": {
+      "lines": [
+       "LO QUE NADIE",
+       "ESPERABA..."
+      ],
+      "accent": "red",
+      "dark": true
+     },
+     "dur": 145
+    }
+   ]
+  },
+  {
+   "id": "s02_filtracion",
+   "chapter": "CAPÍTULO 2",
+   "title": "La filtración",
+   "bg": "night",
+   "from": 2989,
+   "cardFrom": 2989,
+   "cardDur": 78,
+   "voFrom": 3071,
+   "voFrames": 1471,
+   "end": 4554,
+   "beats": [
+    {
+     "type": "terminal",
+     "from": 3065,
+     "props": {
+      "date": "18 · SEPTIEMBRE · 2022",
+      "count": 90
+     },
+     "dur": 235
+    },
+    {
+     "type": "devbuild",
+     "from": 3300,
+     "props": {},
+     "dur": 158
+    },
+    {
+     "type": "breaking",
+     "from": 3458,
+     "props": {
+      "kicker": "ÚLTIMA HORA",
+      "headline": "ROCKSTAR CONFIRMA LA FILTRACIÓN",
+      "sub": "El mayor leak en la historia de la industria"
+     },
+     "dur": 91
+    },
+    {
+     "type": "stock",
+     "from": 3549,
+     "props": {
+      "ticker": "TTWO",
+      "label": "ACCIONES DE TAKE-TWO"
+     },
+     "dur": 92
+    },
+    {
+     "type": "hacker",
+     "from": 3641,
+     "props": {
+      "stage": "who"
+     },
+     "dur": 51
+    },
+    {
+     "type": "hacker",
+     "from": 3692,
+     "props": {
+      "stage": "profile"
+     },
+     "dur": 167
+    },
+    {
+     "type": "hacker",
+     "from": 3859,
+     "props": {
+      "stage": "hotel"
+     },
+     "dur": 322
+    },
+    {
+     "type": "slam",
+     "from": 4181,
+     "props": {
+      "lines": [
+       "CATÁSTROFE"
+      ],
+      "accent": "red",
+      "glitch": true
+     },
+     "dur": 182
+    },
+    {
+     "type": "comments",
+     "from": 4363,
+     "props": {
+      "title": "EL MUNDO ESTABA DESESPERADO"
+     },
+     "dur": 191
+    }
+   ]
+  },
+  {
+   "id": "s03_trailer",
+   "chapter": "CAPÍTULO 3",
+   "title": "El tráiler que rompió internet",
+   "bg": "sunset",
+   "from": 4554,
+   "cardFrom": 4554,
+   "cardDur": 78,
+   "voFrom": 4636,
+   "voFrames": 1564,
+   "end": 6212,
+   "beats": [
+    {
+     "type": "player",
+     "from": 4630,
+     "props": {
+      "title": "TRÁILER 1",
+      "sub": "Grand Theft Auto VI"
+     },
+     "dur": 139
+    },
+    {
+     "type": "calendar",
+     "from": 4769,
+     "props": {
+      "d": "05",
+      "m": "DIC",
+      "y": "2023",
+      "stampAt": "se filtró",
+      "stamp": "FILTRADO",
+      "stampAtFrame": 4886
+     },
+     "dur": 168
+    },
+    {
+     "type": "slam",
+     "from": 4937,
+     "props": {
+      "lines": [
+       "ESTRENO",
+       "DE GOLPE"
+      ],
+      "sub": "en plena noche",
+      "accent": "teal"
+     },
+     "dur": 96
+    },
+    {
+     "type": "song",
+     "from": 5033,
+     "props": {
+      "artist": "TOM PETTY",
+      "title": "Love Is a Long Road"
+     },
+     "dur": 84
+    },
+    {
+     "type": "neon",
+     "from": 5117,
+     "props": {
+      "text": "Vice City",
+      "sub": "BIENVENIDOS DE VUELTA"
+     },
+     "dur": 60
+    },
+    {
+     "type": "views",
+     "from": 5177,
+     "props": {
+      "value": 90000000,
+      "label": "VISTAS EN 24 HORAS",
+      "stamp": "RÉCORD",
+      "stampAt": "un récord",
+      "stampAtFrame": 5306
+     },
+     "dur": 237
+    },
+    {
+     "type": "player",
+     "from": 5414,
+     "props": {
+      "title": "TRÁILER 2",
+      "sub": "MAYO 2025 · CAPTURADO EN PS5"
+     },
+     "dur": 260
+    },
+    {
+     "type": "number",
+     "from": 5674,
+     "props": {
+      "value": 475000000,
+      "label": "VISTAS EN 24 HORAS",
+      "sub": "TODAS LAS PLATAFORMAS",
+      "accent": "orange"
+     },
+     "dur": 218
+    },
+    {
+     "type": "player",
+     "from": 5892,
+     "props": {
+      "title": "TRÁILER DE LANZAMIENTO",
+      "sub": "OCTUBRE 2026"
+     },
+     "dur": 152
+    },
+    {
+     "type": "slam",
+     "from": 6044,
+     "props": {
+      "lines": [
+       "ALGO QUE",
+       "DOLIÓ MÁS..."
+      ],
+      "accent": "red",
+      "dark": true
+     },
+     "dur": 168
+    }
+   ]
+  },
+  {
+   "id": "s04_retrasos",
+   "chapter": "CAPÍTULO 4",
+   "title": "Los retrasos",
+   "bg": "storm",
+   "from": 6212,
+   "cardFrom": 6212,
+   "cardDur": 78,
+   "voFrom": 6294,
+   "voFrames": 1305,
+   "end": 7611,
+   "beats": [
+    {
+     "type": "calendar",
+     "from": 6288,
+     "props": {
+      "d": "",
+      "m": "VENTANA ORIGINAL",
+      "y": "2025"
+     },
+     "dur": 158
+    },
+    {
+     "type": "datecross",
+     "from": 6446,
+     "props": {
+      "old": "2025",
+      "new": "26 MAY 2026",
+      "label": "PRIMER RETRASO"
+     },
+     "dur": 211
+    },
+    {
+     "type": "comments",
+     "from": 6657,
+     "props": {
+      "title": "INTERNET EXPLOTÓ",
+      "mode": "memes"
+     },
+     "dur": 96
+    },
+    {
+     "type": "calendar",
+     "from": 6753,
+     "props": {
+      "d": "26",
+      "m": "MAY",
+      "y": "2026",
+      "stampAt": "otro retraso",
+      "stamp": "RETRASADO",
+      "stampAtFrame": 6964
+     },
+     "dur": 252
+    },
+    {
+     "type": "slam",
+     "from": 7005,
+     "props": {
+      "lines": [
+       "+6",
+       "MESES"
+      ],
+      "accent": "red"
+     },
+     "dur": 43
+    },
+    {
+     "type": "datecross",
+     "from": 7048,
+     "props": {
+      "old": "26 MAY 2026",
+      "new": "19 NOV 2026",
+      "label": "FECHA DEFINITIVA",
+      "gold": true
+     },
+     "dur": 123
+    },
+    {
+     "type": "statement",
+     "from": 7171,
+     "props": {
+      "kicker": "ROCKSTAR GAMES · RESUMEN",
+      "title": "PERDÓN POR LA ESPERA",
+      "body": "Necesitamos este tiempo para pulir el juego al nivel que esperan"
+     },
+     "dur": 197
+    },
+    {
+     "type": "slam",
+     "from": 7368,
+     "props": {
+      "lines": [
+       "¿VALIÓ",
+       "LA PENA?"
+      ],
+      "accent": "gold"
+     },
+     "dur": 243
+    }
+   ]
+  },
+  {
+   "id": "s05_leonida",
+   "chapter": "CAPÍTULO 5",
+   "title": "Bienvenidos a Leonida",
+   "bg": "sunset",
+   "from": 7611,
+   "cardFrom": 7611,
+   "cardDur": 78,
+   "voFrom": 7693,
+   "voFrames": 1850,
+   "end": 9555,
+   "beats": [
+    {
+     "type": "postcard",
+     "from": 7687,
+     "props": {
+      "top": "BIENVENIDOS A",
+      "main": "Leonida"
+     },
+     "dur": 146
+    },
+    {
+     "type": "map",
+     "from": 7833,
+     "props": {
+      "pins": [
+       {
+        "id": "vice",
+        "at": "Vice City:",
+        "frame": 8053
+       },
+       {
+        "id": "keys",
+        "at": "Leonida Keys",
+        "frame": 8255
+       },
+       {
+        "id": "grass",
+        "at": "Grassrivers",
+        "frame": 8428
+       },
+       {
+        "id": "port",
+        "at": "Port Gellhorn",
+        "frame": 8587
+       },
+       {
+        "id": "ambrosia",
+        "at": "Ambrosia",
+        "frame": 8726
+       },
+       {
+        "id": "kalaga",
+        "at": "Mount Kalaga",
+        "frame": 8878
+       }
+      ]
+     },
+     "dur": 1174
+    },
+    {
+     "type": "phone",
+     "from": 9007,
+     "props": {
+      "mode": "satire"
+     },
+     "dur": 295
+    },
+    {
+     "type": "slam",
+     "from": 9302,
+     "props": {
+      "lines": [
+       "FLORIDA"
+      ],
+      "script": "llevada al extremo",
+      "accent": "gradient"
+     },
+     "dur": 79
+    },
+    {
+     "type": "quote",
+     "from": 9381,
+     "props": {
+      "text": "Uno de los mundos abiertos más vivos que se han creado jamás",
+      "source": "EL CONSENSO DE LA CRÍTICA"
+     },
+     "dur": 174
+    }
+   ]
+  },
+  {
+   "id": "s06_protas",
+   "chapter": "CAPÍTULO 6",
+   "title": "Jason y Lucia",
+   "bg": "dusk",
+   "from": 9555,
+   "cardFrom": 9555,
+   "cardDur": 78,
+   "voFrom": 9637,
+   "voFrames": 1732,
+   "end": 11381,
+   "beats": [
+    {
+     "type": "duo",
+     "from": 9631,
+     "props": {
+      "stage": "intro"
+     },
+     "dur": 182
+    },
+    {
+     "type": "duo",
+     "from": 9813,
+     "props": {
+      "stage": "lucia",
+      "badge": "PRIMERA PROTAGONISTA MUJER DE UN GTA MODERNO",
+      "bullets": [
+       {
+        "text": "Aprendió a pelear desde niña",
+        "at": "Su padre",
+        "frame": 9935
+       },
+       {
+        "text": "Peleó por su familia",
+        "at": "pelear por su familia",
+        "frame": 10034
+       }
+      ]
+     },
+     "dur": 262
+    },
+    {
+     "type": "mugshot",
+     "from": 10075,
+     "props": {
+      "name": "LUCIA CAMINOS",
+      "place": "LEONIDA PENITENTIARY"
+     },
+     "dur": 80
+    },
+    {
+     "type": "duo",
+     "from": 10155,
+     "props": {
+      "stage": "jason",
+      "bullets": [
+       {
+        "text": "Creció entre estafadores",
+        "at": "Él creció",
+        "frame": 10155
+       },
+       {
+        "text": "Ex militar",
+        "at": "el ejército",
+        "frame": 10232
+       },
+       {
+        "text": "Trabaja para traficantes en los Keys",
+        "at": "trabaja para traficantes",
+        "frame": 10336
+       }
+      ]
+     },
+     "dur": 256
+    },
+    {
+     "type": "neon",
+     "from": 10411,
+     "props": {
+      "text": "Bonnie & Clyde",
+      "sub": "AL ESTILO DE LEONIDA"
+     },
+     "dur": 93
+    },
+    {
+     "type": "wanted",
+     "from": 10504,
+     "props": {
+      "text": "UN GOLPE FÁCIL... SALE MAL"
+     },
+     "dur": 99
+    },
+    {
+     "type": "conspiracy",
+     "from": 10603,
+     "props": {
+      "title": "UNA CONSPIRACIÓN QUE CRUZA TODO EL ESTADO"
+     },
+     "dur": 110
+    },
+    {
+     "type": "cast",
+     "from": 10713,
+     "props": {
+      "items": [
+       {
+        "name": "CAL HAMPTON",
+        "desc": "Mejor amigo de Jason. Teórico de la conspiración",
+        "at": "como Cal",
+        "frame": 10765
+       },
+       {
+        "name": "BOOBIE IKE",
+        "desc": "Leyenda de Vice City",
+        "at": "Boobie Ike",
+        "frame": 10905
+       },
+       {
+        "name": "RAUL BAUTISTA",
+        "desc": "Ladrón de bancos veterano",
+        "at": "Raul Bautista",
+        "frame": 10989
+       },
+       {
+        "name": "BRIAN HEDER",
+        "desc": "El traficante para el que trabaja Jason",
+        "at": "Brian Heder",
+        "frame": 11083
+       }
+      ]
+     },
+     "dur": 478
+    },
+    {
+     "type": "duo",
+     "from": 11191,
+     "props": {
+      "stage": "together",
+      "caption": "LA RELACIÓN"
+     },
+     "dur": 190
+    }
+   ]
+  },
+  {
+   "id": "s07_veredicto",
+   "chapter": "CAPÍTULO 7",
+   "title": "El veredicto",
+   "bg": "gold",
+   "from": 11381,
+   "cardFrom": 11381,
+   "cardDur": 78,
+   "voFrom": 11463,
+   "voFrames": 1939,
+   "end": 13414,
+   "beats": [
+    {
+     "type": "breaking",
+     "from": 11457,
+     "props": {
+      "kicker": "18 NOV 2026",
+      "headline": "LAS RESEÑAS YA ESTÁN AQUÍ",
+      "sub": "Se levantó el embargo"
+     },
+     "dur": 105
+    },
+    {
+     "type": "score",
+     "from": 11562,
+     "props": {
+      "value": 99,
+      "label": "METACRITIC",
+      "sub": "~150 RESEÑAS"
+     },
+     "dur": 161
+    },
+    {
+     "type": "sentiment",
+     "from": 11723,
+     "props": {},
+     "dur": 100
+    },
+    {
+     "type": "versus",
+     "from": 11823,
+     "props": {
+      "a": "GTA 6",
+      "b": "OCARINA OF TIME"
+     },
+     "dur": 155
+    },
+    {
+     "type": "list",
+     "from": 11978,
+     "props": {
+      "variant": "quotes",
+      "title": "LA CRÍTICA",
+      "items": [
+       {
+        "text": "IGN|10/10",
+        "at": "IGN le dio",
+        "frame": 11978
+       },
+       {
+        "text": "BLOOMBERG|\"Una obra maestra\"",
+        "at": "Bloomberg",
+        "frame": 12061
+       }
+      ]
+     },
+     "dur": 126
+    },
+    {
+     "type": "list",
+     "from": 12104,
+     "props": {
+      "variant": "pros",
+      "title": "LO MEJOR",
+      "items": [
+       {
+        "text": "Un mundo denso y vivo",
+        "at": "El mundo:",
+        "frame": 12160
+       },
+       {
+        "text": "La historia de Jason y Lucia",
+        "at": "La historia de Jason",
+        "frame": 12333
+       },
+       {
+        "text": "Nivel técnico sin comparación",
+        "at": "nivel técnico",
+        "frame": 12517
+       }
+      ]
+     },
+     "dur": 536
+    },
+    {
+     "type": "list",
+     "from": 12640,
+     "props": {
+      "variant": "cons",
+      "title": "LO PEOR",
+      "items": [
+       {
+        "text": "30 FPS · sin modo 60",
+        "at": "treinta cuadros",
+        "frame": 12733
+       },
+       {
+        "text": "Arranque lento",
+        "at": "el arranque",
+        "frame": 12947
+       },
+       {
+        "text": "Combate algo torpe",
+        "at": "el combate",
+        "frame": 12990
+       },
+       {
+        "text": "Realismo exigente",
+        "at": "tanto realismo",
+        "frame": 13051
+       }
+      ]
+     },
+     "dur": 612
+    },
+    {
+     "type": "slam",
+     "from": 13252,
+     "props": {
+      "lines": [
+       "HISTÓRICO"
+      ],
+      "accent": "gold"
+     },
+     "dur": 162
+    }
+   ]
+  },
+  {
+   "id": "s08_numeros",
+   "chapter": "CAPÍTULO 8",
+   "title": "Los números de una locura",
+   "bg": "money",
+   "from": 13414,
+   "cardFrom": 13414,
+   "cardDur": 78,
+   "voFrom": 13496,
+   "voFrames": 1072,
+   "end": 14580,
+   "beats": [
+    {
+     "type": "money",
+     "from": 13490,
+     "props": {
+      "title": "LOS NÚMEROS",
+      "sub": "DE UNA LOCURA"
+     },
+     "dur": 74
+    },
+    {
+     "type": "number",
+     "from": 13564,
+     "props": {
+      "value": 1700000000,
+      "prefix": "$",
+      "label": "EN PREVENTAS (APROX.)",
+      "sub": "ESTIMACIÓN DE SENSOR TOWER",
+      "accent": "green"
+     },
+     "dur": 264
+    },
+    {
+     "type": "bars",
+     "from": 13828,
+     "props": {
+      "title": "RÉCORD A BATIR"
+     },
+     "dur": 142
+    },
+    {
+     "type": "number",
+     "from": 13970,
+     "props": {
+      "value": 2000000000,
+      "prefix": "+$",
+      "label": "PRIMER FIN DE SEMANA",
+      "sub": "PROYECCIÓN DE ANALISTAS",
+      "accent": "gold"
+     },
+     "dur": 152
+    },
+    {
+     "type": "prices",
+     "from": 14122,
+     "props": {},
+     "dur": 131
+    },
+    {
+     "type": "platforms",
+     "from": 14253,
+     "props": {
+      "pcAt": "De PC",
+      "pcAtFrame": 14354
+     },
+     "dur": 170
+    },
+    {
+     "type": "storage",
+     "from": 14423,
+     "props": {
+      "gb": 200
+     },
+     "dur": 157
+    }
+   ]
+  },
+  {
+   "id": "s09_cierre",
+   "chapter": "ANTES DE JUGAR",
+   "title": "Lo que tienes que saber",
+   "bg": "sunset",
+   "from": 14580,
+   "cardFrom": 14580,
+   "cardDur": 78,
+   "voFrom": 14662,
+   "voFrames": 1151,
+   "end": 15825,
+   "beats": [
+    {
+     "type": "list",
+     "from": 14656,
+     "props": {
+      "variant": "check",
+      "title": "ANTES DE JUGAR",
+      "items": [
+       {
+        "text": "Precarga disponible desde el 12 NOV",
+        "at": "descargarlo desde",
+        "frame": 14860
+       },
+       {
+        "text": "Desbloqueo: 00:00 hora local",
+        "at": "Se desbloquea",
+        "frame": 14929
+       },
+       {
+        "text": "La precarga NO te deja entrar antes",
+        "at": "la precarga no",
+        "frame": 15035
+       },
+       {
+        "text": "Libera espacio y carga el control",
+        "at": "Libera espacio",
+        "frame": 15114
+       },
+       {
+        "text": "Silencia las redes: spoilers",
+        "at": "silencia las redes",
+        "frame": 15181
+       }
+      ]
+     },
+     "dur": 644
+    },
+    {
+     "type": "slam",
+     "from": 15300,
+     "props": {
+      "lines": [
+       "13 AÑOS"
+      ],
+      "script": "después...",
+      "accent": "gradient"
+     },
+     "dur": 87
+    },
+    {
+     "type": "poll",
+     "from": 15387,
+     "props": {
+      "q": "¿CON QUIÉN TE QUEDAS?",
+      "a": "JASON",
+      "b": "LUCIA"
+     },
+     "dur": 188
+    },
+    {
+     "type": "subscribe",
+     "from": 15575,
+     "props": {},
+     "dur": 189
+    },
+    {
+     "type": "neon",
+     "from": 15764,
+     "props": {
+      "text": "Nos vemos en Vice City",
+      "sub": ""
+     },
+     "dur": 61
+    }
+   ]
+  }
+ ],
+ "captions": [
+  {
+   "from": 18,
+   "to": 80,
+   "words": [
+    {
+     "w": "Mañana,",
+     "from": 18,
+     "to": 35
+    },
+    {
+     "w": "a",
+     "from": 44,
+     "to": 47
+    },
+    {
+     "w": "medianoche,",
+     "from": 49,
+     "to": 78
+    }
+   ]
+  },
+  {
+   "from": 80,
+   "to": 137,
+   "words": [
+    {
+     "w": "se",
+     "from": 80,
+     "to": 83
+    },
+    {
+     "w": "acaba",
+     "from": 85,
+     "to": 92
+    },
+    {
+     "w": "la",
+     "from": 95,
+     "to": 96
+    },
+    {
+     "w": "espera",
+     "from": 97,
+     "to": 109
+    },
+    {
+     "w": "más",
+     "from": 114,
+     "to": 121
+    },
+    {
+     "w": "larga",
+     "from": 124,
+     "to": 133
+    },
+    {
+     "w": "en",
+     "from": 134,
+     "to": 136
+    }
+   ]
+  },
+  {
+   "from": 137,
+   "to": 196,
+   "words": [
+    {
+     "w": "la",
+     "from": 137,
+     "to": 138
+    },
+    {
+     "w": "historia",
+     "from": 144,
+     "to": 152
+    },
+    {
+     "w": "de",
+     "from": 154,
+     "to": 155
+    },
+    {
+     "w": "los",
+     "from": 157,
+     "to": 160
+    },
+    {
+     "w": "videojuegos.",
+     "from": 162,
+     "to": 184
+    }
+   ]
+  },
+  {
+   "from": 196,
+   "to": 236,
+   "words": [
+    {
+     "w": "Trece",
+     "from": 196,
+     "to": 208
+    },
+    {
+     "w": "años.",
+     "from": 210,
+     "to": 230
+    }
+   ]
+  },
+  {
+   "from": 236,
+   "to": 275,
+   "words": [
+    {
+     "w": "Dos",
+     "from": 236,
+     "to": 241
+    },
+    {
+     "w": "retrasos.",
+     "from": 244,
+     "to": 269
+    }
+   ]
+  },
+  {
+   "from": 275,
+   "to": 332,
+   "words": [
+    {
+     "w": "Una",
+     "from": 275,
+     "to": 277
+    },
+    {
+     "w": "filtración",
+     "from": 280,
+     "to": 296
+    },
+    {
+     "w": "que",
+     "from": 298,
+     "to": 299
+    },
+    {
+     "w": "sacudió",
+     "from": 301,
+     "to": 316
+    },
+    {
+     "w": "a",
+     "from": 317,
+     "to": 318
+    },
+    {
+     "w": "toda",
+     "from": 323,
+     "to": 330
+    }
+   ]
+  },
+  {
+   "from": 332,
+   "to": 366,
+   "words": [
+    {
+     "w": "la",
+     "from": 332,
+     "to": 335
+    },
+    {
+     "w": "industria.",
+     "from": 337,
+     "to": 359
+    }
+   ]
+  },
+  {
+   "from": 366,
+   "to": 426,
+   "words": [
+    {
+     "w": "Y",
+     "from": 366,
+     "to": 368
+    },
+    {
+     "w": "hoy,",
+     "from": 370,
+     "to": 385
+    },
+    {
+     "w": "a",
+     "from": 388,
+     "to": 390
+    },
+    {
+     "w": "menos",
+     "from": 392,
+     "to": 397
+    },
+    {
+     "w": "de",
+     "from": 400,
+     "to": 402
+    },
+    {
+     "w": "veinticuatro",
+     "from": 403,
+     "to": 424
+    }
+   ]
+  },
+  {
+   "from": 426,
+   "to": 466,
+   "words": [
+    {
+     "w": "horas",
+     "from": 426,
+     "to": 433
+    },
+    {
+     "w": "del",
+     "from": 434,
+     "to": 436
+    },
+    {
+     "w": "lanzamiento,",
+     "from": 438,
+     "to": 464
+    }
+   ]
+  },
+  {
+   "from": 466,
+   "to": 517,
+   "words": [
+    {
+     "w": "llegó",
+     "from": 466,
+     "to": 474
+    },
+    {
+     "w": "el",
+     "from": 475,
+     "to": 476
+    },
+    {
+     "w": "golpe",
+     "from": 481,
+     "to": 488
+    },
+    {
+     "w": "final:",
+     "from": 491,
+     "to": 515
+    }
+   ]
+  },
+  {
+   "from": 517,
+   "to": 594,
+   "words": [
+    {
+     "w": "un",
+     "from": 517,
+     "to": 522
+    },
+    {
+     "w": "noventa",
+     "from": 524,
+     "to": 536
+    },
+    {
+     "w": "y",
+     "from": 539,
+     "to": 544
+    },
+    {
+     "w": "nueve",
+     "from": 545,
+     "to": 551
+    },
+    {
+     "w": "en",
+     "from": 553,
+     "to": 556
+    },
+    {
+     "w": "Metacritic.",
+     "from": 558,
+     "to": 586
+    }
+   ]
+  },
+  {
+   "from": 594,
+   "to": 656,
+   "words": [
+    {
+     "w": "GTA",
+     "from": 594,
+     "to": 606
+    },
+    {
+     "w": "Seis",
+     "from": 608,
+     "to": 618
+    },
+    {
+     "w": "ya",
+     "from": 623,
+     "to": 625
+    },
+    {
+     "w": "está",
+     "from": 628,
+     "to": 635
+    },
+    {
+     "w": "aquí.",
+     "from": 638,
+     "to": 650
+    }
+   ]
+  },
+  {
+   "from": 656,
+   "to": 713,
+   "words": [
+    {
+     "w": "Y",
+     "from": 656,
+     "to": 659
+    },
+    {
+     "w": "en",
+     "from": 660,
+     "to": 661
+    },
+    {
+     "w": "este",
+     "from": 664,
+     "to": 668
+    },
+    {
+     "w": "video",
+     "from": 671,
+     "to": 680
+    },
+    {
+     "w": "te",
+     "from": 683,
+     "to": 685
+    },
+    {
+     "w": "cuento",
+     "from": 688,
+     "to": 697
+    },
+    {
+     "w": "toda",
+     "from": 704,
+     "to": 712
+    }
+   ]
+  },
+  {
+   "from": 713,
+   "to": 742,
+   "words": [
+    {
+     "w": "la",
+     "from": 713,
+     "to": 714
+    },
+    {
+     "w": "historia:",
+     "from": 719,
+     "to": 740
+    }
+   ]
+  },
+  {
+   "from": 742,
+   "to": 788,
+   "words": [
+    {
+     "w": "cómo",
+     "from": 742,
+     "to": 745
+    },
+    {
+     "w": "llegamos",
+     "from": 748,
+     "to": 757
+    },
+    {
+     "w": "hasta",
+     "from": 760,
+     "to": 764
+    },
+    {
+     "w": "aquí,",
+     "from": 767,
+     "to": 786
+    }
+   ]
+  },
+  {
+   "from": 788,
+   "to": 840,
+   "words": [
+    {
+     "w": "qué",
+     "from": 788,
+     "to": 791
+    },
+    {
+     "w": "dicen",
+     "from": 793,
+     "to": 800
+    },
+    {
+     "w": "las",
+     "from": 802,
+     "to": 803
+    },
+    {
+     "w": "primeras",
+     "from": 805,
+     "to": 815
+    },
+    {
+     "w": "reseñas,",
+     "from": 817,
+     "to": 839
+    }
+   ]
+  },
+  {
+   "from": 840,
+   "to": 889,
+   "words": [
+    {
+     "w": "y",
+     "from": 840,
+     "to": 841
+    },
+    {
+     "w": "todo",
+     "from": 848,
+     "to": 856
+    },
+    {
+     "w": "lo",
+     "from": 857,
+     "to": 858
+    },
+    {
+     "w": "que",
+     "from": 860,
+     "to": 863
+    },
+    {
+     "w": "tienes",
+     "from": 864,
+     "to": 870
+    },
+    {
+     "w": "que",
+     "from": 872,
+     "to": 874
+    },
+    {
+     "w": "saber",
+     "from": 875,
+     "to": 884
+    }
+   ]
+  },
+  {
+   "from": 889,
+   "to": 928,
+   "words": [
+    {
+     "w": "antes",
+     "from": 889,
+     "to": 896
+    },
+    {
+     "w": "de",
+     "from": 899,
+     "to": 901
+    },
+    {
+     "w": "jugar.",
+     "from": 902,
+     "to": 920
+    }
+   ]
+  },
+  {
+   "from": 928,
+   "to": 972,
+   "words": [
+    {
+     "w": "Abróchate",
+     "from": 928,
+     "to": 940
+    },
+    {
+     "w": "el",
+     "from": 941,
+     "to": 942
+    },
+    {
+     "w": "cinturón...",
+     "from": 944,
+     "to": 971
+    }
+   ]
+  },
+  {
+   "from": 972,
+   "to": 1042,
+   "words": [
+    {
+     "w": "que",
+     "from": 972,
+     "to": 973
+    },
+    {
+     "w": "nos",
+     "from": 976,
+     "to": 980
+    },
+    {
+     "w": "vamos",
+     "from": 983,
+     "to": 992
+    },
+    {
+     "w": "a",
+     "from": 997,
+     "to": 1000
+    },
+    {
+     "w": "Leonida.",
+     "from": 1004,
+     "to": 1024
+    }
+   ]
+  },
+  {
+   "from": 1300,
+   "to": 1346,
+   "words": [
+    {
+     "w": "Para",
+     "from": 1300,
+     "to": 1305
+    },
+    {
+     "w": "entender",
+     "from": 1308,
+     "to": 1319
+    },
+    {
+     "w": "lo",
+     "from": 1322,
+     "to": 1324
+    },
+    {
+     "w": "que",
+     "from": 1326,
+     "to": 1329
+    },
+    {
+     "w": "va",
+     "from": 1330,
+     "to": 1331
+    },
+    {
+     "w": "a",
+     "from": 1332,
+     "to": 1334
+    },
+    {
+     "w": "pasar",
+     "from": 1336,
+     "to": 1343
+    }
+   ]
+  },
+  {
+   "from": 1346,
+   "to": 1407,
+   "words": [
+    {
+     "w": "mañana,",
+     "from": 1346,
+     "to": 1366
+    },
+    {
+     "w": "hay",
+     "from": 1367,
+     "to": 1372
+    },
+    {
+     "w": "que",
+     "from": 1373,
+     "to": 1374
+    },
+    {
+     "w": "volver",
+     "from": 1377,
+     "to": 1384
+    },
+    {
+     "w": "a",
+     "from": 1385,
+     "to": 1386
+    },
+    {
+     "w": "septiembre",
+     "from": 1389,
+     "to": 1406
+    }
+   ]
+  },
+  {
+   "from": 1407,
+   "to": 1451,
+   "words": [
+    {
+     "w": "de",
+     "from": 1407,
+     "to": 1408
+    },
+    {
+     "w": "dos",
+     "from": 1410,
+     "to": 1415
+    },
+    {
+     "w": "mil",
+     "from": 1419,
+     "to": 1422
+    },
+    {
+     "w": "trece.",
+     "from": 1426,
+     "to": 1450
+    }
+   ]
+  },
+  {
+   "from": 1451,
+   "to": 1521,
+   "words": [
+    {
+     "w": "Ese",
+     "from": 1451,
+     "to": 1458
+    },
+    {
+     "w": "mes",
+     "from": 1464,
+     "to": 1470
+    },
+    {
+     "w": "salió",
+     "from": 1473,
+     "to": 1482
+    },
+    {
+     "w": "GTA",
+     "from": 1485,
+     "to": 1497
+    },
+    {
+     "w": "Cinco,",
+     "from": 1499,
+     "to": 1520
+    }
+   ]
+  },
+  {
+   "from": 1521,
+   "to": 1566,
+   "words": [
+    {
+     "w": "y",
+     "from": 1521,
+     "to": 1522
+    },
+    {
+     "w": "en",
+     "from": 1523,
+     "to": 1526
+    },
+    {
+     "w": "sus",
+     "from": 1529,
+     "to": 1533
+    },
+    {
+     "w": "primeras",
+     "from": 1536,
+     "to": 1545
+    },
+    {
+     "w": "veinticuatro",
+     "from": 1546,
+     "to": 1564
+    }
+   ]
+  },
+  {
+   "from": 1566,
+   "to": 1634,
+   "words": [
+    {
+     "w": "horas",
+     "from": 1566,
+     "to": 1581
+    },
+    {
+     "w": "generó",
+     "from": 1586,
+     "to": 1595
+    },
+    {
+     "w": "más",
+     "from": 1596,
+     "to": 1600
+    },
+    {
+     "w": "de",
+     "from": 1602,
+     "to": 1604
+    },
+    {
+     "w": "ochocientos",
+     "from": 1605,
+     "to": 1631
+    }
+   ]
+  },
+  {
+   "from": 1634,
+   "to": 1684,
+   "words": [
+    {
+     "w": "millones",
+     "from": 1634,
+     "to": 1648
+    },
+    {
+     "w": "de",
+     "from": 1649,
+     "to": 1650
+    },
+    {
+     "w": "dólares.",
+     "from": 1653,
+     "to": 1683
+    }
+   ]
+  },
+  {
+   "from": 1684,
+   "to": 1739,
+   "words": [
+    {
+     "w": "Ningún",
+     "from": 1684,
+     "to": 1698
+    },
+    {
+     "w": "producto",
+     "from": 1704,
+     "to": 1710
+    },
+    {
+     "w": "de",
+     "from": 1713,
+     "to": 1714
+    },
+    {
+     "w": "entretenimiento",
+     "from": 1715,
+     "to": 1737
+    }
+   ]
+  },
+  {
+   "from": 1739,
+   "to": 1787,
+   "words": [
+    {
+     "w": "había",
+     "from": 1739,
+     "to": 1746
+    },
+    {
+     "w": "hecho",
+     "from": 1749,
+     "to": 1754
+    },
+    {
+     "w": "algo",
+     "from": 1756,
+     "to": 1761
+    },
+    {
+     "w": "así.",
+     "from": 1764,
+     "to": 1785
+    }
+   ]
+  },
+  {
+   "from": 1787,
+   "to": 1828,
+   "words": [
+    {
+     "w": "Ni",
+     "from": 1787,
+     "to": 1790
+    },
+    {
+     "w": "una",
+     "from": 1793,
+     "to": 1797
+    },
+    {
+     "w": "película.",
+     "from": 1799,
+     "to": 1826
+    }
+   ]
+  },
+  {
+   "from": 1828,
+   "to": 1866,
+   "words": [
+    {
+     "w": "Ni",
+     "from": 1828,
+     "to": 1830
+    },
+    {
+     "w": "un",
+     "from": 1833,
+     "to": 1835
+    },
+    {
+     "w": "disco.",
+     "from": 1840,
+     "to": 1864
+    }
+   ]
+  },
+  {
+   "from": 1866,
+   "to": 1897,
+   "words": [
+    {
+     "w": "Nada.",
+     "from": 1866,
+     "to": 1896
+    }
+   ]
+  },
+  {
+   "from": 1897,
+   "to": 1959,
+   "words": [
+    {
+     "w": "Y",
+     "from": 1897,
+     "to": 1898
+    },
+    {
+     "w": "lo",
+     "from": 1900,
+     "to": 1902
+    },
+    {
+     "w": "más",
+     "from": 1904,
+     "to": 1910
+    },
+    {
+     "w": "loco",
+     "from": 1912,
+     "to": 1924
+    },
+    {
+     "w": "es",
+     "from": 1926,
+     "to": 1931
+    },
+    {
+     "w": "que",
+     "from": 1935,
+     "to": 1938
+    },
+    {
+     "w": "nunca",
+     "from": 1940,
+     "to": 1950
+    },
+    {
+     "w": "dejó",
+     "from": 1953,
+     "to": 1958
+    }
+   ]
+  },
+  {
+   "from": 1959,
+   "to": 1993,
+   "words": [
+    {
+     "w": "de",
+     "from": 1959,
+     "to": 1960
+    },
+    {
+     "w": "venderse.",
+     "from": 1962,
+     "to": 1992
+    }
+   ]
+  },
+  {
+   "from": 1993,
+   "to": 2063,
+   "words": [
+    {
+     "w": "Salió",
+     "from": 1993,
+     "to": 2001
+    },
+    {
+     "w": "en",
+     "from": 2004,
+     "to": 2008
+    },
+    {
+     "w": "tres",
+     "from": 2012,
+     "to": 2015
+    },
+    {
+     "w": "generaciones",
+     "from": 2019,
+     "to": 2034
+    },
+    {
+     "w": "de",
+     "from": 2036,
+     "to": 2037
+    },
+    {
+     "w": "consolas,",
+     "from": 2040,
+     "to": 2062
+    }
+   ]
+  },
+  {
+   "from": 2063,
+   "to": 2133,
+   "words": [
+    {
+     "w": "y",
+     "from": 2063,
+     "to": 2066
+    },
+    {
+     "w": "hoy",
+     "from": 2068,
+     "to": 2078
+    },
+    {
+     "w": "supera",
+     "from": 2080,
+     "to": 2092
+    },
+    {
+     "w": "los",
+     "from": 2094,
+     "to": 2097
+    },
+    {
+     "w": "doscientos",
+     "from": 2099,
+     "to": 2121
+    },
+    {
+     "w": "treinta",
+     "from": 2122,
+     "to": 2130
+    }
+   ]
+  },
+  {
+   "from": 2133,
+   "to": 2192,
+   "words": [
+    {
+     "w": "millones",
+     "from": 2133,
+     "to": 2142
+    },
+    {
+     "w": "de",
+     "from": 2145,
+     "to": 2147
+    },
+    {
+     "w": "copias",
+     "from": 2151,
+     "to": 2157
+    },
+    {
+     "w": "vendidas.",
+     "from": 2159,
+     "to": 2191
+    }
+   ]
+  },
+  {
+   "from": 2192,
+   "to": 2267,
+   "words": [
+    {
+     "w": "Mientras",
+     "from": 2192,
+     "to": 2200
+    },
+    {
+     "w": "tanto,",
+     "from": 2202,
+     "to": 2220
+    },
+    {
+     "w": "GTA",
+     "from": 2222,
+     "to": 2234
+    },
+    {
+     "w": "Online",
+     "from": 2241,
+     "to": 2248
+    },
+    {
+     "w": "se",
+     "from": 2250,
+     "to": 2253
+    },
+    {
+     "w": "convirtió",
+     "from": 2255,
+     "to": 2266
+    }
+   ]
+  },
+  {
+   "from": 2267,
+   "to": 2332,
+   "words": [
+    {
+     "w": "en",
+     "from": 2267,
+     "to": 2270
+    },
+    {
+     "w": "una",
+     "from": 2273,
+     "to": 2277
+    },
+    {
+     "w": "máquina",
+     "from": 2279,
+     "to": 2291
+    },
+    {
+     "w": "de",
+     "from": 2292,
+     "to": 2294
+    },
+    {
+     "w": "imprimir",
+     "from": 2296,
+     "to": 2306
+    },
+    {
+     "w": "dinero.",
+     "from": 2309,
+     "to": 2331
+    }
+   ]
+  },
+  {
+   "from": 2332,
+   "to": 2391,
+   "words": [
+    {
+     "w": "Pero",
+     "from": 2332,
+     "to": 2334
+    },
+    {
+     "w": "los",
+     "from": 2338,
+     "to": 2342
+    },
+    {
+     "w": "fans",
+     "from": 2346,
+     "to": 2351
+    },
+    {
+     "w": "querían",
+     "from": 2354,
+     "to": 2361
+    },
+    {
+     "w": "algo",
+     "from": 2363,
+     "to": 2368
+    },
+    {
+     "w": "nuevo.",
+     "from": 2370,
+     "to": 2390
+    }
+   ]
+  },
+  {
+   "from": 2391,
+   "to": 2454,
+   "words": [
+    {
+     "w": "Y",
+     "from": 2391,
+     "to": 2392
+    },
+    {
+     "w": "durante",
+     "from": 2394,
+     "to": 2406
+    },
+    {
+     "w": "años,",
+     "from": 2409,
+     "to": 2424
+    },
+    {
+     "w": "Rockstar",
+     "from": 2426,
+     "to": 2440
+    },
+    {
+     "w": "guardó",
+     "from": 2445,
+     "to": 2452
+    }
+   ]
+  },
+  {
+   "from": 2454,
+   "to": 2500,
+   "words": [
+    {
+     "w": "silencio",
+     "from": 2454,
+     "to": 2469
+    },
+    {
+     "w": "absoluto.",
+     "from": 2471,
+     "to": 2499
+    }
+   ]
+  },
+  {
+   "from": 2500,
+   "to": 2582,
+   "words": [
+    {
+     "w": "Cada",
+     "from": 2500,
+     "to": 2507
+    },
+    {
+     "w": "rumor,",
+     "from": 2510,
+     "to": 2532
+    },
+    {
+     "w": "cada",
+     "from": 2533,
+     "to": 2538
+    },
+    {
+     "w": "supuesta",
+     "from": 2542,
+     "to": 2555
+    },
+    {
+     "w": "pista,",
+     "from": 2556,
+     "to": 2578
+    }
+   ]
+  },
+  {
+   "from": 2582,
+   "to": 2622,
+   "words": [
+    {
+     "w": "terminaba",
+     "from": 2582,
+     "to": 2591
+    },
+    {
+     "w": "en",
+     "from": 2594,
+     "to": 2596
+    },
+    {
+     "w": "nada.",
+     "from": 2597,
+     "to": 2621
+    }
+   ]
+  },
+  {
+   "from": 2622,
+   "to": 2664,
+   "words": [
+    {
+     "w": "Hasta",
+     "from": 2622,
+     "to": 2630
+    },
+    {
+     "w": "que",
+     "from": 2631,
+     "to": 2632
+    },
+    {
+     "w": "en",
+     "from": 2634,
+     "to": 2637
+    },
+    {
+     "w": "febrero",
+     "from": 2639,
+     "to": 2649
+    },
+    {
+     "w": "de",
+     "from": 2650,
+     "to": 2651
+    },
+    {
+     "w": "dos",
+     "from": 2654,
+     "to": 2658
+    },
+    {
+     "w": "mil",
+     "from": 2661,
+     "to": 2663
+    }
+   ]
+  },
+  {
+   "from": 2664,
+   "to": 2730,
+   "words": [
+    {
+     "w": "veintidós,",
+     "from": 2664,
+     "to": 2687
+    },
+    {
+     "w": "Rockstar",
+     "from": 2691,
+     "to": 2704
+    },
+    {
+     "w": "por",
+     "from": 2709,
+     "to": 2714
+    },
+    {
+     "w": "fin",
+     "from": 2716,
+     "to": 2718
+    },
+    {
+     "w": "lo",
+     "from": 2721,
+     "to": 2723
+    }
+   ]
+  },
+  {
+   "from": 2730,
+   "to": 2752,
+   "words": [
+    {
+     "w": "confirmó:",
+     "from": 2730,
+     "to": 2751
+    }
+   ]
+  },
+  {
+   "from": 2752,
+   "to": 2816,
+   "words": [
+    {
+     "w": "el",
+     "from": 2752,
+     "to": 2757
+    },
+    {
+     "w": "próximo",
+     "from": 2759,
+     "to": 2771
+    },
+    {
+     "w": "Grand",
+     "from": 2774,
+     "to": 2778
+    },
+    {
+     "w": "Theft",
+     "from": 2781,
+     "to": 2788
+    },
+    {
+     "w": "Auto",
+     "from": 2790,
+     "to": 2800
+    },
+    {
+     "w": "estaba",
+     "from": 2802,
+     "to": 2814
+    }
+   ]
+  },
+  {
+   "from": 2816,
+   "to": 2848,
+   "words": [
+    {
+     "w": "en",
+     "from": 2816,
+     "to": 2817
+    },
+    {
+     "w": "desarrollo.",
+     "from": 2820,
+     "to": 2847
+    }
+   ]
+  },
+  {
+   "from": 2848,
+   "to": 2891,
+   "words": [
+    {
+     "w": "Lo",
+     "from": 2848,
+     "to": 2850
+    },
+    {
+     "w": "que",
+     "from": 2853,
+     "to": 2858
+    },
+    {
+     "w": "nadie",
+     "from": 2860,
+     "to": 2865
+    },
+    {
+     "w": "esperaba...",
+     "from": 2870,
+     "to": 2890
+    }
+   ]
+  },
+  {
+   "from": 2891,
+   "to": 2951,
+   "words": [
+    {
+     "w": "era",
+     "from": 2891,
+     "to": 2901
+    },
+    {
+     "w": "cómo",
+     "from": 2902,
+     "to": 2908
+    },
+    {
+     "w": "lo",
+     "from": 2910,
+     "to": 2913
+    },
+    {
+     "w": "íbamos",
+     "from": 2915,
+     "to": 2922
+    },
+    {
+     "w": "a",
+     "from": 2925,
+     "to": 2927
+    },
+    {
+     "w": "ver",
+     "from": 2930,
+     "to": 2932
+    },
+    {
+     "w": "por",
+     "from": 2934,
+     "to": 2939
+    },
+    {
+     "w": "primera",
+     "from": 2943,
+     "to": 2949
+    }
+   ]
+  },
+  {
+   "from": 2951,
+   "to": 2996,
+   "words": [
+    {
+     "w": "vez.",
+     "from": 2951,
+     "to": 2978
+    }
+   ]
+  },
+  {
+   "from": 3071,
+   "to": 3143,
+   "words": [
+    {
+     "w": "Septiembre",
+     "from": 3071,
+     "to": 3090
+    },
+    {
+     "w": "de",
+     "from": 3093,
+     "to": 3094
+    },
+    {
+     "w": "dos",
+     "from": 3095,
+     "to": 3100
+    },
+    {
+     "w": "mil",
+     "from": 3102,
+     "to": 3105
+    },
+    {
+     "w": "veintidós.",
+     "from": 3107,
+     "to": 3141
+    }
+   ]
+  },
+  {
+   "from": 3143,
+   "to": 3198,
+   "words": [
+    {
+     "w": "Alguien",
+     "from": 3143,
+     "to": 3153
+    },
+    {
+     "w": "publica",
+     "from": 3155,
+     "to": 3167
+    },
+    {
+     "w": "en",
+     "from": 3168,
+     "to": 3169
+    },
+    {
+     "w": "un",
+     "from": 3172,
+     "to": 3174
+    },
+    {
+     "w": "foro",
+     "from": 3177,
+     "to": 3189
+    },
+    {
+     "w": "más",
+     "from": 3191,
+     "to": 3196
+    }
+   ]
+  },
+  {
+   "from": 3198,
+   "to": 3257,
+   "words": [
+    {
+     "w": "de",
+     "from": 3198,
+     "to": 3201
+    },
+    {
+     "w": "noventa",
+     "from": 3203,
+     "to": 3217
+    },
+    {
+     "w": "videos",
+     "from": 3220,
+     "to": 3232
+    },
+    {
+     "w": "de",
+     "from": 3233,
+     "to": 3234
+    },
+    {
+     "w": "una",
+     "from": 3237,
+     "to": 3241
+    },
+    {
+     "w": "versión",
+     "from": 3245,
+     "to": 3253
+    }
+   ]
+  },
+  {
+   "from": 3257,
+   "to": 3304,
+   "words": [
+    {
+     "w": "temprana",
+     "from": 3257,
+     "to": 3268
+    },
+    {
+     "w": "del",
+     "from": 3270,
+     "to": 3273
+    },
+    {
+     "w": "juego.",
+     "from": 3275,
+     "to": 3301
+    }
+   ]
+  },
+  {
+   "from": 3304,
+   "to": 3352,
+   "words": [
+    {
+     "w": "Gráficos",
+     "from": 3304,
+     "to": 3318
+    },
+    {
+     "w": "sin",
+     "from": 3321,
+     "to": 3323
+    },
+    {
+     "w": "terminar,",
+     "from": 3329,
+     "to": 3351
+    }
+   ]
+  },
+  {
+   "from": 3352,
+   "to": 3423,
+   "words": [
+    {
+     "w": "menús",
+     "from": 3352,
+     "to": 3359
+    },
+    {
+     "w": "de",
+     "from": 3361,
+     "to": 3364
+    },
+    {
+     "w": "prueba,",
+     "from": 3365,
+     "to": 3387
+    },
+    {
+     "w": "y",
+     "from": 3388,
+     "to": 3390
+    },
+    {
+     "w": "una",
+     "from": 3394,
+     "to": 3397
+    },
+    {
+     "w": "pareja",
+     "from": 3401,
+     "to": 3409
+    },
+    {
+     "w": "robando",
+     "from": 3413,
+     "to": 3421
+    }
+   ]
+  },
+  {
+   "from": 3423,
+   "to": 3462,
+   "words": [
+    {
+     "w": "un",
+     "from": 3423,
+     "to": 3424
+    },
+    {
+     "w": "restaurante.",
+     "from": 3426,
+     "to": 3461
+    }
+   ]
+  },
+  {
+   "from": 3462,
+   "to": 3503,
+   "words": [
+    {
+     "w": "Era",
+     "from": 3462,
+     "to": 3469
+    },
+    {
+     "w": "real.",
+     "from": 3472,
+     "to": 3502
+    }
+   ]
+  },
+  {
+   "from": 3503,
+   "to": 3551,
+   "words": [
+    {
+     "w": "Rockstar",
+     "from": 3503,
+     "to": 3517
+    },
+    {
+     "w": "lo",
+     "from": 3520,
+     "to": 3522
+    },
+    {
+     "w": "confirmó,",
+     "from": 3528,
+     "to": 3550
+    }
+   ]
+  },
+  {
+   "from": 3551,
+   "to": 3613,
+   "words": [
+    {
+     "w": "y",
+     "from": 3551,
+     "to": 3552
+    },
+    {
+     "w": "las",
+     "from": 3553,
+     "to": 3558
+    },
+    {
+     "w": "acciones",
+     "from": 3564,
+     "to": 3570
+    },
+    {
+     "w": "de",
+     "from": 3573,
+     "to": 3575
+    },
+    {
+     "w": "Take-Two",
+     "from": 3577,
+     "to": 3597
+    },
+    {
+     "w": "cayeron",
+     "from": 3598,
+     "to": 3611
+    }
+   ]
+  },
+  {
+   "from": 3613,
+   "to": 3645,
+   "words": [
+    {
+     "w": "en",
+     "from": 3613,
+     "to": 3616
+    },
+    {
+     "w": "bolsa.",
+     "from": 3617,
+     "to": 3643
+    }
+   ]
+  },
+  {
+   "from": 3645,
+   "to": 3696,
+   "words": [
+    {
+     "w": "¿Y",
+     "from": 3645,
+     "to": 3647
+    },
+    {
+     "w": "quién",
+     "from": 3648,
+     "to": 3652
+    },
+    {
+     "w": "estaba",
+     "from": 3654,
+     "to": 3664
+    },
+    {
+     "w": "detrás?",
+     "from": 3666,
+     "to": 3695
+    }
+   ]
+  },
+  {
+   "from": 3696,
+   "to": 3762,
+   "words": [
+    {
+     "w": "Un",
+     "from": 3696,
+     "to": 3697
+    },
+    {
+     "w": "adolescente",
+     "from": 3700,
+     "to": 3717
+    },
+    {
+     "w": "británico",
+     "from": 3719,
+     "to": 3733
+    },
+    {
+     "w": "de",
+     "from": 3736,
+     "to": 3738
+    },
+    {
+     "w": "diecisiete",
+     "from": 3741,
+     "to": 3760
+    }
+   ]
+  },
+  {
+   "from": 3762,
+   "to": 3829,
+   "words": [
+    {
+     "w": "años,",
+     "from": 3762,
+     "to": 3783
+    },
+    {
+     "w": "miembro",
+     "from": 3784,
+     "to": 3793
+    },
+    {
+     "w": "del",
+     "from": 3796,
+     "to": 3798
+    },
+    {
+     "w": "grupo",
+     "from": 3802,
+     "to": 3805
+    },
+    {
+     "w": "de",
+     "from": 3808,
+     "to": 3810
+    },
+    {
+     "w": "hackers",
+     "from": 3814,
+     "to": 3827
+    }
+   ]
+  },
+  {
+   "from": 3829,
+   "to": 3863,
+   "words": [
+    {
+     "w": "Lapsus.",
+     "from": 3829,
+     "to": 3862
+    }
+   ]
+  },
+  {
+   "from": 3863,
+   "to": 3909,
+   "words": [
+    {
+     "w": "Lo",
+     "from": 3863,
+     "to": 3868
+    },
+    {
+     "w": "más",
+     "from": 3869,
+     "to": 3875
+    },
+    {
+     "w": "surrealista:",
+     "from": 3876,
+     "to": 3907
+    }
+   ]
+  },
+  {
+   "from": 3909,
+   "to": 3953,
+   "words": [
+    {
+     "w": "parte",
+     "from": 3909,
+     "to": 3916
+    },
+    {
+     "w": "del",
+     "from": 3918,
+     "to": 3921
+    },
+    {
+     "w": "ataque",
+     "from": 3924,
+     "to": 3933
+    },
+    {
+     "w": "lo",
+     "from": 3934,
+     "to": 3935
+    },
+    {
+     "w": "hizo",
+     "from": 3937,
+     "to": 3945
+    },
+    {
+     "w": "desde",
+     "from": 3947,
+     "to": 3952
+    }
+   ]
+  },
+  {
+   "from": 3953,
+   "to": 3997,
+   "words": [
+    {
+     "w": "la",
+     "from": 3953,
+     "to": 3954
+    },
+    {
+     "w": "habitación",
+     "from": 3958,
+     "to": 3971
+    },
+    {
+     "w": "de",
+     "from": 3972,
+     "to": 3973
+    },
+    {
+     "w": "un",
+     "from": 3976,
+     "to": 3978
+    },
+    {
+     "w": "hotel,",
+     "from": 3987,
+     "to": 3996
+    }
+   ]
+  },
+  {
+   "from": 3997,
+   "to": 4050,
+   "words": [
+    {
+     "w": "mientras",
+     "from": 3997,
+     "to": 4007
+    },
+    {
+     "w": "estaba",
+     "from": 4011,
+     "to": 4019
+    },
+    {
+     "w": "bajo",
+     "from": 4020,
+     "to": 4026
+    },
+    {
+     "w": "fianza,",
+     "from": 4027,
+     "to": 4049
+    }
+   ]
+  },
+  {
+   "from": 4050,
+   "to": 4105,
+   "words": [
+    {
+     "w": "usando",
+     "from": 4050,
+     "to": 4060
+    },
+    {
+     "w": "el",
+     "from": 4061,
+     "to": 4062
+    },
+    {
+     "w": "televisor",
+     "from": 4065,
+     "to": 4077
+    },
+    {
+     "w": "del",
+     "from": 4079,
+     "to": 4084
+    },
+    {
+     "w": "cuarto,",
+     "from": 4085,
+     "to": 4104
+    }
+   ]
+  },
+  {
+   "from": 4105,
+   "to": 4161,
+   "words": [
+    {
+     "w": "un",
+     "from": 4105,
+     "to": 4108
+    },
+    {
+     "w": "teléfono",
+     "from": 4111,
+     "to": 4127
+    },
+    {
+     "w": "y",
+     "from": 4129,
+     "to": 4132
+    },
+    {
+     "w": "un",
+     "from": 4133,
+     "to": 4134
+    },
+    {
+     "w": "dispositivo",
+     "from": 4138,
+     "to": 4153
+    },
+    {
+     "w": "de",
+     "from": 4156,
+     "to": 4158
+    }
+   ]
+  },
+  {
+   "from": 4161,
+   "to": 4185,
+   "words": [
+    {
+     "w": "streaming.",
+     "from": 4161,
+     "to": 4183
+    }
+   ]
+  },
+  {
+   "from": 4185,
+   "to": 4230,
+   "words": [
+    {
+     "w": "Para",
+     "from": 4185,
+     "to": 4189
+    },
+    {
+     "w": "cualquier",
+     "from": 4192,
+     "to": 4204
+    },
+    {
+     "w": "estudio,",
+     "from": 4207,
+     "to": 4228
+    }
+   ]
+  },
+  {
+   "from": 4230,
+   "to": 4303,
+   "words": [
+    {
+     "w": "aquello",
+     "from": 4230,
+     "to": 4237
+    },
+    {
+     "w": "habría",
+     "from": 4240,
+     "to": 4249
+    },
+    {
+     "w": "sido",
+     "from": 4251,
+     "to": 4254
+    },
+    {
+     "w": "una",
+     "from": 4257,
+     "to": 4261
+    },
+    {
+     "w": "catástrofe.",
+     "from": 4265,
+     "to": 4300
+    }
+   ]
+  },
+  {
+   "from": 4303,
+   "to": 4367,
+   "words": [
+    {
+     "w": "Para",
+     "from": 4303,
+     "to": 4307
+    },
+    {
+     "w": "Rockstar",
+     "from": 4311,
+     "to": 4326
+    },
+    {
+     "w": "fue",
+     "from": 4328,
+     "to": 4331
+    },
+    {
+     "w": "una",
+     "from": 4333,
+     "to": 4336
+    },
+    {
+     "w": "herida...",
+     "from": 4338,
+     "to": 4365
+    }
+   ]
+  },
+  {
+   "from": 4367,
+   "to": 4429,
+   "words": [
+    {
+     "w": "pero",
+     "from": 4367,
+     "to": 4371
+    },
+    {
+     "w": "también",
+     "from": 4372,
+     "to": 4384
+    },
+    {
+     "w": "la",
+     "from": 4386,
+     "to": 4389
+    },
+    {
+     "w": "prueba",
+     "from": 4390,
+     "to": 4398
+    },
+    {
+     "w": "de",
+     "from": 4399,
+     "to": 4401
+    },
+    {
+     "w": "algo:",
+     "from": 4403,
+     "to": 4427
+    }
+   ]
+  },
+  {
+   "from": 4429,
+   "to": 4497,
+   "words": [
+    {
+     "w": "el",
+     "from": 4429,
+     "to": 4434
+    },
+    {
+     "w": "mundo",
+     "from": 4435,
+     "to": 4444
+    },
+    {
+     "w": "entero",
+     "from": 4450,
+     "to": 4457
+    },
+    {
+     "w": "estaba",
+     "from": 4458,
+     "to": 4468
+    },
+    {
+     "w": "desesperado",
+     "from": 4470,
+     "to": 4494
+    }
+   ]
+  },
+  {
+   "from": 4497,
+   "to": 4560,
+   "words": [
+    {
+     "w": "por",
+     "from": 4497,
+     "to": 4499
+    },
+    {
+     "w": "ver",
+     "from": 4503,
+     "to": 4506
+    },
+    {
+     "w": "GTA",
+     "from": 4509,
+     "to": 4518
+    },
+    {
+     "w": "Seis.",
+     "from": 4521,
+     "to": 4542
+    }
+   ]
+  },
+  {
+   "from": 4636,
+   "to": 4697,
+   "words": [
+    {
+     "w": "Y",
+     "from": 4636,
+     "to": 4638
+    },
+    {
+     "w": "Rockstar",
+     "from": 4641,
+     "to": 4655
+    },
+    {
+     "w": "respondió",
+     "from": 4658,
+     "to": 4674
+    },
+    {
+     "w": "como",
+     "from": 4678,
+     "to": 4682
+    },
+    {
+     "w": "mejor",
+     "from": 4684,
+     "to": 4696
+    }
+   ]
+  },
+  {
+   "from": 4697,
+   "to": 4730,
+   "words": [
+    {
+     "w": "sabe",
+     "from": 4697,
+     "to": 4703
+    },
+    {
+     "w": "hacerlo:",
+     "from": 4706,
+     "to": 4728
+    }
+   ]
+  },
+  {
+   "from": 4730,
+   "to": 4773,
+   "words": [
+    {
+     "w": "con",
+     "from": 4730,
+     "to": 4734
+    },
+    {
+     "w": "un",
+     "from": 4737,
+     "to": 4742
+    },
+    {
+     "w": "tráiler.",
+     "from": 4744,
+     "to": 4772
+    }
+   ]
+  },
+  {
+   "from": 4773,
+   "to": 4822,
+   "words": [
+    {
+     "w": "Estaba",
+     "from": 4773,
+     "to": 4782
+    },
+    {
+     "w": "programado",
+     "from": 4788,
+     "to": 4799
+    },
+    {
+     "w": "para",
+     "from": 4802,
+     "to": 4804
+    },
+    {
+     "w": "el",
+     "from": 4806,
+     "to": 4811
+    },
+    {
+     "w": "cinco",
+     "from": 4815,
+     "to": 4821
+    }
+   ]
+  },
+  {
+   "from": 4822,
+   "to": 4883,
+   "words": [
+    {
+     "w": "de",
+     "from": 4822,
+     "to": 4823
+    },
+    {
+     "w": "diciembre",
+     "from": 4826,
+     "to": 4840
+    },
+    {
+     "w": "de",
+     "from": 4842,
+     "to": 4845
+    },
+    {
+     "w": "dos",
+     "from": 4847,
+     "to": 4850
+    },
+    {
+     "w": "mil",
+     "from": 4852,
+     "to": 4854
+    },
+    {
+     "w": "veintitrés,",
+     "from": 4856,
+     "to": 4882
+    }
+   ]
+  },
+  {
+   "from": 4883,
+   "to": 4941,
+   "words": [
+    {
+     "w": "pero",
+     "from": 4883,
+     "to": 4888
+    },
+    {
+     "w": "se",
+     "from": 4890,
+     "to": 4893
+    },
+    {
+     "w": "filtró",
+     "from": 4898,
+     "to": 4904
+    },
+    {
+     "w": "unas",
+     "from": 4905,
+     "to": 4912
+    },
+    {
+     "w": "horas",
+     "from": 4914,
+     "to": 4919
+    },
+    {
+     "w": "antes,",
+     "from": 4922,
+     "to": 4940
+    }
+   ]
+  },
+  {
+   "from": 4941,
+   "to": 4991,
+   "words": [
+    {
+     "w": "así",
+     "from": 4941,
+     "to": 4948
+    },
+    {
+     "w": "que",
+     "from": 4949,
+     "to": 4950
+    },
+    {
+     "w": "lo",
+     "from": 4953,
+     "to": 4955
+    },
+    {
+     "w": "soltaron",
+     "from": 4958,
+     "to": 4967
+    },
+    {
+     "w": "de",
+     "from": 4970,
+     "to": 4972
+    },
+    {
+     "w": "golpe,",
+     "from": 4973,
+     "to": 4990
+    }
+   ]
+  },
+  {
+   "from": 4991,
+   "to": 5037,
+   "words": [
+    {
+     "w": "en",
+     "from": 4991,
+     "to": 4998
+    },
+    {
+     "w": "plena",
+     "from": 5000,
+     "to": 5008
+    },
+    {
+     "w": "noche.",
+     "from": 5010,
+     "to": 5036
+    }
+   ]
+  },
+  {
+   "from": 5037,
+   "to": 5090,
+   "words": [
+    {
+     "w": "Con",
+     "from": 5037,
+     "to": 5042
+    },
+    {
+     "w": "Love",
+     "from": 5044,
+     "to": 5049
+    },
+    {
+     "w": "Is",
+     "from": 5051,
+     "to": 5054
+    },
+    {
+     "w": "a",
+     "from": 5056,
+     "to": 5058
+    },
+    {
+     "w": "Long",
+     "from": 5062,
+     "to": 5066
+    },
+    {
+     "w": "Road",
+     "from": 5068,
+     "to": 5075
+    },
+    {
+     "w": "de",
+     "from": 5078,
+     "to": 5080
+    },
+    {
+     "w": "Tom",
+     "from": 5084,
+     "to": 5087
+    }
+   ]
+  },
+  {
+   "from": 5090,
+   "to": 5152,
+   "words": [
+    {
+     "w": "Petty",
+     "from": 5090,
+     "to": 5094
+    },
+    {
+     "w": "de",
+     "from": 5097,
+     "to": 5099
+    },
+    {
+     "w": "fondo,",
+     "from": 5100,
+     "to": 5120
+    },
+    {
+     "w": "volvimos",
+     "from": 5121,
+     "to": 5138
+    },
+    {
+     "w": "a",
+     "from": 5140,
+     "to": 5141
+    },
+    {
+     "w": "Vice",
+     "from": 5142,
+     "to": 5150
+    }
+   ]
+  },
+  {
+   "from": 5152,
+   "to": 5181,
+   "words": [
+    {
+     "w": "City.",
+     "from": 5152,
+     "to": 5180
+    }
+   ]
+  },
+  {
+   "from": 5181,
+   "to": 5241,
+   "words": [
+    {
+     "w": "En",
+     "from": 5181,
+     "to": 5186
+    },
+    {
+     "w": "veinticuatro",
+     "from": 5187,
+     "to": 5207
+    },
+    {
+     "w": "horas",
+     "from": 5210,
+     "to": 5219
+    },
+    {
+     "w": "superó",
+     "from": 5222,
+     "to": 5231
+    },
+    {
+     "w": "los",
+     "from": 5235,
+     "to": 5238
+    }
+   ]
+  },
+  {
+   "from": 5241,
+   "to": 5310,
+   "words": [
+    {
+     "w": "noventa",
+     "from": 5241,
+     "to": 5255
+    },
+    {
+     "w": "millones",
+     "from": 5258,
+     "to": 5270
+    },
+    {
+     "w": "de",
+     "from": 5271,
+     "to": 5272
+    },
+    {
+     "w": "vistas",
+     "from": 5273,
+     "to": 5282
+    },
+    {
+     "w": "en",
+     "from": 5284,
+     "to": 5286
+    },
+    {
+     "w": "YouTube:",
+     "from": 5289,
+     "to": 5309
+    }
+   ]
+  },
+  {
+   "from": 5310,
+   "to": 5366,
+   "words": [
+    {
+     "w": "un",
+     "from": 5310,
+     "to": 5315
+    },
+    {
+     "w": "récord",
+     "from": 5318,
+     "to": 5327
+    },
+    {
+     "w": "para",
+     "from": 5330,
+     "to": 5337
+    },
+    {
+     "w": "cualquier",
+     "from": 5338,
+     "to": 5351
+    },
+    {
+     "w": "video",
+     "from": 5354,
+     "to": 5363
+    }
+   ]
+  },
+  {
+   "from": 5366,
+   "to": 5418,
+   "words": [
+    {
+     "w": "que",
+     "from": 5366,
+     "to": 5370
+    },
+    {
+     "w": "no",
+     "from": 5373,
+     "to": 5375
+    },
+    {
+     "w": "fuera",
+     "from": 5378,
+     "to": 5382
+    },
+    {
+     "w": "musical.",
+     "from": 5385,
+     "to": 5417
+    }
+   ]
+  },
+  {
+   "from": 5418,
+   "to": 5460,
+   "words": [
+    {
+     "w": "Año",
+     "from": 5418,
+     "to": 5423
+    },
+    {
+     "w": "y",
+     "from": 5426,
+     "to": 5427
+    },
+    {
+     "w": "medio",
+     "from": 5428,
+     "to": 5435
+    },
+    {
+     "w": "después,",
+     "from": 5439,
+     "to": 5458
+    }
+   ]
+  },
+  {
+   "from": 5460,
+   "to": 5516,
+   "words": [
+    {
+     "w": "en",
+     "from": 5460,
+     "to": 5462
+    },
+    {
+     "w": "mayo",
+     "from": 5465,
+     "to": 5470
+    },
+    {
+     "w": "de",
+     "from": 5471,
+     "to": 5474
+    },
+    {
+     "w": "dos",
+     "from": 5476,
+     "to": 5478
+    },
+    {
+     "w": "mil",
+     "from": 5481,
+     "to": 5483
+    },
+    {
+     "w": "veinticinco,",
+     "from": 5484,
+     "to": 5514
+    }
+   ]
+  },
+  {
+   "from": 5516,
+   "to": 5565,
+   "words": [
+    {
+     "w": "llegó",
+     "from": 5516,
+     "to": 5520
+    },
+    {
+     "w": "el",
+     "from": 5522,
+     "to": 5526
+    },
+    {
+     "w": "segundo",
+     "from": 5530,
+     "to": 5541
+    },
+    {
+     "w": "tráiler,",
+     "from": 5543,
+     "to": 5562
+    }
+   ]
+  },
+  {
+   "from": 5565,
+   "to": 5618,
+   "words": [
+    {
+     "w": "capturado",
+     "from": 5565,
+     "to": 5579
+    },
+    {
+     "w": "completamente",
+     "from": 5583,
+     "to": 5606
+    },
+    {
+     "w": "dentro",
+     "from": 5609,
+     "to": 5615
+    }
+   ]
+  },
+  {
+   "from": 5618,
+   "to": 5678,
+   "words": [
+    {
+     "w": "del",
+     "from": 5618,
+     "to": 5620
+    },
+    {
+     "w": "juego",
+     "from": 5621,
+     "to": 5630
+    },
+    {
+     "w": "en",
+     "from": 5632,
+     "to": 5634
+    },
+    {
+     "w": "una",
+     "from": 5637,
+     "to": 5642
+    },
+    {
+     "w": "PS5.",
+     "from": 5644,
+     "to": 5676
+    }
+   ]
+  },
+  {
+   "from": 5678,
+   "to": 5745,
+   "words": [
+    {
+     "w": "Según",
+     "from": 5678,
+     "to": 5685
+    },
+    {
+     "w": "Rockstar,",
+     "from": 5687,
+     "to": 5708
+    },
+    {
+     "w": "sumó",
+     "from": 5709,
+     "to": 5718
+    },
+    {
+     "w": "cuatrocientos",
+     "from": 5721,
+     "to": 5742
+    }
+   ]
+  },
+  {
+   "from": 5745,
+   "to": 5798,
+   "words": [
+    {
+     "w": "setenta",
+     "from": 5745,
+     "to": 5757
+    },
+    {
+     "w": "y",
+     "from": 5758,
+     "to": 5759
+    },
+    {
+     "w": "cinco",
+     "from": 5763,
+     "to": 5768
+    },
+    {
+     "w": "millones",
+     "from": 5769,
+     "to": 5781
+    },
+    {
+     "w": "de",
+     "from": 5782,
+     "to": 5783
+    },
+    {
+     "w": "vistas",
+     "from": 5786,
+     "to": 5795
+    }
+   ]
+  },
+  {
+   "from": 5798,
+   "to": 5867,
+   "words": [
+    {
+     "w": "en",
+     "from": 5798,
+     "to": 5805
+    },
+    {
+     "w": "todas",
+     "from": 5807,
+     "to": 5814
+    },
+    {
+     "w": "las",
+     "from": 5817,
+     "to": 5819
+    },
+    {
+     "w": "plataformas",
+     "from": 5820,
+     "to": 5841
+    },
+    {
+     "w": "en",
+     "from": 5843,
+     "to": 5846
+    },
+    {
+     "w": "apenas",
+     "from": 5849,
+     "to": 5865
+    }
+   ]
+  },
+  {
+   "from": 5867,
+   "to": 5896,
+   "words": [
+    {
+     "w": "un",
+     "from": 5867,
+     "to": 5872
+    },
+    {
+     "w": "día.",
+     "from": 5883,
+     "to": 5895
+    }
+   ]
+  },
+  {
+   "from": 5896,
+   "to": 5942,
+   "words": [
+    {
+     "w": "Y",
+     "from": 5896,
+     "to": 5898
+    },
+    {
+     "w": "en",
+     "from": 5900,
+     "to": 5901
+    },
+    {
+     "w": "octubre",
+     "from": 5904,
+     "to": 5913
+    },
+    {
+     "w": "de",
+     "from": 5914,
+     "to": 5915
+    },
+    {
+     "w": "este",
+     "from": 5918,
+     "to": 5925
+    },
+    {
+     "w": "año,",
+     "from": 5927,
+     "to": 5940
+    }
+   ]
+  },
+  {
+   "from": 5942,
+   "to": 5997,
+   "words": [
+    {
+     "w": "el",
+     "from": 5942,
+     "to": 5946
+    },
+    {
+     "w": "tráiler",
+     "from": 5949,
+     "to": 5958
+    },
+    {
+     "w": "de",
+     "from": 5960,
+     "to": 5961
+    },
+    {
+     "w": "lanzamiento",
+     "from": 5963,
+     "to": 5982
+    },
+    {
+     "w": "cerró",
+     "from": 5985,
+     "to": 5994
+    }
+   ]
+  },
+  {
+   "from": 5997,
+   "to": 6048,
+   "words": [
+    {
+     "w": "la",
+     "from": 5997,
+     "to": 5999
+    },
+    {
+     "w": "cuenta",
+     "from": 6000,
+     "to": 6009
+    },
+    {
+     "w": "regresiva.",
+     "from": 6011,
+     "to": 6045
+    }
+   ]
+  },
+  {
+   "from": 6048,
+   "to": 6102,
+   "words": [
+    {
+     "w": "Pero",
+     "from": 6048,
+     "to": 6054
+    },
+    {
+     "w": "entre",
+     "from": 6057,
+     "to": 6066
+    },
+    {
+     "w": "tráiler",
+     "from": 6069,
+     "to": 6078
+    },
+    {
+     "w": "y",
+     "from": 6080,
+     "to": 6081
+    },
+    {
+     "w": "tráiler,",
+     "from": 6083,
+     "to": 6101
+    }
+   ]
+  },
+  {
+   "from": 6102,
+   "to": 6165,
+   "words": [
+    {
+     "w": "hubo",
+     "from": 6102,
+     "to": 6108
+    },
+    {
+     "w": "algo",
+     "from": 6110,
+     "to": 6117
+    },
+    {
+     "w": "que",
+     "from": 6119,
+     "to": 6122
+    },
+    {
+     "w": "dolió",
+     "from": 6124,
+     "to": 6134
+    },
+    {
+     "w": "más",
+     "from": 6136,
+     "to": 6143
+    },
+    {
+     "w": "que",
+     "from": 6146,
+     "to": 6148
+    },
+    {
+     "w": "cualquier",
+     "from": 6149,
+     "to": 6162
+    }
+   ]
+  },
+  {
+   "from": 6165,
+   "to": 6219,
+   "words": [
+    {
+     "w": "filtración...",
+     "from": 6165,
+     "to": 6201
+    }
+   ]
+  },
+  {
+   "from": 6294,
+   "to": 6344,
+   "words": [
+    {
+     "w": "Los",
+     "from": 6294,
+     "to": 6299
+    },
+    {
+     "w": "retrasos.",
+     "from": 6304,
+     "to": 6342
+    }
+   ]
+  },
+  {
+   "from": 6344,
+   "to": 6403,
+   "words": [
+    {
+     "w": "La",
+     "from": 6344,
+     "to": 6347
+    },
+    {
+     "w": "primera",
+     "from": 6349,
+     "to": 6359
+    },
+    {
+     "w": "ventana",
+     "from": 6362,
+     "to": 6371
+    },
+    {
+     "w": "oficial",
+     "from": 6373,
+     "to": 6390
+    },
+    {
+     "w": "era",
+     "from": 6392,
+     "to": 6400
+    }
+   ]
+  },
+  {
+   "from": 6403,
+   "to": 6450,
+   "words": [
+    {
+     "w": "dos",
+     "from": 6403,
+     "to": 6407
+    },
+    {
+     "w": "mil",
+     "from": 6409,
+     "to": 6414
+    },
+    {
+     "w": "veinticinco.",
+     "from": 6416,
+     "to": 6449
+    }
+   ]
+  },
+  {
+   "from": 6450,
+   "to": 6498,
+   "words": [
+    {
+     "w": "Pero",
+     "from": 6450,
+     "to": 6455
+    },
+    {
+     "w": "en",
+     "from": 6457,
+     "to": 6460
+    },
+    {
+     "w": "mayo",
+     "from": 6463,
+     "to": 6469
+    },
+    {
+     "w": "de",
+     "from": 6470,
+     "to": 6472
+    },
+    {
+     "w": "ese",
+     "from": 6475,
+     "to": 6479
+    },
+    {
+     "w": "año,",
+     "from": 6481,
+     "to": 6497
+    }
+   ]
+  },
+  {
+   "from": 6498,
+   "to": 6575,
+   "words": [
+    {
+     "w": "Rockstar",
+     "from": 6498,
+     "to": 6510
+    },
+    {
+     "w": "anunció",
+     "from": 6512,
+     "to": 6529
+    },
+    {
+     "w": "una",
+     "from": 6532,
+     "to": 6539
+    },
+    {
+     "w": "nueva",
+     "from": 6540,
+     "to": 6548
+    },
+    {
+     "w": "fecha:",
+     "from": 6560,
+     "to": 6574
+    }
+   ]
+  },
+  {
+   "from": 6575,
+   "to": 6661,
+   "words": [
+    {
+     "w": "veintiséis",
+     "from": 6575,
+     "to": 6594
+    },
+    {
+     "w": "de",
+     "from": 6596,
+     "to": 6599
+    },
+    {
+     "w": "mayo",
+     "from": 6602,
+     "to": 6611
+    },
+    {
+     "w": "de",
+     "from": 6613,
+     "to": 6616
+    },
+    {
+     "w": "dos",
+     "from": 6619,
+     "to": 6623
+    },
+    {
+     "w": "mil",
+     "from": 6625,
+     "to": 6628
+    },
+    {
+     "w": "veintiséis.",
+     "from": 6629,
+     "to": 6660
+    }
+   ]
+  },
+  {
+   "from": 6661,
+   "to": 6757,
+   "words": [
+    {
+     "w": "Internet",
+     "from": 6661,
+     "to": 6678
+    },
+    {
+     "w": "explotó,",
+     "from": 6680,
+     "to": 6708
+    },
+    {
+     "w": "y",
+     "from": 6709,
+     "to": 6712
+    },
+    {
+     "w": "los",
+     "from": 6715,
+     "to": 6719
+    },
+    {
+     "w": "memes",
+     "from": 6721,
+     "to": 6728
+    },
+    {
+     "w": "también.",
+     "from": 6730,
+     "to": 6756
+    }
+   ]
+  },
+  {
+   "from": 6757,
+   "to": 6811,
+   "words": [
+    {
+     "w": "Y",
+     "from": 6757,
+     "to": 6760
+    },
+    {
+     "w": "cuando",
+     "from": 6761,
+     "to": 6772
+    },
+    {
+     "w": "todos",
+     "from": 6776,
+     "to": 6781
+    },
+    {
+     "w": "ya",
+     "from": 6784,
+     "to": 6786
+    },
+    {
+     "w": "tenían",
+     "from": 6788,
+     "to": 6798
+    },
+    {
+     "w": "el",
+     "from": 6799,
+     "to": 6800
+    },
+    {
+     "w": "día",
+     "from": 6803,
+     "to": 6808
+    }
+   ]
+  },
+  {
+   "from": 6811,
+   "to": 6853,
+   "words": [
+    {
+     "w": "marcado",
+     "from": 6811,
+     "to": 6820
+    },
+    {
+     "w": "en",
+     "from": 6821,
+     "to": 6822
+    },
+    {
+     "w": "el",
+     "from": 6824,
+     "to": 6827
+    },
+    {
+     "w": "calendario,",
+     "from": 6829,
+     "to": 6852
+    }
+   ]
+  },
+  {
+   "from": 6853,
+   "to": 6912,
+   "words": [
+    {
+     "w": "en",
+     "from": 6853,
+     "to": 6856
+    },
+    {
+     "w": "noviembre",
+     "from": 6858,
+     "to": 6872
+    },
+    {
+     "w": "de",
+     "from": 6875,
+     "to": 6877
+    },
+    {
+     "w": "dos",
+     "from": 6880,
+     "to": 6882
+    },
+    {
+     "w": "mil",
+     "from": 6884,
+     "to": 6887
+    },
+    {
+     "w": "veinticinco",
+     "from": 6888,
+     "to": 6911
+    }
+   ]
+  },
+  {
+   "from": 6912,
+   "to": 6968,
+   "words": [
+    {
+     "w": "llegó",
+     "from": 6912,
+     "to": 6922
+    },
+    {
+     "w": "el",
+     "from": 6924,
+     "to": 6925
+    },
+    {
+     "w": "segundo",
+     "from": 6928,
+     "to": 6940
+    },
+    {
+     "w": "golpe:",
+     "from": 6941,
+     "to": 6966
+    }
+   ]
+  },
+  {
+   "from": 6968,
+   "to": 7009,
+   "words": [
+    {
+     "w": "otro",
+     "from": 6968,
+     "to": 6976
+    },
+    {
+     "w": "retraso.",
+     "from": 6978,
+     "to": 7007
+    }
+   ]
+  },
+  {
+   "from": 7009,
+   "to": 7052,
+   "words": [
+    {
+     "w": "Seis",
+     "from": 7009,
+     "to": 7016
+    },
+    {
+     "w": "meses",
+     "from": 7019,
+     "to": 7028
+    },
+    {
+     "w": "más.",
+     "from": 7031,
+     "to": 7051
+    }
+   ]
+  },
+  {
+   "from": 7052,
+   "to": 7084,
+   "words": [
+    {
+     "w": "Nueva",
+     "from": 7052,
+     "to": 7060
+    },
+    {
+     "w": "fecha:",
+     "from": 7062,
+     "to": 7082
+    }
+   ]
+  },
+  {
+   "from": 7084,
+   "to": 7132,
+   "words": [
+    {
+     "w": "diecinueve",
+     "from": 7084,
+     "to": 7100
+    },
+    {
+     "w": "de",
+     "from": 7102,
+     "to": 7103
+    },
+    {
+     "w": "noviembre",
+     "from": 7105,
+     "to": 7120
+    },
+    {
+     "w": "de",
+     "from": 7122,
+     "to": 7124
+    },
+    {
+     "w": "dos",
+     "from": 7127,
+     "to": 7129
+    }
+   ]
+  },
+  {
+   "from": 7132,
+   "to": 7175,
+   "words": [
+    {
+     "w": "mil",
+     "from": 7132,
+     "to": 7134
+    },
+    {
+     "w": "veintiséis.",
+     "from": 7136,
+     "to": 7174
+    }
+   ]
+  },
+  {
+   "from": 7175,
+   "to": 7237,
+   "words": [
+    {
+     "w": "Rockstar",
+     "from": 7175,
+     "to": 7189
+    },
+    {
+     "w": "pidió",
+     "from": 7193,
+     "to": 7199
+    },
+    {
+     "w": "perdón",
+     "from": 7201,
+     "to": 7218
+    },
+    {
+     "w": "y",
+     "from": 7220,
+     "to": 7222
+    },
+    {
+     "w": "explicó",
+     "from": 7223,
+     "to": 7236
+    }
+   ]
+  },
+  {
+   "from": 7237,
+   "to": 7289,
+   "words": [
+    {
+     "w": "que",
+     "from": 7237,
+     "to": 7240
+    },
+    {
+     "w": "necesitaba",
+     "from": 7241,
+     "to": 7259
+    },
+    {
+     "w": "ese",
+     "from": 7262,
+     "to": 7266
+    },
+    {
+     "w": "tiempo",
+     "from": 7268,
+     "to": 7278
+    },
+    {
+     "w": "para",
+     "from": 7280,
+     "to": 7288
+    }
+   ]
+  },
+  {
+   "from": 7289,
+   "to": 7332,
+   "words": [
+    {
+     "w": "pulir",
+     "from": 7289,
+     "to": 7295
+    },
+    {
+     "w": "el",
+     "from": 7297,
+     "to": 7300
+    },
+    {
+     "w": "juego",
+     "from": 7301,
+     "to": 7309
+    },
+    {
+     "w": "al",
+     "from": 7312,
+     "to": 7314
+    },
+    {
+     "w": "nivel",
+     "from": 7319,
+     "to": 7324
+    },
+    {
+     "w": "que",
+     "from": 7325,
+     "to": 7326
+    },
+    {
+     "w": "la",
+     "from": 7328,
+     "to": 7331
+    }
+   ]
+  },
+  {
+   "from": 7332,
+   "to": 7372,
+   "words": [
+    {
+     "w": "gente",
+     "from": 7332,
+     "to": 7338
+    },
+    {
+     "w": "espera.",
+     "from": 7340,
+     "to": 7369
+    }
+   ]
+  },
+  {
+   "from": 7372,
+   "to": 7436,
+   "words": [
+    {
+     "w": "Mucha",
+     "from": 7372,
+     "to": 7379
+    },
+    {
+     "w": "gente",
+     "from": 7381,
+     "to": 7388
+    },
+    {
+     "w": "lo",
+     "from": 7391,
+     "to": 7393
+    },
+    {
+     "w": "odió",
+     "from": 7397,
+     "to": 7402
+    },
+    {
+     "w": "en",
+     "from": 7403,
+     "to": 7405
+    },
+    {
+     "w": "su",
+     "from": 7408,
+     "to": 7410
+    },
+    {
+     "w": "momento.",
+     "from": 7416,
+     "to": 7435
+    }
+   ]
+  },
+  {
+   "from": 7436,
+   "to": 7490,
+   "words": [
+    {
+     "w": "Pero",
+     "from": 7436,
+     "to": 7439
+    },
+    {
+     "w": "si",
+     "from": 7441,
+     "to": 7444
+    },
+    {
+     "w": "las",
+     "from": 7446,
+     "to": 7448
+    },
+    {
+     "w": "reseñas",
+     "from": 7451,
+     "to": 7463
+    },
+    {
+     "w": "de",
+     "from": 7465,
+     "to": 7468
+    },
+    {
+     "w": "hoy",
+     "from": 7469,
+     "to": 7472
+    },
+    {
+     "w": "dicen",
+     "from": 7476,
+     "to": 7482
+    }
+   ]
+  },
+  {
+   "from": 7490,
+   "to": 7540,
+   "words": [
+    {
+     "w": "algo,",
+     "from": 7490,
+     "to": 7500
+    },
+    {
+     "w": "es",
+     "from": 7502,
+     "to": 7504
+    },
+    {
+     "w": "que",
+     "from": 7506,
+     "to": 7508
+    },
+    {
+     "w": "esa",
+     "from": 7511,
+     "to": 7516
+    },
+    {
+     "w": "espera,",
+     "from": 7522,
+     "to": 7538
+    }
+   ]
+  },
+  {
+   "from": 7540,
+   "to": 7618,
+   "words": [
+    {
+     "w": "quizás,",
+     "from": 7540,
+     "to": 7563
+    },
+    {
+     "w": "valió",
+     "from": 7564,
+     "to": 7568
+    },
+    {
+     "w": "la",
+     "from": 7571,
+     "to": 7573
+    },
+    {
+     "w": "pena.",
+     "from": 7577,
+     "to": 7600
+    }
+   ]
+  },
+  {
+   "from": 7693,
+   "to": 7743,
+   "words": [
+    {
+     "w": "Hablemos",
+     "from": 7693,
+     "to": 7705
+    },
+    {
+     "w": "del",
+     "from": 7707,
+     "to": 7712
+    },
+    {
+     "w": "mundo.",
+     "from": 7713,
+     "to": 7741
+    }
+   ]
+  },
+  {
+   "from": 7743,
+   "to": 7813,
+   "words": [
+    {
+     "w": "GTA",
+     "from": 7743,
+     "to": 7758
+    },
+    {
+     "w": "Seis",
+     "from": 7760,
+     "to": 7770
+    },
+    {
+     "w": "nos",
+     "from": 7772,
+     "to": 7777
+    },
+    {
+     "w": "lleva",
+     "from": 7779,
+     "to": 7787
+    },
+    {
+     "w": "al",
+     "from": 7788,
+     "to": 7789
+    },
+    {
+     "w": "estado",
+     "from": 7791,
+     "to": 7803
+    },
+    {
+     "w": "de",
+     "from": 7806,
+     "to": 7808
+    }
+   ]
+  },
+  {
+   "from": 7813,
+   "to": 7873,
+   "words": [
+    {
+     "w": "Leonida,",
+     "from": 7813,
+     "to": 7836
+    },
+    {
+     "w": "la",
+     "from": 7837,
+     "to": 7839
+    },
+    {
+     "w": "versión",
+     "from": 7843,
+     "to": 7851
+    },
+    {
+     "w": "de",
+     "from": 7854,
+     "to": 7856
+    },
+    {
+     "w": "Rockstar",
+     "from": 7860,
+     "to": 7871
+    }
+   ]
+  },
+  {
+   "from": 7873,
+   "to": 7907,
+   "words": [
+    {
+     "w": "de",
+     "from": 7873,
+     "to": 7875
+    },
+    {
+     "w": "Florida.",
+     "from": 7890,
+     "to": 7906
+    }
+   ]
+  },
+  {
+   "from": 7907,
+   "to": 7959,
+   "words": [
+    {
+     "w": "Y",
+     "from": 7907,
+     "to": 7909
+    },
+    {
+     "w": "no",
+     "from": 7911,
+     "to": 7914
+    },
+    {
+     "w": "es",
+     "from": 7916,
+     "to": 7919
+    },
+    {
+     "w": "solo",
+     "from": 7920,
+     "to": 7926
+    },
+    {
+     "w": "una",
+     "from": 7928,
+     "to": 7933
+    },
+    {
+     "w": "ciudad:",
+     "from": 7935,
+     "to": 7958
+    }
+   ]
+  },
+  {
+   "from": 7959,
+   "to": 8017,
+   "words": [
+    {
+     "w": "es",
+     "from": 7959,
+     "to": 7964
+    },
+    {
+     "w": "un",
+     "from": 7965,
+     "to": 7967
+    },
+    {
+     "w": "estado",
+     "from": 7969,
+     "to": 7983
+    },
+    {
+     "w": "entero.",
+     "from": 7991,
+     "to": 8016
+    }
+   ]
+  },
+  {
+   "from": 8017,
+   "to": 8087,
+   "words": [
+    {
+     "w": "En",
+     "from": 8017,
+     "to": 8019
+    },
+    {
+     "w": "el",
+     "from": 8022,
+     "to": 8024
+    },
+    {
+     "w": "centro",
+     "from": 8028,
+     "to": 8041
+    },
+    {
+     "w": "está",
+     "from": 8045,
+     "to": 8055
+    },
+    {
+     "w": "Vice",
+     "from": 8057,
+     "to": 8063
+    },
+    {
+     "w": "City:",
+     "from": 8065,
+     "to": 8085
+    }
+   ]
+  },
+  {
+   "from": 8087,
+   "to": 8149,
+   "words": [
+    {
+     "w": "neón,",
+     "from": 8087,
+     "to": 8111
+    },
+    {
+     "w": "playas,",
+     "from": 8115,
+     "to": 8131
+    },
+    {
+     "w": "yates,",
+     "from": 8131,
+     "to": 8148
+    }
+   ]
+  },
+  {
+   "from": 8149,
+   "to": 8231,
+   "words": [
+    {
+     "w": "clubes,",
+     "from": 8149,
+     "to": 8169
+    },
+    {
+     "w": "y",
+     "from": 8171,
+     "to": 8178
+    },
+    {
+     "w": "mucho",
+     "from": 8180,
+     "to": 8190
+    },
+    {
+     "w": "dinero",
+     "from": 8193,
+     "to": 8202
+    },
+    {
+     "w": "sucio.",
+     "from": 8204,
+     "to": 8229
+    }
+   ]
+  },
+  {
+   "from": 8231,
+   "to": 8298,
+   "words": [
+    {
+     "w": "Al",
+     "from": 8231,
+     "to": 8235
+    },
+    {
+     "w": "sur,",
+     "from": 8244,
+     "to": 8254
+    },
+    {
+     "w": "los",
+     "from": 8255,
+     "to": 8257
+    },
+    {
+     "w": "Leonida",
+     "from": 8259,
+     "to": 8274
+    },
+    {
+     "w": "Keys,",
+     "from": 8285,
+     "to": 8297
+    }
+   ]
+  },
+  {
+   "from": 8298,
+   "to": 8353,
+   "words": [
+    {
+     "w": "una",
+     "from": 8298,
+     "to": 8303
+    },
+    {
+     "w": "cadena",
+     "from": 8307,
+     "to": 8312
+    },
+    {
+     "w": "de",
+     "from": 8315,
+     "to": 8317
+    },
+    {
+     "w": "islas",
+     "from": 8319,
+     "to": 8327
+    },
+    {
+     "w": "paradisíacas",
+     "from": 8329,
+     "to": 8351
+    }
+   ]
+  },
+  {
+   "from": 8353,
+   "to": 8405,
+   "words": [
+    {
+     "w": "que",
+     "from": 8353,
+     "to": 8355
+    },
+    {
+     "w": "esconden",
+     "from": 8358,
+     "to": 8375
+    },
+    {
+     "w": "más",
+     "from": 8376,
+     "to": 8382
+    },
+    {
+     "w": "de",
+     "from": 8383,
+     "to": 8384
+    },
+    {
+     "w": "un",
+     "from": 8387,
+     "to": 8389
+    },
+    {
+     "w": "negocio",
+     "from": 8393,
+     "to": 8403
+    }
+   ]
+  },
+  {
+   "from": 8405,
+   "to": 8432,
+   "words": [
+    {
+     "w": "turbio.",
+     "from": 8405,
+     "to": 8430
+    }
+   ]
+  },
+  {
+   "from": 8432,
+   "to": 8502,
+   "words": [
+    {
+     "w": "Grassrivers,",
+     "from": 8432,
+     "to": 8462
+    },
+    {
+     "w": "un",
+     "from": 8463,
+     "to": 8466
+    },
+    {
+     "w": "enorme",
+     "from": 8468,
+     "to": 8483
+    },
+    {
+     "w": "pantano",
+     "from": 8485,
+     "to": 8499
+    }
+   ]
+  },
+  {
+   "from": 8502,
+   "to": 8538,
+   "words": [
+    {
+     "w": "lleno",
+     "from": 8502,
+     "to": 8509
+    },
+    {
+     "w": "de",
+     "from": 8511,
+     "to": 8514
+    },
+    {
+     "w": "caimanes,",
+     "from": 8515,
+     "to": 8537
+    }
+   ]
+  },
+  {
+   "from": 8538,
+   "to": 8591,
+   "words": [
+    {
+     "w": "inspirado",
+     "from": 8538,
+     "to": 8552
+    },
+    {
+     "w": "en",
+     "from": 8553,
+     "to": 8555
+    },
+    {
+     "w": "los",
+     "from": 8557,
+     "to": 8559
+    },
+    {
+     "w": "Everglades.",
+     "from": 8562,
+     "to": 8589
+    }
+   ]
+  },
+  {
+   "from": 8591,
+   "to": 8655,
+   "words": [
+    {
+     "w": "Port",
+     "from": 8591,
+     "to": 8598
+    },
+    {
+     "w": "Gellhorn,",
+     "from": 8600,
+     "to": 8625
+    },
+    {
+     "w": "una",
+     "from": 8627,
+     "to": 8631
+    },
+    {
+     "w": "ciudad",
+     "from": 8633,
+     "to": 8641
+    },
+    {
+     "w": "costera",
+     "from": 8643,
+     "to": 8653
+    }
+   ]
+  },
+  {
+   "from": 8655,
+   "to": 8730,
+   "words": [
+    {
+     "w": "olvidada",
+     "from": 8655,
+     "to": 8672
+    },
+    {
+     "w": "que",
+     "from": 8673,
+     "to": 8675
+    },
+    {
+     "w": "vivió",
+     "from": 8677,
+     "to": 8687
+    },
+    {
+     "w": "tiempos",
+     "from": 8689,
+     "to": 8699
+    },
+    {
+     "w": "mejores.",
+     "from": 8701,
+     "to": 8729
+    }
+   ]
+  },
+  {
+   "from": 8730,
+   "to": 8799,
+   "words": [
+    {
+     "w": "Ambrosia,",
+     "from": 8730,
+     "to": 8757
+    },
+    {
+     "w": "el",
+     "from": 8759,
+     "to": 8763
+    },
+    {
+     "w": "corazón",
+     "from": 8766,
+     "to": 8778
+    },
+    {
+     "w": "de",
+     "from": 8779,
+     "to": 8780
+    },
+    {
+     "w": "la",
+     "from": 8781,
+     "to": 8783
+    },
+    {
+     "w": "industria",
+     "from": 8785,
+     "to": 8797
+    }
+   ]
+  },
+  {
+   "from": 8799,
+   "to": 8874,
+   "words": [
+    {
+     "w": "azucarera,",
+     "from": 8799,
+     "to": 8827
+    },
+    {
+     "w": "territorio",
+     "from": 8831,
+     "to": 8840
+    },
+    {
+     "w": "de",
+     "from": 8841,
+     "to": 8843
+    },
+    {
+     "w": "moteros.",
+     "from": 8845,
+     "to": 8873
+    }
+   ]
+  },
+  {
+   "from": 8874,
+   "to": 8943,
+   "words": [
+    {
+     "w": "Y",
+     "from": 8874,
+     "to": 8879
+    },
+    {
+     "w": "Mount",
+     "from": 8882,
+     "to": 8886
+    },
+    {
+     "w": "Kalaga,",
+     "from": 8888,
+     "to": 8913
+    },
+    {
+     "w": "un",
+     "from": 8915,
+     "to": 8919
+    },
+    {
+     "w": "parque",
+     "from": 8922,
+     "to": 8927
+    },
+    {
+     "w": "nacional",
+     "from": 8929,
+     "to": 8941
+    }
+   ]
+  },
+  {
+   "from": 8943,
+   "to": 9011,
+   "words": [
+    {
+     "w": "de",
+     "from": 8943,
+     "to": 8946
+    },
+    {
+     "w": "bosques,",
+     "from": 8949,
+     "to": 8964
+    },
+    {
+     "w": "ríos",
+     "from": 8965,
+     "to": 8975
+    },
+    {
+     "w": "y",
+     "from": 8976,
+     "to": 8977
+    },
+    {
+     "w": "montañas.",
+     "from": 8979,
+     "to": 9009
+    }
+   ]
+  },
+  {
+   "from": 9011,
+   "to": 9069,
+   "words": [
+    {
+     "w": "Y",
+     "from": 9011,
+     "to": 9018
+    },
+    {
+     "w": "todo",
+     "from": 9021,
+     "to": 9025
+    },
+    {
+     "w": "está",
+     "from": 9027,
+     "to": 9037
+    },
+    {
+     "w": "atravesado",
+     "from": 9039,
+     "to": 9056
+    },
+    {
+     "w": "por",
+     "from": 9057,
+     "to": 9059
+    },
+    {
+     "w": "una",
+     "from": 9061,
+     "to": 9068
+    }
+   ]
+  },
+  {
+   "from": 9069,
+   "to": 9143,
+   "words": [
+    {
+     "w": "sátira",
+     "from": 9069,
+     "to": 9083
+    },
+    {
+     "w": "brutal",
+     "from": 9084,
+     "to": 9097
+    },
+    {
+     "w": "de",
+     "from": 9099,
+     "to": 9102
+    },
+    {
+     "w": "las",
+     "from": 9104,
+     "to": 9107
+    },
+    {
+     "w": "redes",
+     "from": 9109,
+     "to": 9114
+    },
+    {
+     "w": "sociales:",
+     "from": 9117,
+     "to": 9141
+    }
+   ]
+  },
+  {
+   "from": 9143,
+   "to": 9198,
+   "words": [
+    {
+     "w": "videos",
+     "from": 9143,
+     "to": 9152
+    },
+    {
+     "w": "virales,",
+     "from": 9156,
+     "to": 9173
+    },
+    {
+     "w": "transmisiones",
+     "from": 9174,
+     "to": 9191
+    },
+    {
+     "w": "en",
+     "from": 9193,
+     "to": 9195
+    }
+   ]
+  },
+  {
+   "from": 9198,
+   "to": 9260,
+   "words": [
+    {
+     "w": "vivo,",
+     "from": 9198,
+     "to": 9213
+    },
+    {
+     "w": "y",
+     "from": 9215,
+     "to": 9217
+    },
+    {
+     "w": "gente",
+     "from": 9218,
+     "to": 9227
+    },
+    {
+     "w": "haciendo",
+     "from": 9228,
+     "to": 9241
+    },
+    {
+     "w": "cualquier",
+     "from": 9244,
+     "to": 9258
+    }
+   ]
+  },
+  {
+   "from": 9260,
+   "to": 9306,
+   "words": [
+    {
+     "w": "cosa",
+     "from": 9260,
+     "to": 9267
+    },
+    {
+     "w": "por",
+     "from": 9270,
+     "to": 9272
+    },
+    {
+     "w": "unos",
+     "from": 9275,
+     "to": 9279
+    },
+    {
+     "w": "likes.",
+     "from": 9282,
+     "to": 9305
+    }
+   ]
+  },
+  {
+   "from": 9306,
+   "to": 9338,
+   "words": [
+    {
+     "w": "Es",
+     "from": 9306,
+     "to": 9311
+    },
+    {
+     "w": "Florida...",
+     "from": 9323,
+     "to": 9337
+    }
+   ]
+  },
+  {
+   "from": 9338,
+   "to": 9385,
+   "words": [
+    {
+     "w": "llevada",
+     "from": 9338,
+     "to": 9351
+    },
+    {
+     "w": "al",
+     "from": 9353,
+     "to": 9354
+    },
+    {
+     "w": "extremo.",
+     "from": 9356,
+     "to": 9384
+    }
+   ]
+  },
+  {
+   "from": 9385,
+   "to": 9423,
+   "words": [
+    {
+     "w": "Y",
+     "from": 9385,
+     "to": 9386
+    },
+    {
+     "w": "según",
+     "from": 9387,
+     "to": 9395
+    },
+    {
+     "w": "la",
+     "from": 9397,
+     "to": 9399
+    },
+    {
+     "w": "crítica,",
+     "from": 9401,
+     "to": 9422
+    }
+   ]
+  },
+  {
+   "from": 9423,
+   "to": 9480,
+   "words": [
+    {
+     "w": "es",
+     "from": 9423,
+     "to": 9426
+    },
+    {
+     "w": "uno",
+     "from": 9428,
+     "to": 9433
+    },
+    {
+     "w": "de",
+     "from": 9434,
+     "to": 9435
+    },
+    {
+     "w": "los",
+     "from": 9438,
+     "to": 9440
+    },
+    {
+     "w": "mundos",
+     "from": 9443,
+     "to": 9450
+    },
+    {
+     "w": "abiertos",
+     "from": 9452,
+     "to": 9469
+    },
+    {
+     "w": "más",
+     "from": 9471,
+     "to": 9479
+    }
+   ]
+  },
+  {
+   "from": 9480,
+   "to": 9561,
+   "words": [
+    {
+     "w": "vivos",
+     "from": 9480,
+     "to": 9488
+    },
+    {
+     "w": "que",
+     "from": 9491,
+     "to": 9493
+    },
+    {
+     "w": "se",
+     "from": 9494,
+     "to": 9495
+    },
+    {
+     "w": "han",
+     "from": 9498,
+     "to": 9500
+    },
+    {
+     "w": "creado",
+     "from": 9504,
+     "to": 9515
+    },
+    {
+     "w": "jamás.",
+     "from": 9518,
+     "to": 9543
+    }
+   ]
+  },
+  {
+   "from": 9637,
+   "to": 9698,
+   "words": [
+    {
+     "w": "Y",
+     "from": 9637,
+     "to": 9638
+    },
+    {
+     "w": "en",
+     "from": 9639,
+     "to": 9644
+    },
+    {
+     "w": "medio",
+     "from": 9647,
+     "to": 9654
+    },
+    {
+     "w": "de",
+     "from": 9656,
+     "to": 9661
+    },
+    {
+     "w": "todo",
+     "from": 9663,
+     "to": 9671
+    },
+    {
+     "w": "esto,",
+     "from": 9673,
+     "to": 9695
+    }
+   ]
+  },
+  {
+   "from": 9698,
+   "to": 9735,
+   "words": [
+    {
+     "w": "dos",
+     "from": 9698,
+     "to": 9702
+    },
+    {
+     "w": "personas.",
+     "from": 9704,
+     "to": 9733
+    }
+   ]
+  },
+  {
+   "from": 9735,
+   "to": 9817,
+   "words": [
+    {
+     "w": "Lucia",
+     "from": 9735,
+     "to": 9747
+    },
+    {
+     "w": "Caminos",
+     "from": 9749,
+     "to": 9767
+    },
+    {
+     "w": "y",
+     "from": 9769,
+     "to": 9771
+    },
+    {
+     "w": "Jason",
+     "from": 9774,
+     "to": 9783
+    },
+    {
+     "w": "Duval.",
+     "from": 9786,
+     "to": 9815
+    }
+   ]
+  },
+  {
+   "from": 9817,
+   "to": 9875,
+   "words": [
+    {
+     "w": "Ella",
+     "from": 9817,
+     "to": 9829
+    },
+    {
+     "w": "es",
+     "from": 9831,
+     "to": 9834
+    },
+    {
+     "w": "la",
+     "from": 9836,
+     "to": 9839
+    },
+    {
+     "w": "primera",
+     "from": 9841,
+     "to": 9853
+    },
+    {
+     "w": "protagonista",
+     "from": 9855,
+     "to": 9872
+    }
+   ]
+  },
+  {
+   "from": 9875,
+   "to": 9939,
+   "words": [
+    {
+     "w": "mujer",
+     "from": 9875,
+     "to": 9884
+    },
+    {
+     "w": "de",
+     "from": 9885,
+     "to": 9887
+    },
+    {
+     "w": "un",
+     "from": 9889,
+     "to": 9891
+    },
+    {
+     "w": "GTA",
+     "from": 9894,
+     "to": 9906
+    },
+    {
+     "w": "moderno.",
+     "from": 9908,
+     "to": 9937
+    }
+   ]
+  },
+  {
+   "from": 9939,
+   "to": 9990,
+   "words": [
+    {
+     "w": "Su",
+     "from": 9939,
+     "to": 9942
+    },
+    {
+     "w": "padre",
+     "from": 9945,
+     "to": 9951
+    },
+    {
+     "w": "le",
+     "from": 9953,
+     "to": 9954
+    },
+    {
+     "w": "enseñó",
+     "from": 9959,
+     "to": 9967
+    },
+    {
+     "w": "a",
+     "from": 9967,
+     "to": 9968
+    },
+    {
+     "w": "pelear",
+     "from": 9971,
+     "to": 9980
+    },
+    {
+     "w": "desde",
+     "from": 9983,
+     "to": 9987
+    }
+   ]
+  },
+  {
+   "from": 9990,
+   "to": 10033,
+   "words": [
+    {
+     "w": "que",
+     "from": 9990,
+     "to": 9992
+    },
+    {
+     "w": "aprendió",
+     "from": 9995,
+     "to": 10004
+    },
+    {
+     "w": "a",
+     "from": 10005,
+     "to": 10007
+    },
+    {
+     "w": "caminar,",
+     "from": 10008,
+     "to": 10032
+    }
+   ]
+  },
+  {
+   "from": 10033,
+   "to": 10097,
+   "words": [
+    {
+     "w": "y",
+     "from": 10033,
+     "to": 10035
+    },
+    {
+     "w": "pelear",
+     "from": 10038,
+     "to": 10047
+    },
+    {
+     "w": "por",
+     "from": 10050,
+     "to": 10052
+    },
+    {
+     "w": "su",
+     "from": 10055,
+     "to": 10057
+    },
+    {
+     "w": "familia",
+     "from": 10059,
+     "to": 10076
+    },
+    {
+     "w": "la",
+     "from": 10079,
+     "to": 10081
+    },
+    {
+     "w": "llevó",
+     "from": 10083,
+     "to": 10091
+    }
+   ]
+  },
+  {
+   "from": 10097,
+   "to": 10159,
+   "words": [
+    {
+     "w": "directo",
+     "from": 10097,
+     "to": 10104
+    },
+    {
+     "w": "a",
+     "from": 10105,
+     "to": 10106
+    },
+    {
+     "w": "la",
+     "from": 10107,
+     "to": 10110
+    },
+    {
+     "w": "prisión",
+     "from": 10111,
+     "to": 10122
+    },
+    {
+     "w": "de",
+     "from": 10123,
+     "to": 10124
+    },
+    {
+     "w": "Leonida.",
+     "from": 10129,
+     "to": 10158
+    }
+   ]
+  },
+  {
+   "from": 10159,
+   "to": 10223,
+   "words": [
+    {
+     "w": "Él",
+     "from": 10159,
+     "to": 10163
+    },
+    {
+     "w": "creció",
+     "from": 10166,
+     "to": 10175
+    },
+    {
+     "w": "rodeado",
+     "from": 10177,
+     "to": 10189
+    },
+    {
+     "w": "de",
+     "from": 10190,
+     "to": 10191
+    },
+    {
+     "w": "estafadores,",
+     "from": 10194,
+     "to": 10221
+    }
+   ]
+  },
+  {
+   "from": 10223,
+   "to": 10269,
+   "words": [
+    {
+     "w": "pasó",
+     "from": 10223,
+     "to": 10230
+    },
+    {
+     "w": "por",
+     "from": 10232,
+     "to": 10235
+    },
+    {
+     "w": "el",
+     "from": 10236,
+     "to": 10237
+    },
+    {
+     "w": "ejército",
+     "from": 10239,
+     "to": 10254
+    },
+    {
+     "w": "para",
+     "from": 10256,
+     "to": 10259
+    },
+    {
+     "w": "dejar",
+     "from": 10261,
+     "to": 10266
+    }
+   ]
+  },
+  {
+   "from": 10269,
+   "to": 10326,
+   "words": [
+    {
+     "w": "atrás",
+     "from": 10269,
+     "to": 10275
+    },
+    {
+     "w": "una",
+     "from": 10278,
+     "to": 10283
+    },
+    {
+     "w": "juventud",
+     "from": 10284,
+     "to": 10297
+    },
+    {
+     "w": "complicada,",
+     "from": 10299,
+     "to": 10325
+    }
+   ]
+  },
+  {
+   "from": 10326,
+   "to": 10377,
+   "words": [
+    {
+     "w": "y",
+     "from": 10326,
+     "to": 10327
+    },
+    {
+     "w": "ahora",
+     "from": 10328,
+     "to": 10338
+    },
+    {
+     "w": "trabaja",
+     "from": 10340,
+     "to": 10352
+    },
+    {
+     "w": "para",
+     "from": 10355,
+     "to": 10357
+    },
+    {
+     "w": "traficantes",
+     "from": 10359,
+     "to": 10376
+    }
+   ]
+  },
+  {
+   "from": 10377,
+   "to": 10415,
+   "words": [
+    {
+     "w": "en",
+     "from": 10377,
+     "to": 10379
+    },
+    {
+     "w": "los",
+     "from": 10381,
+     "to": 10386
+    },
+    {
+     "w": "Keys.",
+     "from": 10399,
+     "to": 10413
+    }
+   ]
+  },
+  {
+   "from": 10415,
+   "to": 10472,
+   "words": [
+    {
+     "w": "Juntos",
+     "from": 10415,
+     "to": 10429
+    },
+    {
+     "w": "son",
+     "from": 10431,
+     "to": 10434
+    },
+    {
+     "w": "una",
+     "from": 10437,
+     "to": 10441
+    },
+    {
+     "w": "pareja",
+     "from": 10445,
+     "to": 10451
+    },
+    {
+     "w": "al",
+     "from": 10453,
+     "to": 10455
+    },
+    {
+     "w": "estilo",
+     "from": 10459,
+     "to": 10470
+    }
+   ]
+  },
+  {
+   "from": 10472,
+   "to": 10508,
+   "words": [
+    {
+     "w": "Bonnie",
+     "from": 10472,
+     "to": 10477
+    },
+    {
+     "w": "y",
+     "from": 10482,
+     "to": 10483
+    },
+    {
+     "w": "Clyde.",
+     "from": 10483,
+     "to": 10507
+    }
+   ]
+  },
+  {
+   "from": 10508,
+   "to": 10556,
+   "words": [
+    {
+     "w": "Un",
+     "from": 10508,
+     "to": 10511
+    },
+    {
+     "w": "golpe",
+     "from": 10513,
+     "to": 10523
+    },
+    {
+     "w": "fácil",
+     "from": 10524,
+     "to": 10532
+    },
+    {
+     "w": "sale",
+     "from": 10535,
+     "to": 10539
+    },
+    {
+     "w": "mal,",
+     "from": 10547,
+     "to": 10555
+    }
+   ]
+  },
+  {
+   "from": 10556,
+   "to": 10607,
+   "words": [
+    {
+     "w": "y",
+     "from": 10556,
+     "to": 10557
+    },
+    {
+     "w": "de",
+     "from": 10559,
+     "to": 10561
+    },
+    {
+     "w": "repente",
+     "from": 10565,
+     "to": 10578
+    },
+    {
+     "w": "están",
+     "from": 10580,
+     "to": 10587
+    },
+    {
+     "w": "en",
+     "from": 10590,
+     "to": 10592
+    },
+    {
+     "w": "medio",
+     "from": 10595,
+     "to": 10602
+    },
+    {
+     "w": "de",
+     "from": 10603,
+     "to": 10604
+    }
+   ]
+  },
+  {
+   "from": 10607,
+   "to": 10675,
+   "words": [
+    {
+     "w": "una",
+     "from": 10607,
+     "to": 10611
+    },
+    {
+     "w": "conspiración",
+     "from": 10614,
+     "to": 10631
+    },
+    {
+     "w": "criminal",
+     "from": 10633,
+     "to": 10647
+    },
+    {
+     "w": "que",
+     "from": 10649,
+     "to": 10650
+    },
+    {
+     "w": "atraviesa",
+     "from": 10652,
+     "to": 10671
+    }
+   ]
+  },
+  {
+   "from": 10675,
+   "to": 10717,
+   "words": [
+    {
+     "w": "todo",
+     "from": 10675,
+     "to": 10679
+    },
+    {
+     "w": "el",
+     "from": 10681,
+     "to": 10683
+    },
+    {
+     "w": "estado.",
+     "from": 10699,
+     "to": 10716
+    }
+   ]
+  },
+  {
+   "from": 10717,
+   "to": 10775,
+   "words": [
+    {
+     "w": "A",
+     "from": 10717,
+     "to": 10719
+    },
+    {
+     "w": "su",
+     "from": 10721,
+     "to": 10722
+    },
+    {
+     "w": "alrededor",
+     "from": 10724,
+     "to": 10741
+    },
+    {
+     "w": "hay",
+     "from": 10743,
+     "to": 10746
+    },
+    {
+     "w": "personajes",
+     "from": 10751,
+     "to": 10765
+    },
+    {
+     "w": "como",
+     "from": 10769,
+     "to": 10772
+    }
+   ]
+  },
+  {
+   "from": 10775,
+   "to": 10837,
+   "words": [
+    {
+     "w": "Cal,",
+     "from": 10775,
+     "to": 10791
+    },
+    {
+     "w": "el",
+     "from": 10792,
+     "to": 10794
+    },
+    {
+     "w": "mejor",
+     "from": 10796,
+     "to": 10801
+    },
+    {
+     "w": "amigo",
+     "from": 10803,
+     "to": 10811
+    },
+    {
+     "w": "de",
+     "from": 10812,
+     "to": 10813
+    },
+    {
+     "w": "Jason,",
+     "from": 10815,
+     "to": 10835
+    }
+   ]
+  },
+  {
+   "from": 10837,
+   "to": 10909,
+   "words": [
+    {
+     "w": "obsesionado",
+     "from": 10837,
+     "to": 10856
+    },
+    {
+     "w": "con",
+     "from": 10859,
+     "to": 10861
+    },
+    {
+     "w": "las",
+     "from": 10863,
+     "to": 10866
+    },
+    {
+     "w": "conspiraciones;",
+     "from": 10868,
+     "to": 10908
+    }
+   ]
+  },
+  {
+   "from": 10909,
+   "to": 10979,
+   "words": [
+    {
+     "w": "Boobie",
+     "from": 10909,
+     "to": 10916
+    },
+    {
+     "w": "Ike,",
+     "from": 10919,
+     "to": 10934
+    },
+    {
+     "w": "una",
+     "from": 10935,
+     "to": 10940
+    },
+    {
+     "w": "leyenda",
+     "from": 10944,
+     "to": 10952
+    },
+    {
+     "w": "de",
+     "from": 10955,
+     "to": 10959
+    },
+    {
+     "w": "Vice",
+     "from": 10961,
+     "to": 10967
+    }
+   ]
+  },
+  {
+   "from": 10979,
+   "to": 10993,
+   "words": [
+    {
+     "w": "City;",
+     "from": 10979,
+     "to": 10992
+    }
+   ]
+  },
+  {
+   "from": 10993,
+   "to": 11057,
+   "words": [
+    {
+     "w": "Raul",
+     "from": 10993,
+     "to": 11003
+    },
+    {
+     "w": "Bautista,",
+     "from": 11005,
+     "to": 11028
+    },
+    {
+     "w": "un",
+     "from": 11029,
+     "to": 11031
+    },
+    {
+     "w": "ladrón",
+     "from": 11033,
+     "to": 11041
+    },
+    {
+     "w": "de",
+     "from": 11042,
+     "to": 11043
+    },
+    {
+     "w": "bancos",
+     "from": 11046,
+     "to": 11055
+    }
+   ]
+  },
+  {
+   "from": 11057,
+   "to": 11082,
+   "words": [
+    {
+     "w": "veterano;",
+     "from": 11057,
+     "to": 11081
+    }
+   ]
+  },
+  {
+   "from": 11082,
+   "to": 11143,
+   "words": [
+    {
+     "w": "o",
+     "from": 11082,
+     "to": 11084
+    },
+    {
+     "w": "Brian",
+     "from": 11087,
+     "to": 11096
+    },
+    {
+     "w": "Heder,",
+     "from": 11099,
+     "to": 11114
+    },
+    {
+     "w": "el",
+     "from": 11115,
+     "to": 11118
+    },
+    {
+     "w": "traficante",
+     "from": 11120,
+     "to": 11137
+    },
+    {
+     "w": "para",
+     "from": 11139,
+     "to": 11142
+    }
+   ]
+  },
+  {
+   "from": 11143,
+   "to": 11195,
+   "words": [
+    {
+     "w": "el",
+     "from": 11143,
+     "to": 11144
+    },
+    {
+     "w": "que",
+     "from": 11147,
+     "to": 11149
+    },
+    {
+     "w": "trabaja",
+     "from": 11151,
+     "to": 11161
+    },
+    {
+     "w": "Jason.",
+     "from": 11163,
+     "to": 11193
+    }
+   ]
+  },
+  {
+   "from": 11195,
+   "to": 11252,
+   "words": [
+    {
+     "w": "Y",
+     "from": 11195,
+     "to": 11196
+    },
+    {
+     "w": "lo",
+     "from": 11197,
+     "to": 11199
+    },
+    {
+     "w": "que",
+     "from": 11202,
+     "to": 11207
+    },
+    {
+     "w": "más",
+     "from": 11208,
+     "to": 11211
+    },
+    {
+     "w": "sorprendió",
+     "from": 11214,
+     "to": 11228
+    },
+    {
+     "w": "a",
+     "from": 11229,
+     "to": 11230
+    },
+    {
+     "w": "la",
+     "from": 11231,
+     "to": 11233
+    },
+    {
+     "w": "crítica",
+     "from": 11235,
+     "to": 11250
+    }
+   ]
+  },
+  {
+   "from": 11252,
+   "to": 11303,
+   "words": [
+    {
+     "w": "no",
+     "from": 11252,
+     "to": 11257
+    },
+    {
+     "w": "fueron",
+     "from": 11258,
+     "to": 11264
+    },
+    {
+     "w": "los",
+     "from": 11267,
+     "to": 11269
+    },
+    {
+     "w": "tiroteos...",
+     "from": 11271,
+     "to": 11300
+    }
+   ]
+  },
+  {
+   "from": 11303,
+   "to": 11388,
+   "words": [
+    {
+     "w": "fue",
+     "from": 11303,
+     "to": 11305
+    },
+    {
+     "w": "la",
+     "from": 11307,
+     "to": 11310
+    },
+    {
+     "w": "relación",
+     "from": 11313,
+     "to": 11327
+    },
+    {
+     "w": "entre",
+     "from": 11330,
+     "to": 11334
+    },
+    {
+     "w": "ellos",
+     "from": 11336,
+     "to": 11343
+    },
+    {
+     "w": "dos.",
+     "from": 11355,
+     "to": 11370
+    }
+   ]
+  },
+  {
+   "from": 11463,
+   "to": 11566,
+   "words": [
+    {
+     "w": "Y",
+     "from": 11463,
+     "to": 11468
+    },
+    {
+     "w": "hoy,",
+     "from": 11469,
+     "to": 11482
+    },
+    {
+     "w": "por",
+     "from": 11486,
+     "to": 11489
+    },
+    {
+     "w": "fin,",
+     "from": 11492,
+     "to": 11509
+    },
+    {
+     "w": "llegaron",
+     "from": 11511,
+     "to": 11523
+    },
+    {
+     "w": "las",
+     "from": 11525,
+     "to": 11528
+    },
+    {
+     "w": "reseñas.",
+     "from": 11530,
+     "to": 11564
+    }
+   ]
+  },
+  {
+   "from": 11566,
+   "to": 11630,
+   "words": [
+    {
+     "w": "GTA",
+     "from": 11566,
+     "to": 11581
+    },
+    {
+     "w": "Seis",
+     "from": 11583,
+     "to": 11590
+    },
+    {
+     "w": "tiene",
+     "from": 11595,
+     "to": 11600
+    },
+    {
+     "w": "un",
+     "from": 11602,
+     "to": 11605
+    },
+    {
+     "w": "noventa",
+     "from": 11608,
+     "to": 11624
+    },
+    {
+     "w": "y",
+     "from": 11625,
+     "to": 11625
+    },
+    {
+     "w": "nueve",
+     "from": 11626,
+     "to": 11629
+    }
+   ]
+  },
+  {
+   "from": 11630,
+   "to": 11697,
+   "words": [
+    {
+     "w": "en",
+     "from": 11630,
+     "to": 11631
+    },
+    {
+     "w": "Metacritic,",
+     "from": 11633,
+     "to": 11655
+    },
+    {
+     "w": "con",
+     "from": 11657,
+     "to": 11660
+    },
+    {
+     "w": "cerca",
+     "from": 11662,
+     "to": 11673
+    },
+    {
+     "w": "de",
+     "from": 11676,
+     "to": 11679
+    },
+    {
+     "w": "ciento",
+     "from": 11683,
+     "to": 11696
+    }
+   ]
+  },
+  {
+   "from": 11697,
+   "to": 11727,
+   "words": [
+    {
+     "w": "cincuenta",
+     "from": 11697,
+     "to": 11700
+    },
+    {
+     "w": "reseñas,",
+     "from": 11701,
+     "to": 11725
+    }
+   ]
+  },
+  {
+   "from": 11727,
+   "to": 11827,
+   "words": [
+    {
+     "w": "y",
+     "from": 11727,
+     "to": 11729
+    },
+    {
+     "w": "ni",
+     "from": 11737,
+     "to": 11744
+    },
+    {
+     "w": "una",
+     "from": 11749,
+     "to": 11755
+    },
+    {
+     "w": "sola",
+     "from": 11760,
+     "to": 11770
+    },
+    {
+     "w": "mixta",
+     "from": 11775,
+     "to": 11787
+    },
+    {
+     "w": "o",
+     "from": 11804,
+     "to": 11808
+    },
+    {
+     "w": "negativa.",
+     "from": 11812,
+     "to": 11826
+    }
+   ]
+  },
+  {
+   "from": 11827,
+   "to": 11872,
+   "words": [
+    {
+     "w": "Eso",
+     "from": 11827,
+     "to": 11828
+    },
+    {
+     "w": "lo",
+     "from": 11828,
+     "to": 11829
+    },
+    {
+     "w": "pone",
+     "from": 11830,
+     "to": 11830
+    },
+    {
+     "w": "a",
+     "from": 11832,
+     "to": 11833
+    },
+    {
+     "w": "la",
+     "from": 11835,
+     "to": 11838
+    },
+    {
+     "w": "altura",
+     "from": 11841,
+     "to": 11845
+    },
+    {
+     "w": "de",
+     "from": 11847,
+     "to": 11851
+    },
+    {
+     "w": "Ocarina",
+     "from": 11854,
+     "to": 11871
+    }
+   ]
+  },
+  {
+   "from": 11872,
+   "to": 11909,
+   "words": [
+    {
+     "w": "of",
+     "from": 11872,
+     "to": 11872
+    },
+    {
+     "w": "Time,",
+     "from": 11873,
+     "to": 11873
+    },
+    {
+     "w": "el",
+     "from": 11876,
+     "to": 11878
+    },
+    {
+     "w": "juego",
+     "from": 11885,
+     "to": 11905
+    },
+    {
+     "w": "mejor",
+     "from": 11905,
+     "to": 11907
+    },
+    {
+     "w": "valorado",
+     "from": 11907,
+     "to": 11908
+    }
+   ]
+  },
+  {
+   "from": 11909,
+   "to": 11982,
+   "words": [
+    {
+     "w": "en",
+     "from": 11909,
+     "to": 11909
+    },
+    {
+     "w": "la",
+     "from": 11913,
+     "to": 11916
+    },
+    {
+     "w": "historia",
+     "from": 11919,
+     "to": 11938
+    },
+    {
+     "w": "del",
+     "from": 11960,
+     "to": 11965
+    },
+    {
+     "w": "sitio.",
+     "from": 11969,
+     "to": 11981
+    }
+   ]
+  },
+  {
+   "from": 11982,
+   "to": 12065,
+   "words": [
+    {
+     "w": "IGN",
+     "from": 11982,
+     "to": 11989
+    },
+    {
+     "w": "le",
+     "from": 11991,
+     "to": 12008
+    },
+    {
+     "w": "dio",
+     "from": 12020,
+     "to": 12032
+    },
+    {
+     "w": "un",
+     "from": 12037,
+     "to": 12041
+    },
+    {
+     "w": "diez.",
+     "from": 12046,
+     "to": 12061
+    }
+   ]
+  },
+  {
+   "from": 12065,
+   "to": 12108,
+   "words": [
+    {
+     "w": "Bloomberg",
+     "from": 12065,
+     "to": 12066
+    },
+    {
+     "w": "lo",
+     "from": 12066,
+     "to": 12067
+    },
+    {
+     "w": "llamó",
+     "from": 12067,
+     "to": 12068
+    },
+    {
+     "w": "una",
+     "from": 12068,
+     "to": 12069
+    },
+    {
+     "w": "obra",
+     "from": 12069,
+     "to": 12070
+    },
+    {
+     "w": "maestra.",
+     "from": 12070,
+     "to": 12106
+    }
+   ]
+  },
+  {
+   "from": 12108,
+   "to": 12164,
+   "words": [
+    {
+     "w": "¿Qué",
+     "from": 12108,
+     "to": 12111
+    },
+    {
+     "w": "es",
+     "from": 12112,
+     "to": 12113
+    },
+    {
+     "w": "lo",
+     "from": 12116,
+     "to": 12118
+    },
+    {
+     "w": "que",
+     "from": 12121,
+     "to": 12123
+    },
+    {
+     "w": "más",
+     "from": 12125,
+     "to": 12130
+    },
+    {
+     "w": "destacan?",
+     "from": 12133,
+     "to": 12161
+    }
+   ]
+  },
+  {
+   "from": 12164,
+   "to": 12195,
+   "words": [
+    {
+     "w": "El",
+     "from": 12164,
+     "to": 12166
+    },
+    {
+     "w": "mundo:",
+     "from": 12169,
+     "to": 12193
+    }
+   ]
+  },
+  {
+   "from": 12195,
+   "to": 12259,
+   "words": [
+    {
+     "w": "lo",
+     "from": 12195,
+     "to": 12197
+    },
+    {
+     "w": "denso",
+     "from": 12202,
+     "to": 12214
+    },
+    {
+     "w": "que",
+     "from": 12217,
+     "to": 12219
+    },
+    {
+     "w": "es,",
+     "from": 12223,
+     "to": 12236
+    },
+    {
+     "w": "cómo",
+     "from": 12237,
+     "to": 12241
+    },
+    {
+     "w": "reacciona",
+     "from": 12243,
+     "to": 12257
+    }
+   ]
+  },
+  {
+   "from": 12259,
+   "to": 12337,
+   "words": [
+    {
+     "w": "la",
+     "from": 12259,
+     "to": 12260
+    },
+    {
+     "w": "gente,",
+     "from": 12262,
+     "to": 12281
+    },
+    {
+     "w": "los",
+     "from": 12284,
+     "to": 12286
+    },
+    {
+     "w": "eventos",
+     "from": 12289,
+     "to": 12298
+    },
+    {
+     "w": "aleatorios.",
+     "from": 12301,
+     "to": 12334
+    }
+   ]
+  },
+  {
+   "from": 12337,
+   "to": 12397,
+   "words": [
+    {
+     "w": "La",
+     "from": 12337,
+     "to": 12339
+    },
+    {
+     "w": "historia",
+     "from": 12345,
+     "to": 12353
+    },
+    {
+     "w": "de",
+     "from": 12356,
+     "to": 12358
+    },
+    {
+     "w": "Jason",
+     "from": 12361,
+     "to": 12370
+    },
+    {
+     "w": "y",
+     "from": 12371,
+     "to": 12373
+    },
+    {
+     "w": "Lucia,",
+     "from": 12376,
+     "to": 12394
+    }
+   ]
+  },
+  {
+   "from": 12397,
+   "to": 12449,
+   "words": [
+    {
+     "w": "que",
+     "from": 12397,
+     "to": 12401
+    },
+    {
+     "w": "muchos",
+     "from": 12405,
+     "to": 12411
+    },
+    {
+     "w": "describen",
+     "from": 12413,
+     "to": 12428
+    },
+    {
+     "w": "como",
+     "from": 12430,
+     "to": 12433
+    },
+    {
+     "w": "lo",
+     "from": 12435,
+     "to": 12440
+    },
+    {
+     "w": "más",
+     "from": 12442,
+     "to": 12447
+    }
+   ]
+  },
+  {
+   "from": 12449,
+   "to": 12509,
+   "words": [
+    {
+     "w": "maduro",
+     "from": 12449,
+     "to": 12459
+    },
+    {
+     "w": "que",
+     "from": 12461,
+     "to": 12464
+    },
+    {
+     "w": "ha",
+     "from": 12465,
+     "to": 12466
+    },
+    {
+     "w": "escrito",
+     "from": 12469,
+     "to": 12478
+    },
+    {
+     "w": "Rockstar.",
+     "from": 12482,
+     "to": 12507
+    }
+   ]
+  },
+  {
+   "from": 12509,
+   "to": 12557,
+   "words": [
+    {
+     "w": "Y",
+     "from": 12509,
+     "to": 12512
+    },
+    {
+     "w": "un",
+     "from": 12514,
+     "to": 12517
+    },
+    {
+     "w": "nivel",
+     "from": 12521,
+     "to": 12526
+    },
+    {
+     "w": "técnico",
+     "from": 12529,
+     "to": 12543
+    },
+    {
+     "w": "que,",
+     "from": 12548,
+     "to": 12555
+    }
+   ]
+  },
+  {
+   "from": 12557,
+   "to": 12591,
+   "words": [
+    {
+     "w": "según",
+     "from": 12557,
+     "to": 12562
+    },
+    {
+     "w": "varios",
+     "from": 12565,
+     "to": 12572
+    },
+    {
+     "w": "medios,",
+     "from": 12574,
+     "to": 12590
+    }
+   ]
+  },
+  {
+   "from": 12591,
+   "to": 12644,
+   "words": [
+    {
+     "w": "no",
+     "from": 12591,
+     "to": 12598
+    },
+    {
+     "w": "tiene",
+     "from": 12599,
+     "to": 12608
+    },
+    {
+     "w": "comparación.",
+     "from": 12610,
+     "to": 12643
+    }
+   ]
+  },
+  {
+   "from": 12644,
+   "to": 12709,
+   "words": [
+    {
+     "w": "Pero",
+     "from": 12644,
+     "to": 12656
+    },
+    {
+     "w": "no",
+     "from": 12658,
+     "to": 12663
+    },
+    {
+     "w": "todo",
+     "from": 12665,
+     "to": 12670
+    },
+    {
+     "w": "es",
+     "from": 12673,
+     "to": 12675
+    },
+    {
+     "w": "perfecto.",
+     "from": 12677,
+     "to": 12708
+    }
+   ]
+  },
+  {
+   "from": 12709,
+   "to": 12760,
+   "words": [
+    {
+     "w": "El",
+     "from": 12709,
+     "to": 12711
+    },
+    {
+     "w": "juego",
+     "from": 12712,
+     "to": 12721
+    },
+    {
+     "w": "corre",
+     "from": 12723,
+     "to": 12730
+    },
+    {
+     "w": "a",
+     "from": 12733,
+     "to": 12735
+    },
+    {
+     "w": "treinta",
+     "from": 12737,
+     "to": 12745
+    },
+    {
+     "w": "cuadros",
+     "from": 12747,
+     "to": 12759
+    }
+   ]
+  },
+  {
+   "from": 12760,
+   "to": 12821,
+   "words": [
+    {
+     "w": "por",
+     "from": 12760,
+     "to": 12761
+    },
+    {
+     "w": "segundo",
+     "from": 12764,
+     "to": 12776
+    },
+    {
+     "w": "en",
+     "from": 12779,
+     "to": 12783
+    },
+    {
+     "w": "todas",
+     "from": 12785,
+     "to": 12790
+    },
+    {
+     "w": "las",
+     "from": 12793,
+     "to": 12797
+    },
+    {
+     "w": "consolas,",
+     "from": 12801,
+     "to": 12820
+    }
+   ]
+  },
+  {
+   "from": 12821,
+   "to": 12874,
+   "words": [
+    {
+     "w": "incluida",
+     "from": 12821,
+     "to": 12836
+    },
+    {
+     "w": "la",
+     "from": 12838,
+     "to": 12841
+    },
+    {
+     "w": "PS5",
+     "from": 12842,
+     "to": 12860
+    },
+    {
+     "w": "Pro,",
+     "from": 12866,
+     "to": 12873
+    }
+   ]
+  },
+  {
+   "from": 12874,
+   "to": 12922,
+   "words": [
+    {
+     "w": "sin",
+     "from": 12874,
+     "to": 12881
+    },
+    {
+     "w": "modo",
+     "from": 12885,
+     "to": 12889
+    },
+    {
+     "w": "de",
+     "from": 12891,
+     "to": 12893
+    },
+    {
+     "w": "sesenta.",
+     "from": 12896,
+     "to": 12921
+    }
+   ]
+  },
+  {
+   "from": 12922,
+   "to": 12968,
+   "words": [
+    {
+     "w": "Algunos",
+     "from": 12922,
+     "to": 12934
+    },
+    {
+     "w": "sienten",
+     "from": 12935,
+     "to": 12946
+    },
+    {
+     "w": "que",
+     "from": 12949,
+     "to": 12950
+    },
+    {
+     "w": "el",
+     "from": 12951,
+     "to": 12953
+    },
+    {
+     "w": "arranque",
+     "from": 12956,
+     "to": 12965
+    }
+   ]
+  },
+  {
+   "from": 12968,
+   "to": 13027,
+   "words": [
+    {
+     "w": "es",
+     "from": 12968,
+     "to": 12970
+    },
+    {
+     "w": "lento,",
+     "from": 12971,
+     "to": 12991
+    },
+    {
+     "w": "que",
+     "from": 12992,
+     "to": 12993
+    },
+    {
+     "w": "el",
+     "from": 12994,
+     "to": 12997
+    },
+    {
+     "w": "combate",
+     "from": 13000,
+     "to": 13009
+    },
+    {
+     "w": "es",
+     "from": 13011,
+     "to": 13013
+    },
+    {
+     "w": "algo",
+     "from": 13016,
+     "to": 13023
+    }
+   ]
+  },
+  {
+   "from": 13027,
+   "to": 13089,
+   "words": [
+    {
+     "w": "torpe,",
+     "from": 13027,
+     "to": 13045
+    },
+    {
+     "w": "y",
+     "from": 13046,
+     "to": 13047
+    },
+    {
+     "w": "que",
+     "from": 13049,
+     "to": 13054
+    },
+    {
+     "w": "tanto",
+     "from": 13055,
+     "to": 13064
+    },
+    {
+     "w": "realismo,",
+     "from": 13069,
+     "to": 13087
+    }
+   ]
+  },
+  {
+   "from": 13089,
+   "to": 13125,
+   "words": [
+    {
+     "w": "con",
+     "from": 13089,
+     "to": 13090
+    },
+    {
+     "w": "autos",
+     "from": 13095,
+     "to": 13100
+    },
+    {
+     "w": "frágiles,",
+     "from": 13102,
+     "to": 13122
+    }
+   ]
+  },
+  {
+   "from": 13125,
+   "to": 13173,
+   "words": [
+    {
+     "w": "facturas",
+     "from": 13125,
+     "to": 13136
+    },
+    {
+     "w": "y",
+     "from": 13138,
+     "to": 13139
+    },
+    {
+     "w": "rutinas",
+     "from": 13141,
+     "to": 13150
+    },
+    {
+     "w": "diarias,",
+     "from": 13153,
+     "to": 13173
+    }
+   ]
+  },
+  {
+   "from": 13173,
+   "to": 13217,
+   "words": [
+    {
+     "w": "puede",
+     "from": 13173,
+     "to": 13181
+    },
+    {
+     "w": "chocar",
+     "from": 13183,
+     "to": 13193
+    },
+    {
+     "w": "si",
+     "from": 13195,
+     "to": 13196
+    },
+    {
+     "w": "vienes",
+     "from": 13198,
+     "to": 13205
+    },
+    {
+     "w": "directo",
+     "from": 13210,
+     "to": 13216
+    }
+   ]
+  },
+  {
+   "from": 13217,
+   "to": 13256,
+   "words": [
+    {
+     "w": "de",
+     "from": 13217,
+     "to": 13220
+    },
+    {
+     "w": "GTA",
+     "from": 13222,
+     "to": 13229
+    },
+    {
+     "w": "Cinco.",
+     "from": 13232,
+     "to": 13255
+    }
+   ]
+  },
+  {
+   "from": 13256,
+   "to": 13337,
+   "words": [
+    {
+     "w": "Aun",
+     "from": 13256,
+     "to": 13261
+    },
+    {
+     "w": "así,",
+     "from": 13263,
+     "to": 13279
+    },
+    {
+     "w": "el",
+     "from": 13280,
+     "to": 13282
+    },
+    {
+     "w": "consenso",
+     "from": 13285,
+     "to": 13299
+    },
+    {
+     "w": "es",
+     "from": 13303,
+     "to": 13306
+    },
+    {
+     "w": "clarísimo:",
+     "from": 13310,
+     "to": 13336
+    }
+   ]
+  },
+  {
+   "from": 13337,
+   "to": 13420,
+   "words": [
+    {
+     "w": "estamos",
+     "from": 13337,
+     "to": 13352
+    },
+    {
+     "w": "ante",
+     "from": 13354,
+     "to": 13361
+    },
+    {
+     "w": "algo",
+     "from": 13364,
+     "to": 13369
+    },
+    {
+     "w": "histórico.",
+     "from": 13373,
+     "to": 13402
+    }
+   ]
+  },
+  {
+   "from": 13496,
+   "to": 13568,
+   "words": [
+    {
+     "w": "Y",
+     "from": 13496,
+     "to": 13497
+    },
+    {
+     "w": "los",
+     "from": 13498,
+     "to": 13503
+    },
+    {
+     "w": "números",
+     "from": 13506,
+     "to": 13518
+    },
+    {
+     "w": "ya",
+     "from": 13520,
+     "to": 13527
+    },
+    {
+     "w": "son",
+     "from": 13531,
+     "to": 13534
+    },
+    {
+     "w": "de",
+     "from": 13536,
+     "to": 13537
+    },
+    {
+     "w": "locura.",
+     "from": 13539,
+     "to": 13567
+    }
+   ]
+  },
+  {
+   "from": 13568,
+   "to": 13633,
+   "words": [
+    {
+     "w": "Según",
+     "from": 13568,
+     "to": 13575
+    },
+    {
+     "w": "estimaciones",
+     "from": 13578,
+     "to": 13594
+    },
+    {
+     "w": "de",
+     "from": 13596,
+     "to": 13597
+    },
+    {
+     "w": "Sensor",
+     "from": 13599,
+     "to": 13609
+    },
+    {
+     "w": "Tower,",
+     "from": 13618,
+     "to": 13630
+    }
+   ]
+  },
+  {
+   "from": 13633,
+   "to": 13681,
+   "words": [
+    {
+     "w": "las",
+     "from": 13633,
+     "to": 13635
+    },
+    {
+     "w": "preventas",
+     "from": 13641,
+     "to": 13650
+    },
+    {
+     "w": "se",
+     "from": 13652,
+     "to": 13654
+    },
+    {
+     "w": "acercan",
+     "from": 13657,
+     "to": 13666
+    },
+    {
+     "w": "a",
+     "from": 13669,
+     "to": 13670
+    },
+    {
+     "w": "los",
+     "from": 13671,
+     "to": 13678
+    }
+   ]
+  },
+  {
+   "from": 13681,
+   "to": 13753,
+   "words": [
+    {
+     "w": "mil",
+     "from": 13681,
+     "to": 13688
+    },
+    {
+     "w": "setecientos",
+     "from": 13690,
+     "to": 13712
+    },
+    {
+     "w": "millones",
+     "from": 13714,
+     "to": 13726
+    },
+    {
+     "w": "de",
+     "from": 13728,
+     "to": 13729
+    },
+    {
+     "w": "dólares,",
+     "from": 13731,
+     "to": 13752
+    }
+   ]
+  },
+  {
+   "from": 13753,
+   "to": 13832,
+   "words": [
+    {
+     "w": "y",
+     "from": 13753,
+     "to": 13755
+    },
+    {
+     "w": "eso",
+     "from": 13758,
+     "to": 13770
+    },
+    {
+     "w": "antes",
+     "from": 13774,
+     "to": 13782
+    },
+    {
+     "w": "de",
+     "from": 13784,
+     "to": 13786
+    },
+    {
+     "w": "salir",
+     "from": 13789,
+     "to": 13794
+    },
+    {
+     "w": "a",
+     "from": 13795,
+     "to": 13796
+    },
+    {
+     "w": "la",
+     "from": 13797,
+     "to": 13798
+    },
+    {
+     "w": "venta.",
+     "from": 13813,
+     "to": 13830
+    }
+   ]
+  },
+  {
+   "from": 13832,
+   "to": 13882,
+   "words": [
+    {
+     "w": "Las",
+     "from": 13832,
+     "to": 13834
+    },
+    {
+     "w": "apuestas",
+     "from": 13837,
+     "to": 13849
+    },
+    {
+     "w": "dan",
+     "from": 13852,
+     "to": 13856
+    },
+    {
+     "w": "casi",
+     "from": 13858,
+     "to": 13866
+    },
+    {
+     "w": "por",
+     "from": 13868,
+     "to": 13870
+    },
+    {
+     "w": "hecho",
+     "from": 13873,
+     "to": 13880
+    }
+   ]
+  },
+  {
+   "from": 13882,
+   "to": 13938,
+   "words": [
+    {
+     "w": "que",
+     "from": 13882,
+     "to": 13885
+    },
+    {
+     "w": "va",
+     "from": 13886,
+     "to": 13887
+    },
+    {
+     "w": "a",
+     "from": 13888,
+     "to": 13890
+    },
+    {
+     "w": "romper",
+     "from": 13892,
+     "to": 13902
+    },
+    {
+     "w": "el",
+     "from": 13904,
+     "to": 13906
+    },
+    {
+     "w": "récord",
+     "from": 13908,
+     "to": 13916
+    },
+    {
+     "w": "de",
+     "from": 13917,
+     "to": 13918
+    },
+    {
+     "w": "lanzamiento",
+     "from": 13921,
+     "to": 13935
+    }
+   ]
+  },
+  {
+   "from": 13938,
+   "to": 14007,
+   "words": [
+    {
+     "w": "de",
+     "from": 13938,
+     "to": 13940
+    },
+    {
+     "w": "GTA",
+     "from": 13941,
+     "to": 13952
+    },
+    {
+     "w": "Cinco,",
+     "from": 13953,
+     "to": 13972
+    },
+    {
+     "w": "y",
+     "from": 13974,
+     "to": 13975
+    },
+    {
+     "w": "algunos",
+     "from": 13976,
+     "to": 13986
+    },
+    {
+     "w": "analistas",
+     "from": 13988,
+     "to": 14005
+    }
+   ]
+  },
+  {
+   "from": 14007,
+   "to": 14067,
+   "words": [
+    {
+     "w": "hablan",
+     "from": 14007,
+     "to": 14017
+    },
+    {
+     "w": "de",
+     "from": 14019,
+     "to": 14022
+    },
+    {
+     "w": "más",
+     "from": 14023,
+     "to": 14026
+    },
+    {
+     "w": "de",
+     "from": 14029,
+     "to": 14034
+    },
+    {
+     "w": "dos",
+     "from": 14036,
+     "to": 14043
+    },
+    {
+     "w": "mil",
+     "from": 14046,
+     "to": 14050
+    },
+    {
+     "w": "millones",
+     "from": 14053,
+     "to": 14065
+    }
+   ]
+  },
+  {
+   "from": 14067,
+   "to": 14126,
+   "words": [
+    {
+     "w": "en",
+     "from": 14067,
+     "to": 14070
+    },
+    {
+     "w": "su",
+     "from": 14072,
+     "to": 14074
+    },
+    {
+     "w": "primer",
+     "from": 14079,
+     "to": 14084
+    },
+    {
+     "w": "fin",
+     "from": 14086,
+     "to": 14089
+    },
+    {
+     "w": "de",
+     "from": 14090,
+     "to": 14091
+    },
+    {
+     "w": "semana.",
+     "from": 14094,
+     "to": 14125
+    }
+   ]
+  },
+  {
+   "from": 14126,
+   "to": 14180,
+   "words": [
+    {
+     "w": "La",
+     "from": 14126,
+     "to": 14127
+    },
+    {
+     "w": "edición",
+     "from": 14130,
+     "to": 14139
+    },
+    {
+     "w": "estándar",
+     "from": 14142,
+     "to": 14156
+    },
+    {
+     "w": "cuesta",
+     "from": 14157,
+     "to": 14166
+    },
+    {
+     "w": "ochenta",
+     "from": 14168,
+     "to": 14178
+    }
+   ]
+  },
+  {
+   "from": 14180,
+   "to": 14228,
+   "words": [
+    {
+     "w": "dólares,",
+     "from": 14180,
+     "to": 14200
+    },
+    {
+     "w": "y",
+     "from": 14202,
+     "to": 14203
+    },
+    {
+     "w": "la",
+     "from": 14204,
+     "to": 14206
+    },
+    {
+     "w": "Ultimate,",
+     "from": 14209,
+     "to": 14227
+    }
+   ]
+  },
+  {
+   "from": 14228,
+   "to": 14257,
+   "words": [
+    {
+     "w": "cien.",
+     "from": 14228,
+     "to": 14254
+    }
+   ]
+  },
+  {
+   "from": 14257,
+   "to": 14312,
+   "words": [
+    {
+     "w": "Sale",
+     "from": 14257,
+     "to": 14266
+    },
+    {
+     "w": "solo",
+     "from": 14269,
+     "to": 14274
+    },
+    {
+     "w": "en",
+     "from": 14276,
+     "to": 14278
+    },
+    {
+     "w": "PlayStation",
+     "from": 14281,
+     "to": 14298
+    },
+    {
+     "w": "Cinco",
+     "from": 14299,
+     "to": 14310
+    }
+   ]
+  },
+  {
+   "from": 14312,
+   "to": 14358,
+   "words": [
+    {
+     "w": "y",
+     "from": 14312,
+     "to": 14314
+    },
+    {
+     "w": "Xbox",
+     "from": 14319,
+     "to": 14329
+    },
+    {
+     "w": "Series.",
+     "from": 14342,
+     "to": 14356
+    }
+   ]
+  },
+  {
+   "from": 14358,
+   "to": 14427,
+   "words": [
+    {
+     "w": "De",
+     "from": 14358,
+     "to": 14360
+    },
+    {
+     "w": "PC,",
+     "from": 14362,
+     "to": 14378
+    },
+    {
+     "w": "por",
+     "from": 14380,
+     "to": 14382
+    },
+    {
+     "w": "ahora,",
+     "from": 14384,
+     "to": 14400
+    },
+    {
+     "w": "nada.",
+     "from": 14401,
+     "to": 14426
+    }
+   ]
+  },
+  {
+   "from": 14427,
+   "to": 14474,
+   "words": [
+    {
+     "w": "Y",
+     "from": 14427,
+     "to": 14430
+    },
+    {
+     "w": "prepara",
+     "from": 14433,
+     "to": 14442
+    },
+    {
+     "w": "tu",
+     "from": 14444,
+     "to": 14446
+    },
+    {
+     "w": "disco",
+     "from": 14450,
+     "to": 14456
+    },
+    {
+     "w": "duro,",
+     "from": 14457,
+     "to": 14472
+    }
+   ]
+  },
+  {
+   "from": 14474,
+   "to": 14518,
+   "words": [
+    {
+     "w": "porque",
+     "from": 14474,
+     "to": 14478
+    },
+    {
+     "w": "hablamos",
+     "from": 14479,
+     "to": 14487
+    },
+    {
+     "w": "de",
+     "from": 14490,
+     "to": 14491
+    },
+    {
+     "w": "alrededor",
+     "from": 14492,
+     "to": 14506
+    },
+    {
+     "w": "de",
+     "from": 14509,
+     "to": 14514
+    }
+   ]
+  },
+  {
+   "from": 14518,
+   "to": 14587,
+   "words": [
+    {
+     "w": "doscientos",
+     "from": 14518,
+     "to": 14538
+    },
+    {
+     "w": "gigas.",
+     "from": 14539,
+     "to": 14569
+    }
+   ]
+  },
+  {
+   "from": 14662,
+   "to": 14732,
+   "words": [
+    {
+     "w": "Así",
+     "from": 14662,
+     "to": 14669
+    },
+    {
+     "w": "que,",
+     "from": 14672,
+     "to": 14683
+    },
+    {
+     "w": "si",
+     "from": 14684,
+     "to": 14686
+    },
+    {
+     "w": "lo",
+     "from": 14688,
+     "to": 14691
+    },
+    {
+     "w": "vas",
+     "from": 14693,
+     "to": 14696
+    },
+    {
+     "w": "a",
+     "from": 14697,
+     "to": 14698
+    },
+    {
+     "w": "jugar",
+     "from": 14700,
+     "to": 14708
+    },
+    {
+     "w": "mañana,",
+     "from": 14710,
+     "to": 14730
+    }
+   ]
+  },
+  {
+   "from": 14732,
+   "to": 14801,
+   "words": [
+    {
+     "w": "esto",
+     "from": 14732,
+     "to": 14739
+    },
+    {
+     "w": "es",
+     "from": 14741,
+     "to": 14744
+    },
+    {
+     "w": "lo",
+     "from": 14746,
+     "to": 14748
+    },
+    {
+     "w": "que",
+     "from": 14752,
+     "to": 14756
+    },
+    {
+     "w": "tienes",
+     "from": 14757,
+     "to": 14765
+    },
+    {
+     "w": "que",
+     "from": 14768,
+     "to": 14770
+    },
+    {
+     "w": "saber.",
+     "from": 14771,
+     "to": 14800
+    }
+   ]
+  },
+  {
+   "from": 14801,
+   "to": 14847,
+   "words": [
+    {
+     "w": "Si",
+     "from": 14801,
+     "to": 14804
+    },
+    {
+     "w": "lo",
+     "from": 14805,
+     "to": 14806
+    },
+    {
+     "w": "compraste",
+     "from": 14808,
+     "to": 14820
+    },
+    {
+     "w": "en",
+     "from": 14823,
+     "to": 14825
+    },
+    {
+     "w": "digital,",
+     "from": 14835,
+     "to": 14846
+    }
+   ]
+  },
+  {
+   "from": 14847,
+   "to": 14897,
+   "words": [
+    {
+     "w": "ya",
+     "from": 14847,
+     "to": 14852
+    },
+    {
+     "w": "puedes",
+     "from": 14854,
+     "to": 14861
+    },
+    {
+     "w": "descargarlo",
+     "from": 14864,
+     "to": 14880
+    },
+    {
+     "w": "desde",
+     "from": 14883,
+     "to": 14890
+    },
+    {
+     "w": "el",
+     "from": 14892,
+     "to": 14895
+    }
+   ]
+  },
+  {
+   "from": 14897,
+   "to": 14933,
+   "words": [
+    {
+     "w": "doce",
+     "from": 14897,
+     "to": 14902
+    },
+    {
+     "w": "de",
+     "from": 14904,
+     "to": 14906
+    },
+    {
+     "w": "noviembre.",
+     "from": 14907,
+     "to": 14932
+    }
+   ]
+  },
+  {
+   "from": 14933,
+   "to": 14981,
+   "words": [
+    {
+     "w": "Se",
+     "from": 14933,
+     "to": 14936
+    },
+    {
+     "w": "desbloquea",
+     "from": 14938,
+     "to": 14954
+    },
+    {
+     "w": "a",
+     "from": 14956,
+     "to": 14957
+    },
+    {
+     "w": "medianoche,",
+     "from": 14960,
+     "to": 14980
+    }
+   ]
+  },
+  {
+   "from": 14981,
+   "to": 15034,
+   "words": [
+    {
+     "w": "según",
+     "from": 14981,
+     "to": 14988
+    },
+    {
+     "w": "la",
+     "from": 14991,
+     "to": 14993
+    },
+    {
+     "w": "hora",
+     "from": 14996,
+     "to": 14998
+    },
+    {
+     "w": "local",
+     "from": 15003,
+     "to": 15008
+    },
+    {
+     "w": "de",
+     "from": 15009,
+     "to": 15010
+    },
+    {
+     "w": "tu",
+     "from": 15012,
+     "to": 15015
+    },
+    {
+     "w": "país,",
+     "from": 15017,
+     "to": 15033
+    }
+   ]
+  },
+  {
+   "from": 15034,
+   "to": 15094,
+   "words": [
+    {
+     "w": "y",
+     "from": 15034,
+     "to": 15036
+    },
+    {
+     "w": "la",
+     "from": 15039,
+     "to": 15041
+    },
+    {
+     "w": "precarga",
+     "from": 15045,
+     "to": 15060
+    },
+    {
+     "w": "no",
+     "from": 15063,
+     "to": 15068
+    },
+    {
+     "w": "te",
+     "from": 15070,
+     "to": 15072
+    },
+    {
+     "w": "deja",
+     "from": 15075,
+     "to": 15080
+    },
+    {
+     "w": "entrar",
+     "from": 15082,
+     "to": 15092
+    }
+   ]
+  },
+  {
+   "from": 15094,
+   "to": 15118,
+   "words": [
+    {
+     "w": "antes.",
+     "from": 15094,
+     "to": 15117
+    }
+   ]
+  },
+  {
+   "from": 15118,
+   "to": 15181,
+   "words": [
+    {
+     "w": "Libera",
+     "from": 15118,
+     "to": 15125
+    },
+    {
+     "w": "espacio,",
+     "from": 15129,
+     "to": 15150
+    },
+    {
+     "w": "carga",
+     "from": 15152,
+     "to": 15156
+    },
+    {
+     "w": "el",
+     "from": 15159,
+     "to": 15161
+    },
+    {
+     "w": "control,",
+     "from": 15170,
+     "to": 15180
+    }
+   ]
+  },
+  {
+   "from": 15181,
+   "to": 15224,
+   "words": [
+    {
+     "w": "y",
+     "from": 15181,
+     "to": 15183
+    },
+    {
+     "w": "silencia",
+     "from": 15185,
+     "to": 15200
+    },
+    {
+     "w": "las",
+     "from": 15202,
+     "to": 15204
+    },
+    {
+     "w": "redes,",
+     "from": 15207,
+     "to": 15223
+    }
+   ]
+  },
+  {
+   "from": 15224,
+   "to": 15276,
+   "words": [
+    {
+     "w": "porque",
+     "from": 15224,
+     "to": 15231
+    },
+    {
+     "w": "mañana",
+     "from": 15234,
+     "to": 15248
+    },
+    {
+     "w": "van",
+     "from": 15250,
+     "to": 15255
+    },
+    {
+     "w": "a",
+     "from": 15256,
+     "to": 15257
+    },
+    {
+     "w": "llover",
+     "from": 15258,
+     "to": 15269
+    },
+    {
+     "w": "los",
+     "from": 15272,
+     "to": 15274
+    }
+   ]
+  },
+  {
+   "from": 15276,
+   "to": 15304,
+   "words": [
+    {
+     "w": "spoilers.",
+     "from": 15276,
+     "to": 15304
+    }
+   ]
+  },
+  {
+   "from": 15304,
+   "to": 15346,
+   "words": [
+    {
+     "w": "Trece",
+     "from": 15304,
+     "to": 15312
+    },
+    {
+     "w": "años",
+     "from": 15315,
+     "to": 15322
+    },
+    {
+     "w": "después,",
+     "from": 15326,
+     "to": 15345
+    }
+   ]
+  },
+  {
+   "from": 15346,
+   "to": 15391,
+   "words": [
+    {
+     "w": "la",
+     "from": 15346,
+     "to": 15348
+    },
+    {
+     "w": "espera",
+     "from": 15354,
+     "to": 15363
+    },
+    {
+     "w": "termina.",
+     "from": 15369,
+     "to": 15390
+    }
+   ]
+  },
+  {
+   "from": 15391,
+   "to": 15434,
+   "words": [
+    {
+     "w": "Cuéntame",
+     "from": 15391,
+     "to": 15399
+    },
+    {
+     "w": "en",
+     "from": 15400,
+     "to": 15401
+    },
+    {
+     "w": "los",
+     "from": 15404,
+     "to": 15406
+    },
+    {
+     "w": "comentarios:",
+     "from": 15408,
+     "to": 15433
+    }
+   ]
+  },
+  {
+   "from": 15434,
+   "to": 15476,
+   "words": [
+    {
+     "w": "¿vas",
+     "from": 15434,
+     "to": 15440
+    },
+    {
+     "w": "a",
+     "from": 15441,
+     "to": 15442
+    },
+    {
+     "w": "jugarlo",
+     "from": 15443,
+     "to": 15454
+    },
+    {
+     "w": "desde",
+     "from": 15456,
+     "to": 15463
+    },
+    {
+     "w": "el",
+     "from": 15464,
+     "to": 15466
+    },
+    {
+     "w": "primer",
+     "from": 15470,
+     "to": 15473
+    }
+   ]
+  },
+  {
+   "from": 15476,
+   "to": 15502,
+   "words": [
+    {
+     "w": "minuto?",
+     "from": 15476,
+     "to": 15501
+    }
+   ]
+  },
+  {
+   "from": 15502,
+   "to": 15533,
+   "words": [
+    {
+     "w": "¿Con",
+     "from": 15502,
+     "to": 15504
+    },
+    {
+     "w": "quién",
+     "from": 15506,
+     "to": 15509
+    },
+    {
+     "w": "te",
+     "from": 15512,
+     "to": 15514
+    },
+    {
+     "w": "quedas,",
+     "from": 15515,
+     "to": 15532
+    }
+   ]
+  },
+  {
+   "from": 15533,
+   "to": 15579,
+   "words": [
+    {
+     "w": "Jason",
+     "from": 15533,
+     "to": 15548
+    },
+    {
+     "w": "o",
+     "from": 15550,
+     "to": 15551
+    },
+    {
+     "w": "Lucia?",
+     "from": 15552,
+     "to": 15578
+    }
+   ]
+  },
+  {
+   "from": 15579,
+   "to": 15637,
+   "words": [
+    {
+     "w": "Suscríbete",
+     "from": 15579,
+     "to": 15596
+    },
+    {
+     "w": "y",
+     "from": 15597,
+     "to": 15598
+    },
+    {
+     "w": "activa",
+     "from": 15600,
+     "to": 15611
+    },
+    {
+     "w": "la",
+     "from": 15612,
+     "to": 15615
+    },
+    {
+     "w": "campanita,",
+     "from": 15617,
+     "to": 15636
+    }
+   ]
+  },
+  {
+   "from": 15637,
+   "to": 15670,
+   "words": [
+    {
+     "w": "porque",
+     "from": 15637,
+     "to": 15641
+    },
+    {
+     "w": "vienen",
+     "from": 15644,
+     "to": 15653
+    },
+    {
+     "w": "guías,",
+     "from": 15656,
+     "to": 15669
+    }
+   ]
+  },
+  {
+   "from": 15670,
+   "to": 15723,
+   "words": [
+    {
+     "w": "secretos",
+     "from": 15670,
+     "to": 15689
+    },
+    {
+     "w": "y",
+     "from": 15693,
+     "to": 15696
+    },
+    {
+     "w": "todo",
+     "from": 15699,
+     "to": 15704
+    },
+    {
+     "w": "lo",
+     "from": 15706,
+     "to": 15708
+    },
+    {
+     "w": "que",
+     "from": 15710,
+     "to": 15711
+    },
+    {
+     "w": "vamos",
+     "from": 15713,
+     "to": 15718
+    },
+    {
+     "w": "a",
+     "from": 15720,
+     "to": 15722
+    }
+   ]
+  },
+  {
+   "from": 15723,
+   "to": 15768,
+   "words": [
+    {
+     "w": "descubrir",
+     "from": 15723,
+     "to": 15735
+    },
+    {
+     "w": "en",
+     "from": 15737,
+     "to": 15740
+    },
+    {
+     "w": "Leonida.",
+     "from": 15744,
+     "to": 15766
+    }
+   ]
+  },
+  {
+   "from": 15768,
+   "to": 15832,
+   "words": [
+    {
+     "w": "Nos",
+     "from": 15768,
+     "to": 15773
+    },
+    {
+     "w": "vemos",
+     "from": 15774,
+     "to": 15783
+    },
+    {
+     "w": "en",
+     "from": 15785,
+     "to": 15790
+    },
+    {
+     "w": "Vice",
+     "from": 15791,
+     "to": 15797
+    },
+    {
+     "w": "City.",
+     "from": 15800,
+     "to": 15814
+    }
+   ]
+  }
+ ],
+ "sfx": [
+  {
+   "name": "riser",
+   "frame": 0,
+   "gain": 0.85
+  },
+  {
+   "name": "impact",
+   "frame": 194,
+   "gain": 0.85
+  },
+  {
+   "name": "impact",
+   "frame": 234,
+   "gain": 0.85
+  },
+  {
+   "name": "glitch",
+   "frame": 273,
+   "gain": 0.85
+  },
+  {
+   "name": "tick",
+   "frame": 364,
+   "gain": 0.85
+  },
+  {
+   "name": "boom",
+   "frame": 522,
+   "gain": 0.85
+  },
+  {
+   "name": "impact",
+   "frame": 592,
+   "gain": 0.85
+  },
+  {
+   "name": "whoosh",
+   "frame": 654,
+   "gain": 0.85
+  },
+  {
+   "name": "pop",
+   "frame": 740,
+   "gain": 0.8
+  },
+  {
+   "name": "pop",
+   "frame": 786,
+   "gain": 0.8
+  },
+  {
+   "name": "pop",
+   "frame": 846,
+   "gain": 0.8
+  },
+  {
+   "name": "riser",
+   "frame": 924,
+   "gain": 0.85
+  },
+  {
+   "name": "riser",
+   "frame": 988,
+   "gain": 0.9
+  },
+  {
+   "name": "drop",
+   "frame": 1042,
+   "gain": 1.0
+  },
+  {
+   "name": "riser",
+   "frame": 1178,
+   "gain": 0.7
+  },
+  {
+   "name": "boom",
+   "frame": 1220,
+   "gain": 0.9
+  },
+  {
+   "name": "whoosh",
+   "frame": 1288,
+   "gain": 0.6
+  },
+  {
+   "name": "whoosh",
+   "frame": 1296,
+   "gain": 0.85
+  },
+  {
+   "name": "impact",
+   "frame": 1449,
+   "gain": 0.85
+  },
+  {
+   "name": "cash",
+   "frame": 1603,
+   "gain": 0.85
+  },
+  {
+   "name": "stamp",
+   "frame": 1785,
+   "gain": 0.8
+  },
+  {
+   "name": "stamp",
+   "frame": 1826,
+   "gain": 0.8
+  },
+  {
+   "name": "stamp",
+   "frame": 1864,
+   "gain": 0.8
+  },
+  {
+   "name": "whoosh",
+   "frame": 1938,
+   "gain": 0.85
+  },
+  {
+   "name": "pop",
+   "frame": 2010,
+   "gain": 0.8
+  },
+  {
+   "name": "pop",
+   "frame": 2034,
+   "gain": 0.8
+  },
+  {
+   "name": "pop",
+   "frame": 2061,
+   "gain": 0.8
+  },
+  {
+   "name": "boom",
+   "frame": 2097,
+   "gain": 0.85
+  },
+  {
+   "name": "cash",
+   "frame": 2190,
+   "gain": 0.85
+  },
+  {
+   "name": "whoosh",
+   "frame": 2330,
+   "gain": 0.85
+  },
+  {
+   "name": "stamp",
+   "frame": 2498,
+   "gain": 0.8
+  },
+  {
+   "name": "stamp",
+   "frame": 2540,
+   "gain": 0.8
+  },
+  {
+   "name": "stamp",
+   "frame": 2580,
+   "gain": 0.8
+  },
+  {
+   "name": "notify",
+   "frame": 2620,
+   "gain": 0.85
+  },
+  {
+   "name": "heartbeat",
+   "frame": 2846,
+   "gain": 0.85
+  },
+  {
+   "name": "riser",
+   "frame": 2949,
+   "gain": 0.7
+  },
+  {
+   "name": "boom",
+   "frame": 2991,
+   "gain": 0.9
+  },
+  {
+   "name": "whoosh",
+   "frame": 3059,
+   "gain": 0.6
+  },
+  {
+   "name": "glitch",
+   "frame": 3067,
+   "gain": 0.85
+  },
+  {
+   "name": "glitch",
+   "frame": 3302,
+   "gain": 0.85
+  },
+  {
+   "name": "news",
+   "frame": 3460,
+   "gain": 0.85
+  },
+  {
+   "name": "down",
+   "frame": 3551,
+   "gain": 0.85
+  },
+  {
+   "name": "heartbeat",
+   "frame": 3643,
+   "gain": 0.85
+  },
+  {
+   "name": "impact",
+   "frame": 3694,
+   "gain": 0.85
+  },
+  {
+   "name": "whoosh",
+   "frame": 3861,
+   "gain": 0.85
+  },
+  {
+   "name": "boom",
+   "frame": 4183,
+   "gain": 0.85
+  },
+  {
+   "name": "pops",
+   "frame": 4365,
+   "gain": 0.85
+  },
+  {
+   "name": "riser",
+   "frame": 4514,
+   "gain": 0.7
+  },
+  {
+   "name": "boom",
+   "frame": 4556,
+   "gain": 0.9
+  },
+  {
+   "name": "whoosh",
+   "frame": 4624,
+   "gain": 0.6
+  },
+  {
+   "name": "whoosh",
+   "frame": 4632,
+   "gain": 0.85
+  },
+  {
+   "name": "stamp",
+   "frame": 4888,
+   "gain": 0.9
+  },
+  {
+   "name": "impact",
+   "frame": 4939,
+   "gain": 0.85
+  },
+  {
+   "name": "tape",
+   "frame": 5035,
+   "gain": 0.85
+  },
+  {
+   "name": "neon",
+   "frame": 5119,
+   "gain": 0.85
+  },
+  {
+   "name": "tick",
+   "frame": 5179,
+   "gain": 0.85
+  },
+  {
+   "name": "stamp",
+   "frame": 5308,
+   "gain": 0.9
+  },
+  {
+   "name": "whoosh",
+   "frame": 5416,
+   "gain": 0.85
+  },
+  {
+   "name": "boom",
+   "frame": 5676,
+   "gain": 0.85
+  },
+  {
+   "name": "whoosh",
+   "frame": 5894,
+   "gain": 0.85
+  },
+  {
+   "name": "heartbeat",
+   "frame": 6046,
+   "gain": 0.85
+  },
+  {
+   "name": "riser",
+   "frame": 6172,
+   "gain": 0.7
+  },
+  {
+   "name": "boom",
+   "frame": 6214,
+   "gain": 0.9
+  },
+  {
+   "name": "whoosh",
+   "frame": 6282,
+   "gain": 0.6
+  },
+  {
+   "name": "whoosh",
+   "frame": 6290,
+   "gain": 0.85
+  },
+  {
+   "name": "stamp",
+   "frame": 6448,
+   "gain": 0.85
+  },
+  {
+   "name": "pops",
+   "frame": 6659,
+   "gain": 0.85
+  },
+  {
+   "name": "stamp",
+   "frame": 6966,
+   "gain": 0.9
+  },
+  {
+   "name": "impact",
+   "frame": 7007,
+   "gain": 0.85
+  },
+  {
+   "name": "boom",
+   "frame": 7050,
+   "gain": 0.85
+  },
+  {
+   "name": "notify",
+   "frame": 7173,
+   "gain": 0.85
+  },
+  {
+   "name": "riser",
+   "frame": 7368,
+   "gain": 0.85
+  },
+  {
+   "name": "riser",
+   "frame": 7571,
+   "gain": 0.7
+  },
+  {
+   "name": "boom",
+   "frame": 7613,
+   "gain": 0.9
+  },
+  {
+   "name": "whoosh",
+   "frame": 7681,
+   "gain": 0.6
+  },
+  {
+   "name": "whoosh",
+   "frame": 7689,
+   "gain": 0.85
+  },
+  {
+   "name": "whoosh",
+   "frame": 7835,
+   "gain": 0.85
+  },
+  {
+   "name": "pin",
+   "frame": 8055,
+   "gain": 0.8
+  },
+  {
+   "name": "pin",
+   "frame": 8257,
+   "gain": 0.8
+  },
+  {
+   "name": "pin",
+   "frame": 8430,
+   "gain": 0.8
+  },
+  {
+   "name": "pin",
+   "frame": 8589,
+   "gain": 0.8
+  },
+  {
+   "name": "pin",
+   "frame": 8728,
+   "gain": 0.8
+  },
+  {
+   "name": "pin",
+   "frame": 8880,
+   "gain": 0.8
+  },
+  {
+   "name": "notify",
+   "frame": 9009,
+   "gain": 0.85
+  },
+  {
+   "name": "impact",
+   "frame": 9304,
+   "gain": 0.85
+  },
+  {
+   "name": "whoosh",
+   "frame": 9383,
+   "gain": 0.85
+  },
+  {
+   "name": "riser",
+   "frame": 9515,
+   "gain": 0.7
+  },
+  {
+   "name": "boom",
+   "frame": 9557,
+   "gain": 0.9
+  },
+  {
+   "name": "whoosh",
+   "frame": 9625,
+   "gain": 0.6
+  },
+  {
+   "name": "whoosh",
+   "frame": 9633,
+   "gain": 0.85
+  },
+  {
+   "name": "whoosh",
+   "frame": 9815,
+   "gain": 0.85
+  },
+  {
+   "name": "pop",
+   "frame": 9937,
+   "gain": 0.8
+  },
+  {
+   "name": "pop",
+   "frame": 10036,
+   "gain": 0.8
+  },
+  {
+   "name": "shutter",
+   "frame": 10077,
+   "gain": 0.85
+  },
+  {
+   "name": "pop",
+   "frame": 10157,
+   "gain": 0.8
+  },
+  {
+   "name": "whoosh",
+   "frame": 10157,
+   "gain": 0.85
+  },
+  {
+   "name": "pop",
+   "frame": 10234,
+   "gain": 0.8
+  },
+  {
+   "name": "pop",
+   "frame": 10338,
+   "gain": 0.8
+  },
+  {
+   "name": "neon",
+   "frame": 10413,
+   "gain": 0.85
+  },
+  {
+   "name": "siren",
+   "frame": 10506,
+   "gain": 0.85
+  },
+  {
+   "name": "boom",
+   "frame": 10605,
+   "gain": 0.85
+  },
+  {
+   "name": "whoosh",
+   "frame": 10715,
+   "gain": 0.85
+  },
+  {
+   "name": "pop",
+   "frame": 10767,
+   "gain": 0.8
+  },
+  {
+   "name": "pop",
+   "frame": 10907,
+   "gain": 0.8
+  },
+  {
+   "name": "pop",
+   "frame": 10991,
+   "gain": 0.8
+  },
+  {
+   "name": "pop",
+   "frame": 11085,
+   "gain": 0.8
+  },
+  {
+   "name": "heartbeat",
+   "frame": 11193,
+   "gain": 0.85
+  },
+  {
+   "name": "riser",
+   "frame": 11341,
+   "gain": 0.7
+  },
+  {
+   "name": "boom",
+   "frame": 11383,
+   "gain": 0.9
+  },
+  {
+   "name": "whoosh",
+   "frame": 11451,
+   "gain": 0.6
+  },
+  {
+   "name": "news",
+   "frame": 11459,
+   "gain": 0.85
+  },
+  {
+   "name": "boom",
+   "frame": 11564,
+   "gain": 0.85
+  },
+  {
+   "name": "whoosh",
+   "frame": 11725,
+   "gain": 0.85
+  },
+  {
+   "name": "impact",
+   "frame": 11825,
+   "gain": 0.85
+  },
+  {
+   "name": "impact",
+   "frame": 11980,
+   "gain": 0.8
+  },
+  {
+   "name": "impact",
+   "frame": 12063,
+   "gain": 0.8
+  },
+  {
+   "name": "whoosh",
+   "frame": 12106,
+   "gain": 0.85
+  },
+  {
+   "name": "pop",
+   "frame": 12162,
+   "gain": 0.8
+  },
+  {
+   "name": "pop",
+   "frame": 12335,
+   "gain": 0.8
+  },
+  {
+   "name": "pop",
+   "frame": 12519,
+   "gain": 0.8
+  },
+  {
+   "name": "down",
+   "frame": 12642,
+   "gain": 0.85
+  },
+  {
+   "name": "pop",
+   "frame": 12735,
+   "gain": 0.8
+  },
+  {
+   "name": "pop",
+   "frame": 12949,
+   "gain": 0.8
+  },
+  {
+   "name": "pop",
+   "frame": 12992,
+   "gain": 0.8
+  },
+  {
+   "name": "pop",
+   "frame": 13053,
+   "gain": 0.8
+  },
+  {
+   "name": "boom",
+   "frame": 13254,
+   "gain": 0.85
+  },
+  {
+   "name": "riser",
+   "frame": 13374,
+   "gain": 0.7
+  },
+  {
+   "name": "boom",
+   "frame": 13416,
+   "gain": 0.9
+  },
+  {
+   "name": "whoosh",
+   "frame": 13484,
+   "gain": 0.6
+  },
+  {
+   "name": "cash",
+   "frame": 13492,
+   "gain": 0.85
+  },
+  {
+   "name": "cash",
+   "frame": 13566,
+   "gain": 0.85
+  },
+  {
+   "name": "whoosh",
+   "frame": 13830,
+   "gain": 0.85
+  },
+  {
+   "name": "boom",
+   "frame": 13972,
+   "gain": 0.85
+  },
+  {
+   "name": "cash",
+   "frame": 14124,
+   "gain": 0.85
+  },
+  {
+   "name": "whoosh",
+   "frame": 14255,
+   "gain": 0.85
+  },
+  {
+   "name": "stamp",
+   "frame": 14356,
+   "gain": 0.9
+  },
+  {
+   "name": "riser",
+   "frame": 14423,
+   "gain": 0.85
+  },
+  {
+   "name": "riser",
+   "frame": 14540,
+   "gain": 0.7
+  },
+  {
+   "name": "boom",
+   "frame": 14582,
+   "gain": 0.9
+  },
+  {
+   "name": "whoosh",
+   "frame": 14650,
+   "gain": 0.6
+  },
+  {
+   "name": "whoosh",
+   "frame": 14658,
+   "gain": 0.85
+  },
+  {
+   "name": "check",
+   "frame": 14862,
+   "gain": 0.8
+  },
+  {
+   "name": "check",
+   "frame": 14931,
+   "gain": 0.8
+  },
+  {
+   "name": "check",
+   "frame": 15037,
+   "gain": 0.8
+  },
+  {
+   "name": "check",
+   "frame": 15116,
+   "gain": 0.8
+  },
+  {
+   "name": "check",
+   "frame": 15183,
+   "gain": 0.8
+  },
+  {
+   "name": "boom",
+   "frame": 15302,
+   "gain": 0.85
+  },
+  {
+   "name": "pops",
+   "frame": 15389,
+   "gain": 0.85
+  },
+  {
+   "name": "click",
+   "frame": 15600,
+   "gain": 0.85
+  },
+  {
+   "name": "neon",
+   "frame": 15766,
+   "gain": 0.85
+  },
+  {
+   "name": "boom",
+   "frame": 15827,
+   "gain": 0.7
+  }
+ ],
+ "chapters": [
+  {
+   "title": "INTRO",
+   "frame": 0
+  },
+  {
+   "title": "CAPÍTULO 1 — 13 años de silencio",
+   "frame": 1218
+  },
+  {
+   "title": "CAPÍTULO 2 — La filtración",
+   "frame": 2989
+  },
+  {
+   "title": "CAPÍTULO 3 — El tráiler que rompió internet",
+   "frame": 4554
+  },
+  {
+   "title": "CAPÍTULO 4 — Los retrasos",
+   "frame": 6212
+  },
+  {
+   "title": "CAPÍTULO 5 — Bienvenidos a Leonida",
+   "frame": 7611
+  },
+  {
+   "title": "CAPÍTULO 6 — Jason y Lucia",
+   "frame": 9555
+  },
+  {
+   "title": "CAPÍTULO 7 — El veredicto",
+   "frame": 11381
+  },
+  {
+   "title": "CAPÍTULO 8 — Los números de una locura",
+   "frame": 13414
+  },
+  {
+   "title": "ANTES DE JUGAR — Lo que tienes que saber",
+   "frame": 14580
+  }
+ ],
+ "title": {
+  "from": 1038,
+  "dur": 180
+ },
+ "endcard": {
+  "from": 15825,
+  "dur": 390
+ },
+ "total": 16215
+}
