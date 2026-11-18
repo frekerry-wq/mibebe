@@ -42,7 +42,7 @@ export const Thumbnail: React.FC = () => {
       >
         99
       </div>
-      <div style={{ position: "absolute", right: 60, top: 520, fontFamily: FONT.head, fontSize: 64, color: C.white, textShadow: outline(5, "#0a0418"), rotate: "6deg" }}>¿EL MEJOR DE LA HISTORIA?</div>
+      <div style={{ position: "absolute", right: 50, top: 520, width: 420, textAlign: "center", fontFamily: FONT.head, fontSize: 58, lineHeight: 1.05, color: C.yellow, textShadow: outline(5, "#0a0418"), rotate: "6deg" }}>¿EL MEJOR DE LA HISTORIA?</div>
     </AbsoluteFill>
   );
 };
