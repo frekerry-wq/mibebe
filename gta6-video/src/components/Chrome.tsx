@@ -50,9 +50,8 @@ export const Captions: React.FC = () => {
               key={i}
               style={{
                 display: "inline-block",
-                marginRight: 14,
+                marginRight: 16,
                 color: active ? C.yellow : said ? C.white : "rgba(255,246,239,0.55)",
-                scale: active ? "1.08" : "1",
               }}
             >
               {w.w}
